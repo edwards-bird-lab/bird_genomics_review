@@ -61,7 +61,7 @@ mitogenomes <- tbl_df(read.csv("NCBI_mitogenomes_all_03Jan2021.csv", header = T)
 assembly_stats <- tbl_df(read.csv("NCBI_AssemblyData_all_04Jan2021.csv", header = T)) 
 ```
 
-# 3\. Cumulative number of genomes per year
+### 3\. Cumulative number of genomes per year
 
 ``` r
 genomes_by_year <- genomes %>% group_by(X.Organism.Name) %>% filter(ReleaseOrder==min(ReleaseOrder)) %>% group_by(Year,Organism.Groups) %>% tally() %>% group_by(Organism.Groups) %>% mutate(cum=cumsum(n))
