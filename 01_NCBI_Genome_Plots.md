@@ -4,44 +4,6 @@ Rev. Ecol. Syst. Evol
 G. A. Bravo, C. J. Schmitt, S. V. Edwards
 01/05/2021
 
-<style type="text/css">
-
-body{ /* Normal  */
-      font-size: 14px;
-  }
-td {  /* Table  */
-  font-size: 10px;
-}
-h1.title {
-  font-size: 22px;
-  color: DarkBlue;
-  font-family: Arial, Helvetica, sans-serif;
-}
-h1 { /* Header 1 */
-  font-size: 18px;
-  font-weight: bold;
-  font-family: Arial, Helvetica, sans-serif;
-}
-h2 { /* Header 2 */
-  font-size: 16px;
-  font-family: Arial, Helvetica, sans-serif;
-  font-style: oblique;
-}
-h3 { /* Header 3 */
-  font-size: 14px;
-  font-family: Arial, Helvetica, sans-serif;
-  font-style: oblique;
-}
-code.r{ /* Code block */
-    font-size: 14px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-stretch: expanded;
-}
-pre { /* Code block - determines code spacing between lines */
-    font-size: 14px;
-    font-family: Arial, Helvetica, sans-serif;
-}
-</style>
 
 # **This script creates summary plots of the associated information from genomes housed at NCBI**
 
@@ -81,7 +43,7 @@ testudines):
 These files were merged into
 **NCBI\_mitogenomes\_all\_03Jan2021.csv**
 
-# 1\. Setting working directory and loading packages:
+### 1\. Setting working directory and loading packages:
 
 ``` r
 setwd("~/Dropbox/AREES_review_2020/R_AREES_review_2020/bird_genomics_review")
@@ -91,7 +53,7 @@ library(scales)
 library(ggthemes)
 ```
 
-# 2\. Reading Data
+### 2\. Reading Data
 
 ``` r
 genomes <- tbl_df(read.csv("NCBI_all_Genomes_04Jan2021.csv", header = T)) 
@@ -122,7 +84,7 @@ plot_genomes_year
 
 ![](01_NCBI_Genome_Plots_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
 
-# 4\. Cumulative number of mitogenomes per year
+### 4\. Cumulative number of mitogenomes per year
 
 ``` r
 mitogenomes_by_year <- mitogenomes %>% group_by(organism) %>% filter(ReleaseOrder==min(ReleaseOrder)) %>% group_by(year,Organism.Groups) %>% tally() %>% group_by(Organism.Groups) %>% mutate(cum=cumsum(n))
@@ -144,7 +106,7 @@ plot_mitogenomes_year
 
 ![](01_NCBI_Genome_Plots_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
 
-# 5\. Contig N50 per year across avian assemblies
+### 5\. Contig N50 per year across avian assemblies
 
 ``` r
 genome_stats_aves <- assembly_stats %>% filter(Organism.Groups == "Aves")
@@ -163,7 +125,7 @@ plot_contigN50_year
 
 ![](01_NCBI_Genome_Plots_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
 
-# 6\. Scaffold N50 vs Contig N50 across avian assemblies
+### 6\. Scaffold N50 vs Contig N50 across avian assemblies
 
 ``` r
 plot_scaffoldN50_contigN50_year <- ggplot(genome_stats_aves, aes(x=log(ScaffoldN50), y=log(ContigN50), color=long_reads)) +
