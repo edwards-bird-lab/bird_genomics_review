@@ -9,7 +9,7 @@ The data: phylogenomic_stats.csv
 
 The R code:
 
-```
+``` {R}
 ## load packages
 library(tidyverse)
 library(ggthemes)
