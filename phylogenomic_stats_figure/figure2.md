@@ -53,4 +53,4 @@ ggplot(data=phylogenomic_stats) +
   theme_bw()
 ```
 Figure 2: \
-![Figure 2](https://github.com/schmitt8/bird_genomics_review/blob/main/phylogenomic_stats_figure/Fig2.png)
+![Figure 2](https://github.com/edwards-bird-lab/bird_genomics_review/blob/main/phylogenomic_stats_figure/Fig2.png)
