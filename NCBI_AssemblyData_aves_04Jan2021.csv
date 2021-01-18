@@ -1,0 +1,638 @@
+Assembly,Organism,SpeciesName,Coverage,SubmissionDate,SubmitterOrganization,ContigN50,ScaffoldN50,BioSample,GenBank assembly accession,RefSeq assembly accession,sequencing_tech,long_reads
+GCF_000238935.1,Melopsittacus undulatus (budgerigar),Melopsittacus undulatus,23,1/2/12 0:00,"The Genome Institute, Washington University at St. Louis",55633,10614383,SAMN02981360,GCA_000238935.1,GCF_000238935.1,454; Illumina,no
+GCF_000277835.1,Geospiza fortis (medium ground-finch),Geospiza fortis,115,7/25/12 0:00,Beijing Genomics Institute,30521,5255844,SAMN00839579,GCA_000277835.1,GCF_000277835.1,Illumina HiSeq 2000,no
+GCF_000331425.1,Pseudopodoces humilis (Tibetan ground-tit),Pseudopodoces humilis,96.25,1/11/13 0:00,Beijing Genomics Institute (BGI)-Shenzhen,165265,16337386,SAMN02981490,GCA_000331425.1,GCF_000331425.1,Illumina HiSeq,no
+GCF_000337975.1,Falco cherrug (Saker falcon),Falco cherrug,147,2/5/13 0:00,BGI,31327,4154532,SAMN02981426,GCA_000337975.1,GCF_000337975.1,Illumina HiSeq,no
+GCF_000337955.1,Falco peregrinus (peregrine falcon),Falco peregrinus,137.6,2/5/13 0:00,BGI,28645,3935757,SAMN02981425,GCA_000337955.1,GCF_000337955.1,Illumina HiSeq,no
+GCF_000151805.1,Taeniopygia guttata (zebra finch),Taeniopygia guttata,5.5,2/8/13 0:00,Washington University Genome Sequencing Center,38644,8236790,SAMN02981239,GCA_000151805.2,GCF_000151805.1,Sanger,no
+GCF_000355885.1,Anas platyrhynchos (mallard),Anas platyrhynchos,60,4/26/13 0:00,"State Key Laboratory for Agrobiotechnology, China Agricultural University, Beijing",26114,1233631,SAMN00011637,GCA_000355885.1,GCF_000355885.1,Solexa,no
+GCF_000385455.1,Zonotrichia albicollis (white-throated sparrow),Zonotrichia albicollis,63,4/30/13 0:00,White-throated sparrow consortium,112748,4866725,SAMN02981528,GCA_000385455.1,GCF_000385455.1,Illumina,no
+GCA_000400545.1,Ara macao (Scarlet macaw),Ara macao,16,5/20/13 0:00,Texas A&M University,6366,6366,SAMN02981465,GCA_000400545.1,NA,454; Illumina GAIIx; Illumina HiSeq2000,no
+GCA_000400695.1,Ara macao (Scarlet macaw),Ara macao,26,6/26/13 0:00,Texas A&M University,4399,15974,SAMN03000706,GCA_000400695.1,NA,454 GS FLX Titanium; Illumina GAIIx; Illumina HiSeq 2000,no
+GCF_000247815.1,Ficedula albicollis (Collared flycatcher),Ficedula albicollis,60,6/27/13 0:00,Uppsala University,410964,6542656,SAMN02981387,GCA_000247815.2,GCF_000247815.1,Illumina GAII; Illumina HiSeq,no
+GCF_000534875.1,Serinus canaria (Common canary),Serinus canaria,30,1/15/14 0:00,MPI MOLGEN,53884,17815079,SAMEA3138919,GCA_000534875.1,GCF_000534875.1,NA,NA
+GCA_000586395.1,Lyrurus tetrix tetrix (black grouse),Lyrurus tetrix,50,3/8/14 0:00,Uppsala University,1029,1029,SAMN01814332,GCA_000586395.1,NA,SOLiD,no
+GCA_000599485.1,Colinus virginianus (northern bobwhite),Colinus virginianus,77,3/20/14 0:00,Texas A&M University,6034,6260,SAMN02981558,GCA_000599485.1,NA,Illumina HiSeq,no
+GCF_000687285.1,Phaethon lepturus (White-tailed tropicbird),Phaethon lepturus,39,5/8/14 0:00,BGI,22941,47896,SAMN02339888,GCA_000687285.1,GCF_000687285.1,Illumina HiSeq,no
+GCA_000687265.1,Phoenicopterus ruber ruber (American flamingo),Phoenicopterus ruber,33,5/8/14 0:00,BGI,20262,38071,SAMN02339890,GCA_000687265.1,NA,Illumina HiSeq,no
+GCF_000687205.1,Tyto alba (Barn owl),Tyto alba,27,5/8/14 0:00,BGI,17226,52818,SAMN02339894,GCA_000687205.1,GCF_000687205.1,Illumina HiSeq,no
+GCF_000687185.1,Egretta garzetta (little egret),Egretta garzetta,74,5/9/14 0:00,"College of Medicine and Forensics, Xi'an Jiaotong University",29019,3067157,SAMN02596466,GCA_000687185.1,GCF_000687185.1,Illumina HiSeq,no
+GCF_000687375.1,Pelecanus crispus (Dalmatian pelican),Pelecanus crispus,34,5/9/14 0:00,BGI,21679,43364,SAMN02339887,GCA_000687375.1,GCF_000687375.1,Illumina HiSeq,no
+GCF_000690535.1,Cariama cristata (Red-legged seriema),Cariama cristata,24,5/12/14 0:00,BGI,24645,55197,SAMN02318733,GCA_000690535.1,GCF_000690535.1,Illumina HiSeq,no
+GCF_000690715.1,Colius striatus (speckled mousebird),Colius striatus,27,5/13/14 0:00,BGI,25860,46063,SAMN02324230,GCA_000690715.1,GCF_000690715.1,Illumina HiSeq,no
+GCF_000690775.1,Eurypyga helias (sunbittern),Eurypyga helias,33,5/13/14 0:00,BGI,24402,47243,SAMN02324546,GCA_000690775.1,GCF_000690775.1,Illumina HiSeq,no
+GCF_000690835.1,Fulmarus glacialis (Northern fulmar),Fulmarus glacialis,33,5/13/14 0:00,BGI,25926,47208,SAMN02324803,GCA_000690835.1,GCF_000690835.1,Illumina HiSeq,no
+GCF_000690875.1,Gavia stellata (red-throated loon),Gavia stellata,33,5/13/14 0:00,BGI,24321,45532,SAMN02324832,GCA_000690875.1,GCF_000690875.1,Illumina HiSeq,no
+GCF_000691405.1,Haliaeetus albicilla (white-tailed eagle),Haliaeetus albicilla,26,5/15/14 0:00,BGI,25143,57319,SAMN02333670,GCA_000691405.1,GCF_000691405.1,Illumina HiSeq,no
+GCF_000691845.1,Merops nubicus (carmine bee-eater),Merops nubicus,37,5/16/14 0:00,BGI,24675,48089,SAMN02338310,GCA_000691845.1,GCF_000691845.1,Illumina HiSeq,no
+GCF_000692075.1,Opisthocomus hoazin (hoatzin),Opisthocomus hoazin,100,5/19/14 0:00,BGI,28179,2937227,SAMN02302474,GCA_000692075.1,GCF_000692075.1,Illumina HiSeq,no
+GCF_000691785.1,Leptosomus discolor (cuckoo roller),Leptosomus discolor,32,5/23/14 0:00,BGI,24735,62640,SAMN02333687,GCA_000691785.1,GCF_000691785.1,Illumina HiSeq,no
+GCF_000695815.1,Acanthisitta chloris (rifleman),Acanthisitta chloris,29,5/27/14 0:00,BGI,20602,64469,SAMN02318032,GCA_000695815.1,GCF_000695815.1,Illumina HiSeq,no
+GCA_000696035.1,Aquila chrysaetos canadensis (golden eagle),Aquila chrysaetos,39,5/30/14 0:00,Purdue University,16346,1746960,SAMN02371870,GCA_000696035.1,NA,Illumina HiSeq,no
+GCF_000695195.1,Chlamydotis macqueenii (Macqueen's bustard),Chlamydotis macqueenii,27,6/2/14 0:00,BGI,21641,45221,SAMN02324157,GCA_000695195.1,GCF_000695195.1,Illumina HiSeq,no
+GCF_000691975.1,Corvus brachyrhynchos (American crow),Corvus brachyrhynchos,80,6/2/14 0:00,BGI,29093,6953989,SAMN02297499,GCA_000691975.1,GCF_000691975.1,Illumina HiSeq,no
+GCF_000695765.1,Mesitornis unicolor (brown roatelo),Mesitornis unicolor,29,6/2/14 0:00,BGI,22740,47102,SAMN02339298,GCA_000695765.1,GCF_000695765.1,Illumina HiSeq,no
+GCF_000696875.1,Nestor notabilis (Kea),Nestor notabilis,32,6/5/14 0:00,BGI,26546,61475,SAMN02339299,GCA_000696875.1,GCF_000696875.1,Illumina HiSeq,no
+GCF_000699145.1,Aptenodytes forsteri (emperor penguin),Aptenodytes forsteri,60,6/6/14 0:00,BGI,31730,5071598,SAMN02596600,GCA_000699145.1,GCF_000699145.1,Illumina HiSeq,no
+GCF_000699085.1,Calypte anna (Anna's hummingbird),Calypte anna,110,6/6/14 0:00,BGI,26738,4052191,SAMN02265252,GCA_000699085.1,GCF_000699085.1,Illumina HiSeq,yes
+GCF_000699005.1,Picoides pubescens (Downy woodpecker),Picoides pubescens,105,6/6/14 0:00,BGI,24809,2093929,SAMN02314405,GCA_000699005.1,GCF_000699005.1,Illumina HiSeq,no
+GCF_000699105.1,Pygoscelis adeliae (Adelie penguin),Pygoscelis adeliae,60,6/6/14 0:00,BGI,22195,5118896,SAMN02596601,GCA_000699105.1,GCF_000699105.1,Illumina HiSeq,no
+GCF_000698965.1,Struthio camelus australis (African ostrich),Struthio camelus,85,6/6/14 0:00,BGI,34997,3593425,SAMN02316164,GCA_000698965.1,GCF_000698965.1,Illumina HiSeq,no
+GCF_000699245.1,Pterocles gutturalis (yellow-throated sandgrouse),Pterocles gutturalis,25,6/9/14 0:00,BGI,26448,49530,SAMN02339892,GCA_000699245.1,GCF_000699245.1,Illumina HiSeq,no
+GCF_000700745.1,Antrostomus carolinensis (chuck-will's-widow),Antrostomus carolinensis,30,6/10/14 0:00,BGI,22156,46345,SAMN02318612,GCA_000700745.1,GCF_000700745.1,Illumina HiSeq,no
+GCA_000699945.1,Cathartes aura (turkey vulture),Cathartes aura,25,6/11/14 0:00,BGI,15248,36359,SAMN02319050,GCA_000699945.1,NA,Illumina HiSeq,no
+GCA_000699545.1,Podiceps cristatus (great crested grebe),Podiceps cristatus,30,6/11/14 0:00,BGI,17412,30087,SAMN02339891,GCA_000699545.1,NA,Illumina HiSeq,no
+GCF_000703405.1,Apaloderma vittatum (bar-tailed trogon),Apaloderma vittatum,28,6/16/14 0:00,BGI,28882,56673,SAMN02318033,GCA_000703405.1,GCF_000703405.1,Illumina HiSeq,no
+GCF_000708225.1,Nipponia nippon (crested ibis),Nipponia nippon,105,6/16/14 0:00,"College of Medicine and Forensics, Xi'an Jiaotong University",29116,5211696,SAMN02596464,GCA_000708225.1,GCF_000708225.1,Illumina HiSeq,no
+GCF_000709325.1,Cuculus canorus (common cuckoo),Cuculus canorus,100,6/17/14 0:00,BGI,38137,2989832,SAMN02298149,GCA_000709325.1,GCF_000709325.1,Illumina HiSeq,no
+GCF_000708925.1,Phalacrocorax carbo (great cormorant),Phalacrocorax carbo,24,6/17/14 0:00,BGI,17343,48427,SAMN02339889,GCA_000708925.1,GCF_000708925.1,Illumina HiSeq,no
+GCF_000709895.1,Balearica regulorum gibbericeps (East African grey crowned-crane),Balearica regulorum,33,6/25/14 0:00,BGI,23333,52178,SAMN02318095,GCA_000709895.1,GCF_000709895.1,Illumina HiSeq,no
+GCF_000710305.1,Buceros rhinoceros silvestris (Rhinoceros hornbill),Buceros rhinoceros,35,6/25/14 0:00,BGI,14587,53203,SAMN02318191,GCA_000710305.1,GCF_000710305.1,Illumina HiSeq,no
+GCF_000709365.1,Tauraco erythrolophus (red-crested turaco),Tauraco erythrolophus,30,6/25/14 0:00,BGI,22885,56334,SAMN02339893,GCA_000709365.1,GCF_000709365.1,Illumina HiSeq,no
+GCF_000692015.1,Manacus vitellinus (golden-collared manakin),Manacus vitellinus,110,8/1/14 0:00,BGI,43697,2558866,SAMN02299332,GCA_001715985.3,GCF_001715985.3,Illumina HiSeq; PacBio,yes
+GCF_000737465.1,Haliaeetus leucocephalus (bald eagle),Haliaeetus leucocephalus,103,8/4/14 0:00,The Bald Eagle Consortium,105493,9145499,SAMN02664716,GCA_000737465.1,GCF_000737465.1,Illumina,no
+GCF_000708025.1,Charadrius vociferus (killdeer),Charadrius vociferus,100,8/5/14 0:00,BGI,39278,3657050,SAMN02296710,GCA_000708025.2,GCF_000708025.1,Illumina HiSeq,no
+GCF_000705375.1,Tinamus guttatus (white-throated tinamou),Tinamus guttatus,100,8/5/14 0:00,BGI,29773,246268,SAMN02316659,GCA_000705375.2,GCF_000705375.1,Illumina HiSeq,no
+GCF_000747805.1,Chaetura pelagica (chimney swift),Chaetura pelagica,106,9/4/14 0:00,BGI,30757,3841852,SAMN03018471,GCA_000747805.1,GCF_000747805.1,Illumina GA II,no
+GCF_000766835.1,Aquila chrysaetos canadensis (golden eagle),Aquila chrysaetos,88,10/14/14 0:00,The Genome Institute - Washington University School of Medicine,172329,9230743,SAMN03079786,GCA_000766835.1,GCF_000766835.1,Illumina,no
+GCA_900067835.1,Ficedula albicollis (Collared flycatcher),Ficedula albicollis,15,4/6/15 0:00,Uppsala University,4718,5639,SAMEA3166399,GCA_900067835.1,NA,NA,NA
+GCF_000971095.1,Anser cygnoides domesticus (Swan goose),Anser cygnoides,107.35,4/8/15 0:00,Anser cygnoides Genome consortium,27608,5202740,SAMN01830643,GCA_000971095.1,GCF_000971095.1,Illumina Hiseq2000,no
+GCA_001039765.2,Apteryx mantelli mantelli (North Island brown kiwi),Apteryx mantelli,37,6/23/15 0:00,MPI-EVA,16159,3956354,SAMEA2560515,GCA_001039765.2,NA,NA,NA
+GCA_001281735.1,Zosterops lateralis melanops (silver-eye),Zosterops lateralis,64,9/14/15 0:00,Imperial College London,34514,3581248,SAMN03389315,GCA_001281735.1,NA,Illumina HiSeq,no
+GCA_001420675.1,Amazona aestiva (blue-fronted amazon),Amazona aestiva,120,10/30/15 0:00,LNCC,26171,1281105,SAMN04014659,GCA_001420675.1,NA,Illumina; 454,no
+GCF_001431845.1,Calidris pugnax (ruff),Calidris pugnax,113,11/4/15 0:00,BGI,109237,10060041,SAMN03491621,GCA_001431845.1,GCF_001431845.1,Illumina Hiseq2000,no
+GCA_001458055.1,Calidris pugnax (ruff),Calidris pugnax,110,11/6/15 0:00,ED,65145,868209,SAMEA3535133,GCA_001458055.1,NA,NA,NA
+GCF_001447265.1,Sturnus vulgaris (Common starling),Sturnus vulgaris,74,11/20/15 0:00,McDonnell Genome Institute - Washington University School of Medicine,151865,3416708,SAMN04029017,GCA_001447265.1,GCF_001447265.1,Illumina,no
+GCF_001577835.2,Coturnix japonica (Japanese quail),Coturnix japonica,73,3/1/16 0:00,McDonnell Genome Institute - Washington University School of Medicine,511217,2975000,SAMN03989050,GCA_001577835.2,GCF_001577835.2,Illumina GA IIx,no
+GCF_001604755.1,Lepidothrix coronata (blue-crowned manakin),Lepidothrix coronata,61,3/31/16 0:00,McDonnell Genome Institute,141849,4972619,SAMN04274560,GCA_001604755.1,GCF_001604755.1,Illumina,no
+GCA_001655115.1,Phylloscopus plumbeitarsus (birds),Phylloscopus plumbeitarsus,30,6/2/16 0:00,University of British Columbia,5094,7450,SAMN04545452,GCA_001655115.1,NA,Illumina HiSeq,no
+GCA_001655135.1,Phylloscopus trochiloides trochiloides (greenish warbler),Phylloscopus trochiloides,30,6/2/16 0:00,University of British Columbia,2938,3610,SAMN04539782,GCA_001655135.1,NA,Illumina HiSeq,no
+GCA_001655095.1,Phylloscopus trochiloides viridanus (greenish warbler),Phylloscopus trochiloides,30,6/2/16 0:00,The University of British Columbia,11055,20629,SAMN02646017,GCA_001655095.1,NA,Illumina HiSeq,no
+GCA_002305835.1,Phylloscopus trochilus acredula (Willow warbler),Phylloscopus trochilus,130,6/8/16 0:00,Lund University,388702,3249743,SAMN04881205,GCA_002305835.1,NA,Illumina HiSeq,no
+GCA_000511605.2,Coturnix japonica (Japanese quail),Coturnix japonica,212,6/29/16 0:00,Tokyo University of Agriculture,32115,3851064,SAMD00009971,GCA_000511605.2,NA,Illumina,no
+GCA_001700915.1,Passer domesticus (House sparrow),Passer domesticus,130,8/31/16 0:00,Sparrow Genome Consortium,51426,6373860,SAMN02929199,GCA_001700915.1,NA,Illumina HiSeq,no
+GCA_001870855.1,Tympanuchus cupido pinnatus (greater prairie chicken),Tympanuchus cupido,95,11/7/16 0:00,Revive & Restore Heath Hen De-extinction Team,47484,12138678,SAMN05433571,GCA_001870855.1,NA,Illumina HiSeq,no
+GCA_001887795.1,Columba livia (rock pigeon),Columba livia,60,12/2/16 0:00,Royal Veterinary College,27697,24540102,SAMN02981415,GCA_001887795.1,NA,Illumina,no
+GCA_001887755.1,Falco peregrinus (peregrine falcon),Falco peregrinus,137.6,12/2/16 0:00,Royal Veterinary College,33994,26776924,SAMN02981425,GCA_001887755.1,NA,Illumina,no
+GCA_002002965.1,Ciconia boyciana (Oriental stork),Ciconia boyciana,13,2/9/17 0:00,"Laboratory of Ecogenetics, Environmental Biology Division, National Institute for Environmental Studies",11009,13257,SAMD00050841,GCA_002002965.1,NA,Illumina Miseq pair-end reads; Ion PGM single reads,no
+GCA_002003005.1,Gallirallus okinawae (Okinawa rail),Gallirallus okinawae,44,2/9/17 0:00,"Laboratory of Ecogenetics, Environmental Biology Division, National Institute for Environmental Studies",6245,6245,SAMD00050839,GCA_002003005.1,NA,Illumina Hiseq pair-end reads; Ion PGM single reads,no
+GCA_002002985.1,Grus japonensis (Red-crowned crane),Grus japonensis,9,2/10/17 0:00,"Laboratory of Ecogenetics, Environmental Biology Division, National Institute for Environmental Studies",8228,8606,SAMD00050840,GCA_002002985.1,NA,Illumina Miseq pair-end reads; Ion PGM single reads,no
+GCA_002021895.1,Calypte anna (Anna's hummingbird),Calypte anna,55,2/28/17 0:00,Pacific Biosciences,5366327,5366327,SAMN02265252,GCA_002021895.1,NA,PacBio,yes
+GCA_002008985.2,Taeniopygia guttata (zebra finch),Taeniopygia guttata,100,2/28/17 0:00,Pacific Biosciences,5807022,5807022,SAMN02981239,GCA_002008985.2,NA,PacBio,yes
+GCA_002029285.1,Patagioenas fasciata monilis (band-tailed pigeon),Patagioenas fasciata,18,3/15/17 0:00,"University of California, Santa Cruz",17937,19987418,SAMN04386172,GCA_002029285.1,NA,Illumina HiSeq,no
+GCA_002023255.2,Corvus cornix cornix (hooded crow),Corvus cornix,52,4/25/17 0:00,"Uppsala University, Evolutionary Biology Centre",8911460,18368925,SAMN02143031,GCA_002023255.2,NA,PacBio; BioNano Genomics,yes
+GCF_002078875.1,Numida meleagris (helmeted guineafowl),Numida meleagris,100,6/1/17 0:00,INRA,234926,7868035,SAMN05969731,GCA_002078875.2,GCF_002078875.1,Illumina HiSeq,no
+GCA_002166845.1,Anser cygnoides (Swan goose),Anser cygnoides,56.2,6/2/17 0:00,Poultry Science Institute,35039,5027881,SAMN02898389,GCA_002166845.1,NA,Illumina MiSeq,no
+GCA_002167245.1,Sporophila hypoxantha (tawny-bellied seedeater),Sporophila hypoxantha,112,6/5/17 0:00,Cornell University,1043501,7965281,SAMN06754710,GCA_002167245.1,NA,Illumina HiSeq; PacBio,yes
+GCA_002173455.1,Nannopterum auritus (double-crested cormorant),Nannopterum auritus,222.8,6/6/17 0:00,UCLA,97559,1990987,SAMN06226698,GCA_002173455.1,NA,Illumina HiSeq,no
+GCA_002174335.1,Nannopterum brasilianus (Neotropic cormorant),Nannopterum brasilianus,170.99,6/6/17 0:00,UCLA,35201,86910,SAMN06832916,GCA_002174335.1,NA,Illumina HiSeq,no
+GCA_002173475.1,Nannopterum harrisi (Galapagos flightless cormorant),Nannopterum harrisi,195.29,6/6/17 0:00,UCLA,100243,4648443,SAMN05301669,GCA_002173475.1,NA,Illumina HiSeq,no
+GCA_002173435.1,Phalacrocorax pelagicus (Pelagic cormorant),Phalacrocorax pelagicus,155.7,6/6/17 0:00,UCLA,67731,1719903,SAMN06832911,GCA_002173435.1,NA,Illumina HiSeq,no
+GCF_002197715.1,Lonchura striata domestica (Bengalese finch),Lonchura striata,142,6/19/17 0:00,HHMI/UCSF,100439,2953339,SAMN06283872,GCA_002197715.1,GCF_002197715.1,Illumina,no
+GCA_002218305.1,Callipepla squamata (scaled quail),Callipepla squamata,292,7/13/17 0:00,Texas A&M University,154132,1035259,SAMN04255336,GCA_002218305.1,NA,Illumina HiSeq,no
+GCA_000599465.2,Colinus virginianus (northern bobwhite),Colinus virginianus,122,7/13/17 0:00,Texas A&M University,56067,2042136,SAMN02981558,GCA_000599465.2,NA,Illumina HiSeq,no
+GCA_002224895.1,Anas platyrhynchos (mallard),Anas platyrhynchos,208,7/25/17 0:00,BGI,38789,2490036,SAMN07337762,GCA_002224895.1,NA,Illumina Hiseq2000,no
+GCA_002224875.1,Anas zonorhyncha (Eastern spot-billed duck),Anas zonorhyncha,220,7/25/17 0:00,BGI,33496,2077029,SAMN07337763,GCA_002224875.1,NA,Illumina Hiseq2000,no
+GCA_002289315.1,Uria lomvia (thick-billed guillemot),Uria lomvia,68,9/11/17 0:00,Cornell University,24899,15847591,SAMN07414775,GCA_002289315.1,NA,Illumina HiSeq,no
+GCA_002372975.1,Strix occidentalis caurina (northern spotted owl),Strix occidentalis,59.3,9/26/17 0:00,California Academy of Sciences,159062,3983020,SAMN05525316,GCA_002372975.1,NA,Illumina HiSeq; Illumina MiSeq,no
+GCA_900205225.1,Saxicola maurus maurus (Siberian stonechat),Saxicola maurus,66,9/28/17 0:00,UNIVERSITY OF OXFORD,96283,10035936,SAMEA94256668,GCA_900205225.1,NA,NA,NA
+GCA_002592135.1,Anser brachyrhynchus (Pink-footed goose),Anser brachyrhynchus,49,10/19/17 0:00,"Aarhus University, Denmark",97462,4974386,SAMN07629812,GCA_002592135.1,NA,Illumina HiSeq,no
+GCA_002631895.1,Agapornis roseicollis (peach-faced lovebird),Agapornis roseicollis,100,10/23/17 0:00,North West University,28585,118346,SAMN06099614,GCA_002631895.1,NA,Illumina HiSeq,no
+GCA_002743455.1,Anas platyrhynchos platyrhynchos (common mallard),Anas platyrhynchos,150,11/3/17 0:00,China Agricultural University,88037,74988519,SAMN07569716,GCA_002743455.1,NA,Illumina HiSeq; 10X Genomics; Bionano,no
+GCA_002798355.1,Gallus gallus (chicken),Gallus gallus,243.8,12/5/17 0:00,Hanyang University,639813,90110113,SAMN07713967,GCA_002798355.1,NA,Illumina HiSeq; PacBio,yes
+GCA_000337935.2,Columba livia (rock pigeon),Columba livia,60,12/13/17 0:00,BGI,26627,14233134,SAMN02981415,GCA_000337935.2,NA,Illumina,no
+GCA_002844005.1,Limosa lapponica baueri (bar-tailed godwit),Limosa lapponica,71,12/15/17 0:00,Universidade Federal do Rio de Janeiro,21257,283007,SAMN05417616,GCA_002844005.1,NA,Illumina,no
+GCA_002849675.1,Acridotheres javanicus (Javan myna),Acridotheres javanicus,103,1/2/18 0:00,National University of Singapore,144184,5538430,SAMN07828064,GCA_002849675.1,NA,Illumina HiSeq,no
+GCA_002850735.1,Zonotrichia albicollis (white-throated sparrow),Zonotrichia albicollis,35,1/3/18 0:00,Georgia Institute of Technology,10896,32860,SAMN05726874,GCA_002850735.1,NA,Illumina HiSeq,no
+GCA_002870145.1,Psittacula krameri (Rose-ringed parakeet),Psittacula krameri,75,1/9/18 0:00,DICE,23132,1191622,SAMN06459718,GCA_002870145.1,NA,Illumina HiSeq,no
+GCF_002901205.1,Cyanistes caeruleus (blue tit),Cyanistes caeruleus,40,1/26/18 0:00,"Dr. Bernd Tmmermann, NGS core facility, MPI Molecular Genetics",105778,16846143,SAMN03734925,GCA_002901205.1,GCF_002901205.1,Illumina HiSeq,no
+GCA_002909625.1,Bambusicola thoracicus (Chinese bamboo-partridge),Bambusicola thoracicus,25,1/31/18 0:00,University of Florida,10597,13160,SAMN07428836,GCA_002909625.1,NA,Illumina NextSeq 500,no
+GCF_000002315.6,Gallus gallus (chicken),Gallus gallus,82,3/27/18 0:00,Genome Reference Consortium,17655422,20785086,SAMN02981218,GCA_000002315.5,GCF_000002315.5,Pacific Biosciences RSII (P6-C4 and P5-C3 chemistry),yes
+GCF_003031625.1,Empidonax traillii (willow flycatcher),Empidonax traillii,124,4/3/18 0:00,UCLA,86564,895074,SAMN08663748,GCA_003031625.1,GCF_003031625.1,Illumina HiSeq,no
+GCF_003259725.1,Athene cunicularia (burrowing owl),Athene cunicularia,46,6/21/18 0:00,Stefan Boerno's shared submissions,64091,42147404,SAMN08961563,GCA_003259725.1,GCF_003259725.1,Illumina,no
+GCA_003264635.1,Pygoscelis adeliae (Adelie penguin),Pygoscelis adeliae,4.12,6/25/18 0:00,Center for Bioinformatics and Integrative Biology,22343,5226700,SAMN06701103,GCA_003264635.1,NA,SOLiD,no
+GCA_003264665.1,Pygoscelis adeliae (Adelie penguin),Pygoscelis adeliae,3.162,6/25/18 0:00,Center for Bioinformatics and Integrative Biology,22339,5226628,SAMN06701102,GCA_003264665.1,NA,SOLiD,no
+GCA_003264555.1,Pygoscelis antarcticus (chinstrap penguin),Pygoscelis antarcticus,3.064,6/25/18 0:00,Center for Bioinformatics and Integrative Biology,22336,5226338,SAMN06701107,GCA_003264555.1,NA,SOLiD,no
+GCA_003264595.1,Pygoscelis antarcticus (chinstrap penguin),Pygoscelis antarcticus,4.665,6/25/18 0:00,Center for Bioinformatics and Integrative Biology,22340,5226391,SAMN06701106,GCA_003264595.1,NA,SOLiD,no
+GCA_003264615.1,Pygoscelis papua (Gentoo penguin),Pygoscelis papua,0.433,6/25/18 0:00,Center for Bioinformatics and Integrative Biology,22339,5226675,SAMN06701104,GCA_003264615.1,NA,SOLiD,no
+GCA_003264685.1,Pygoscelis papua (Gentoo penguin),Pygoscelis papua,9.16,6/25/18 0:00,Center for Bioinformatics and Integrative Biology,22342,5226246,SAMN06701105,GCA_003264685.1,NA,SOLiD,no
+GCA_003264545.1,Spheniscus humboldti (Humboldt's penguin),Spheniscus humboldti,3.121,6/25/18 0:00,Center for Bioinformatics and Integrative Biology,22341,5226396,SAMN06701109,GCA_003264545.1,NA,SOLiD,no
+GCA_003264735.1,Spheniscus humboldti (Humboldt's penguin),Spheniscus humboldti,3.688,6/25/18 0:00,Center for Bioinformatics and Integrative Biology,22339,5226263,SAMN06701108,GCA_003264735.1,NA,SOLiD,no
+GCA_003264535.1,Spheniscus magellanicus (Magellanic penguin),Spheniscus magellanicus,3.857,6/25/18 0:00,Center for Bioinformatics and Integrative Biology,22336,5226289,SAMN06701111,GCA_003264535.1,NA,SOLiD,no
+GCA_003264715.1,Spheniscus magellanicus (Magellanic penguin),Spheniscus magellanicus,3.071,6/25/18 0:00,Center for Bioinformatics and Integrative Biology,22337,5226395,SAMN06701112,GCA_003264715.1,NA,SOLiD,no
+GCA_003264755.1,Spheniscus magellanicus (Magellanic penguin),Spheniscus magellanicus,3.454,6/25/18 0:00,Center for Bioinformatics and Integrative Biology,22337,5226340,SAMN06701110,GCA_003264755.1,NA,SOLiD,no
+GCA_003264655.1,Spheniscus mendiculus (Galapagos penguin),Spheniscus mendiculus,3.971,6/25/18 0:00,Center for Bioinformatics and Integrative Biology,22339,5226231,SAMN06701113,GCA_003264655.1,NA,SOLiD,no
+GCA_003286495.1,Hemignathus virens (Hawaii amakihi),Hemignathus virens,21,7/2/18 0:00,Smithsonian Institution NZP,23480,69780276,SAMN02854552,GCA_003286495.1,NA,Illumina HiSeq; 454,no
+GCA_003342985.1,Apteryx haastii (Great spotted kiwi),Apteryx haastii,38.4,7/26/18 0:00,Harvard University,120127,1371329,SAMN08476452,GCA_003342985.1,NA,Illumina HiSeq,no
+GCA_003342965.1,Apteryx owenii (little spotted kiwi),Apteryx owenii,60.5,7/26/18 0:00,Harvard University,138403,1622467,SAMN08476453,GCA_003342965.1,NA,Illumina HiSeq,no
+GCF_003343035.1,Apteryx rowi (Okarito brown kiwi),Apteryx rowi,54.3,7/26/18 0:00,Harvard University,129376,1672276,SAMN08476454,GCA_003343035.1,GCF_003343035.1,Illumina HiSeq,no
+GCA_003342895.1,Casuarius casuarius (southern cassowary),Casuarius casuarius,54.1,7/26/18 0:00,Harvard University,165721,3704890,SAMN08476455,GCA_003342895.1,NA,Illumina HiSeq,no
+GCA_003342915.1,Crypturellus cinnamomeus (birds),Crypturellus cinnamomeus,47.5,7/26/18 0:00,Harvard University,60620,2401919,SAMN08476456,GCA_003342915.1,NA,Illumina HiSeq,no
+GCF_003342905.1,Dromaius novaehollandiae (emu),Dromaius novaehollandiae,64.8,7/26/18 0:00,Harvard University,172131,3305683,SAMN08476457,GCA_003342905.1,GCF_003342905.1,Illumina HiSeq,no
+GCA_003342815.1,Eudromia elegans (elegant crested-tinamou),Eudromia elegans,68,7/26/18 0:00,Harvard University,126242,3261870,SAMN08476458,GCA_003342815.1,NA,Illumina HiSeq,no
+GCF_003342845.1,Nothoprocta perdicaria (birds),Nothoprocta perdicaria,76.2,7/26/18 0:00,Harvard University,95599,3369196,SAMN08476459,GCA_003342845.1,GCF_003342845.1,Illumina HiSeq,no
+GCA_003342835.1,Pterocnemia pennata (lesser rhea),Pterocnemia pennata,42.4,7/26/18 0:00,Harvard University,68142,3903569,SAMN08476461,GCA_003342835.1,NA,Illumina HiSeq,no
+GCA_003343005.1,Rhea americana (greater rhea),Rhea americana,59.9,7/26/18 0:00,Harvard University,88762,3949999,SAMN08476460,GCA_003343005.1,NA,Illumina HiSeq,no
+GCA_003402825.1,Corvus hawaiiensis (hawaiian crow),Corvus hawaiiensis,80,8/16/18 0:00,University of Hawaii,7737654,7737654,SAMN09383001,GCA_003402825.1,NA,PacBio,yes
+GCA_003413605.1,Chrysolophus pictus (golden pheasant),Chrysolophus pictus,130,8/20/18 0:00,Inner Mongolia Agricultural University,38217,1560063,SAMN02980944,GCA_003413605.1,NA,Illumina HiSeq 2000,no
+GCA_003426825.1,Eopsaltria australis (eastern yellow robin),Eopsaltria australis,100,8/23/18 0:00,Deakin University,641411,987278,SAMN09425179,GCA_003426825.1,NA,Illumina; Nanopore,no
+GCA_003435085.1,Syrmaticus mikado (Mikado pheasant),Syrmaticus mikado,160,8/31/18 0:00,National Taiwan University,107959,11324524,SAMN07211794,GCA_003435085.1,NA,Illumina HiSeq,no
+GCA_003546035.1,Mixornis gularis (Striped tit-babbler),Mixornis gularis,78,9/11/18 0:00,National University of Singapore,71550,2810030,SAMN07281160,GCA_003546035.1,NA,Illumina HiSeq,no
+GCA_003676055.1,Erythrura gouldiae (Gouldian finch),Erythrura gouldiae,56,10/23/18 0:00,CIBIO/InBIO Research Center in Biodiversity and Genetic Resources,137954,17126938,SAMN09689584,GCA_003676055.1,NA,Illumina HiSeq,no
+GCA_003692655.1,Hirundo rustica rustica (Barn swallow),Hirundo rustica,45.4,10/29/18 0:00,University of Milan,6124600,25954216,SAMN09657529,GCA_003692655.1,NA,PacBio Sequel,yes
+GCA_003697955.1,Calidris pygmaea (Spoon-billed sandpiper),Calidris pygmaea,38,10/30/18 0:00,Adam Mickiewicz University,189165,3136279,SAMN09355691,GCA_003697955.1,NA,Illumina HiSeq,no
+GCA_003713305.1,Cicinnurus regius (king bird of paradise),Cicinnurus regius,65,11/6/18 0:00,University of Vienna,465502,3187586,SAMN10096784,GCA_003713305.1,NA,Illumina,no
+GCA_003713285.1,Diphyllodes magnificus (birds),Diphyllodes magnificus,150,11/6/18 0:00,University of Vienna,241639,6488714,SAMN10096783,GCA_003713285.1,NA,Illumina,no
+GCA_003713265.1,Paradisaea raggiana (Raggiana bird of paradise),Paradisaea raggiana,36,11/6/18 0:00,University of Vienna,96622,882045,SAMN10096787,GCA_003713265.1,NA,Illumina,no
+GCA_003713215.1,Paradisaea rubra (red bird of paradise),Paradisaea rubra,96,11/6/18 0:00,University of Vienna,415330,3264865,SAMN10096786,GCA_003713215.1,NA,Illumina,no
+GCA_003713295.1,Parotia lawesii (Lawes's parotia),Parotia lawesii,97,11/6/18 0:00,University of Vienna,432029,3066654,SAMN10096785,GCA_003713295.1,NA,Illumina,no
+GCA_003829775.1,Junco hyemalis (dark-eyed junco),Junco hyemalis,233,11/26/18 0:00,National Museum of Natural Sciences,80164,71317294,SAMN10120167,GCA_003829775.1,NA,Illumina HiSeq,no
+GCF_003850225.1,Anas platyrhynchos (mallard),Anas platyrhynchos,50,11/29/18 0:00,"Institute of Animal Sciences (IAS), Chinese Academy of Agricultural Sciences (CAAS)",36811,76129154,SAMN10245527,GCA_003850225.1,GCF_003850225.1,PacBio; BioNano; Hi-C,yes
+GCA_003947215.1,Amazona collaria (yellow-billed parrot),Amazona collaria,40,12/14/18 0:00,Weill Cornell Medicine,208912,13267695,SAMN10023852,GCA_003947215.1,NA,Chromium 10X,no
+GCF_003945725.1,Corapipo altera (White-ruffed manakin),Corapipo altera,56,12/14/18 0:00,Smithsonian Institution,262501,12385833,SAMN10424454,GCA_003945725.1,GCF_003945725.1,Illumina HiSeq,no
+GCA_003957575.1,Calypte anna (Anna's hummingbird),Calypte anna,54,12/20/18 0:00,Vertebrate Genomes Project,1463522,1463522,SAMN02265252,GCA_003957575.1,NA,PacBio RSII; 10X Genomics linked reads,yes
+GCA_003957525.1,Taeniopygia guttata (zebra finch),Taeniopygia guttata,88.2,12/20/18 0:00,Vertebrate Genomes Project,3004452,3004452,SAMN02981239,GCA_003957525.1,NA,PacBio RSII; 10X Genomics linked reads,yes
+GCF_003984885.1,Neopelma chrysocephalum (saffron-crested tyrant-manakin),Neopelma chrysocephalum,80,12/28/18 0:00,Smithsonian Institution,237029,10517223,SAMN08784363,GCA_003984885.2,GCF_003984885.1,Illumina HiSeq,no
+GCA_003993805.1,Himantopus himantopus leucocephalus (black-winged stilt),Himantopus himantopus,51,1/4/19 0:00,University of Otago,36551,99457149,SAMN10386166,GCA_003993805.1,NA,Illumina HiSeq,no
+GCA_004011185.1,Strigops habroptila (Kakapo),Strigops habroptila,76.1,1/10/19 0:00,Vertebrate Genomes Project,153928,153928,SAMN09948751,GCA_004011185.1,NA,PacBio RSII; 10X Genomics linked reads,yes
+GCF_001522545.3,Parus major (Great Tit),Parus major,95,1/15/19 0:00,"Animal Breeding and Genomics Centre, Wageningen University",148693,71365269,SAMN03083587,GCA_001522545.3,GCF_001522545.3,Illumina HiSeq,no
+GCA_004023745.1,Recurvirostra avosetta (Pied Avocet),Recurvirostra avosetta,78,1/15/19 0:00,ConSERT,10462,96778,SAMN10518521,GCA_004023745.1,NA,Illumina NextSeq,no
+GCF_004143745.1,Phasianus colchicus (Ring-necked pheasant),Phasianus colchicus,93,2/6/19 0:00,Shenzhen University,197843,10682894,SAMN08888240,GCA_004143745.1,GCF_004143745.1,Illumina HiSeq,no
+GCA_004320205.1,Lagopus muta japonica (rock ptarmigan),Lagopus muta,71,2/15/19 0:00,"Environmental Genomics Office, Center for Environmental Biology and Ecosystem Studies, National Institute for Environmental Studies",56225,63289,SAMD00156785,GCA_004320205.1,NA,Illumina Miseq pair-end reads; Illumina HiseqX pair-end reads,no
+GCA_004320125.1,Scolopax mira (Amami woodcock),Scolopax mira,55,2/15/19 0:00,"Environmental Genomics Office, Center for Enviromental Biology and Ecosystem Studies, National Institute for Environmental Studies",61187,124759,SAMD00156786,GCA_004320125.1,NA,Illumina HiseqX pair-end reads,no
+GCA_004320145.1,Accipiter nisus (Eurasian sparrowhawk),Accipiter nisus,52,2/16/19 0:00,"Environmental Genomics Office, Center for Enviromental Biology and Ecosystem Studies, National Institute for Environmental Studies",35336,91241,SAMD00156791,GCA_004320145.1,NA,HiseqX pair-end reads,no
+GCA_004320225.1,Bubo blakistoni (Blakiston's fish-owl),Bubo blakistoni,94,2/16/19 0:00,"Environmental Genomics Office, Center for Environmental Biology and Ecosystem Studies, National Institute for Environmental Studies",65049,85182,SAMD00160568,GCA_004320225.1,NA,Illumina Miseq pair-end reads; Illumina HiseqX pair-end reads,no
+GCA_004320165.1,Dendrocopos noguchii (Okinawa woodpecker),Dendrocopos noguchii,74,2/16/19 0:00,"Environmental Genomics Office, Center for Enviromental Biology and Ecosystem Studies, National Institute for Environmental Studies",18451,20195,SAMD00156787,GCA_004320165.1,NA,Illumina Miseq pair-end reads; Illumina HiseqX pair-end reads,no
+GCA_004320185.1,Haliaeetus albicilla (white-tailed eagle),Haliaeetus albicilla,47,2/16/19 0:00,"Environmental Genomics Office, Center for Enviromental Biology and Ecosystem Studies, National Institute for Environmental Studies",53802,120761,SAMD00156790,GCA_004320185.1,NA,Illumina HiseqX pair-end reads,no
+GCA_004360235.1,Grus nigricollis (black-necked crane),Grus nigricollis,84,3/22/19 0:00,Sichuan University,17886166,17886166,SAMN11096029,GCA_004360235.1,NA,Oxford Nanopore PromethION; Illumina HiSeq,yes
+GCF_003957555.1,Calypte anna (Anna's hummingbird),Calypte anna,54,5/16/19 0:00,Vertebrate Genomes Project,14522327,74081004,SAMN02265252,GCA_003957555.2,GCF_003957555.1,PacBio RSII; 10X Genomics linked reads; Bionano Genomics DLS; Arima Genomics HiC,yes
+GCA_003957565.3,Taeniopygia guttata (zebra finch),Taeniopygia guttata,88.2,5/17/19 0:00,Vertebrate Genomes Project,11998827,70430603,SAMN02981239,GCA_003957565.3,NA,PacBio RSII; 10X Genomics linked reads; Bionano Genomics DLS; Arima Genomics HiC,yes
+GCA_005519975.1,Pavo cristatus (Indian peafowl),Pavo cristatus,236,5/20/19 0:00,"DEPARTMENT OF BIOCHEMISTRY, ALL INDIA INSTITUTE OF MEDICAL SCIENCES(AIIMS), NEW DELHI, INDIA",103131,190304,SAMN07739105,GCA_005519975.1,NA,Illumina HiSeq; Oxford Nanopore MiniION,yes
+GCA_901699165.1,Streptopelia turtur (birds),Streptopelia turtur,44,6/2/19 0:00,SC,776317,776317,SAMEA994735,GCA_901699165.1,NA,NA,NA
+GCA_006130075.1,Branta canadensis (Canada goose),Branta canadensis,80,6/5/19 0:00,Canada's Genomic Enterprise,220846,15516710,SAMN11031539,GCA_006130075.1,NA,Illumina HiSeq,no
+GCF_005870125.1,Lonchura striata domestica (Bengalese finch),Lonchura striata,151,6/5/19 0:00,HHMI/UCSF,100423,71975342,SAMN11521339,GCA_005870125.1,GCF_005870125.1,Illumina HiSeq,no
+GCA_901699155.1,Streptopelia turtur (birds),Streptopelia turtur,44,6/5/19 0:00,SC,3790373,80150727,SAMEA994735,GCA_901699155.1,NA,NA,NA
+GCA_006229135.1,Anser indicus (Bar-headed goose),Anser indicus,103,6/11/19 0:00,"State Key Laboratory of Plateau Ecology and Agriculture, Qinghai University",120377,10094206,SAMN11890447,GCA_006229135.1,NA,Illumina HiSeq,no
+GCA_005890655.1,Centrocercus minimus (Gunnison sage-grouse),Centrocercus minimus,204,6/14/19 0:00,U.S. Geological Survey,3500535,3849570,SAMN11266852,GCA_005890655.1,NA,Illumina HiSeq; PacBio RSII,yes
+GCF_001715985.3,Manacus vitellinus (golden-collared manakin),Manacus vitellinus,110,7/3/19 0:00,Smithsonian Institution National Museum of Natural History,290580,17883582,SAMN02299332,GCA_000692015.2,GCF_000692015.1,Illumina HiSeq,no
+GCA_902153765.1,Aquila chrysaetos chrysaetos (golden eagle),Aquila chrysaetos,60,7/8/19 0:00,SC,640223,659735,SAMEA994725,GCA_902153765.1,NA,NA,NA
+GCA_006937325.1,Anomalopteryx didiformis (little bush moa),Anomalopteryx didiformis,3.9,7/12/19 0:00,Harvard University,824,3350051,SAMN08482543,GCA_006937325.1,NA,Illumina HiSeq,no
+GCA_006938045.1,Anomalopteryx didiformis (little bush moa),Anomalopteryx didiformis,4,7/12/19 0:00,Harvard University,774,3349349,SAMN08482543,GCA_006938045.1,NA,Illumina HiSeq,no
+GCF_007115625.1,Serinus canaria (Common canary),Serinus canaria,50,7/18/19 0:00,CIBIO-InBIO,90869,79047965,SAMN12017177,GCA_007115625.1,GCF_007115625.1,Illumina HiSeq; PacBio RS; Chicago Sequencing; Dovetail Genomics; HiC Sequencing,no
+GCA_007252995.1,Zosterops borbonicus (birds),Zosterops borbonicus,80,7/22/19 0:00,University of Montpellier,20903,1810786,SAMN11339519,GCA_007252995.1,NA,Illumina HiSeq; PacBio,yes
+GCA_007556475.1,Zosterops pallidus (pale white-eye),Zosterops pallidus,80,7/26/19 0:00,University of Montpellier,26333,379821,SAMN11339534,GCA_007556475.1,NA,Illumina HiSeq,no
+GCA_007636935.1,Tachycineta bicolor (Tree swallow),Tachycineta bicolor,83.6,7/30/19 0:00,Cornell University,16265,34257,SAMN12236919,GCA_007636935.1,NA,Illumina HiSeq,no
+GCA_008033365.1,Pseudorectes ferrugineus (Rusty pitohui),Pseudorectes ferrugineus,23,8/20/19 0:00,National University of Singapore,10773,15139,SAMN09908057,GCA_008033365.1,NA,Illumina,no
+GCF_901933205.1,Camarhynchus parvulus (birds),Camarhynchus parvulus,31,9/6/19 0:00,UPPSALA UNIVERISTY,16035651,70356807,SAMEA5603054,GCA_901933205.1,GCF_901933205.1,NA,NA
+GCA_008360975.1,Lichenostomus cassidix (helmeted honeyeater),Lichenostomus cassidix,100,9/9/19 0:00,Deakin University,7673876,7973128,SAMN12287370,GCA_008360975.1,NA,Illumina NovaSeq; Oxford Nanopore MinION,yes
+GCA_008658355.1,Alca torda (razorbill),Alca torda,64.69,9/23/19 0:00,G10K,1949609,1949609,SAMN12292087,GCA_008658365.1,NA,PacBio Sequel; Illumina NovaSeq; 10X Genome; Arima Hi-C,yes
+GCA_008694505.1,Cyanoderma ruficeps (rufous-capped babbler),Cyanoderma ruficeps,185,9/25/19 0:00,Academia Sinica,194313,15643638,SAMN12816971,GCA_008694505.1,NA,Illumina HiSeq,no
+GCA_008711295.1,Charadrius alexandrinus (Kentish plover),Charadrius alexandrinus,134,9/27/19 0:00,Sun Yat-sen University,129786,3290793,SAMN12714389,GCA_008711295.1,NA,Illumina HiSeq,no
+GCA_008822125.1,Taeniopygia guttata (zebra finch),Taeniopygia guttata,82.5,10/3/19 0:00,Vertebrate Genomes Project,4443179,71341325,SAMN09946140,GCA_008822125.1,NA,PacBio Sequel; 10X genome; Bionano Genomics; Arima Genomics Hi-C; Illumina HiSeq,yes
+GCA_008746955.1,Anas platyrhynchos (mallard),Anas platyrhynchos,100,10/7/19 0:00,China Agricultural University,11467013,77626585,SAMN12287667,GCA_008746955.1,NA,PacBio Sequel,yes
+GCA_008692595.1,Colinus virginianus (northern bobwhite),Colinus virginianus,118,10/7/19 0:00,Louisiana State University,136674,66809948,SAMN09044008,GCA_008692595.1,NA,Illumina HiSeq,no
+GCA_008921705.1,Burhinus oedicnemus (Eurasian thick-knee),Burhinus oedicnemus,137,10/8/19 0:00,International Fund for Houbara Conservation,93678,1937420,SAMN11554498,GCA_008921705.1,NA,Illumina HiSeq,no
+GCA_008658365.1,Alca torda (razorbill),Alca torda,64.69,10/10/19 0:00,G10K,18221265,84526827,SAMN12292087,GCA_008658355.1,NA,PacBio Sequel; Illumina NovaSeq; 10X Genome; Arima Hi-C,yes
+GCF_000146605.3,Meleagris gallopavo (turkey),Meleagris gallopavo,35,10/21/19 0:00,Turkey Genome Consortium,27076,3898092,SAMN02981253,GCA_000146605.4,GCF_000146605.3,Illumina GAII; Sanger; 454,no
+GCA_009430485.1,Anthochaera phrygia (Regent honeyeater),Anthochaera phrygia,1,10/31/19 0:00,The Australian National University,944,4482,SAMN12070213,GCA_009430485.1,NA,Illumina HiSeq,no
+GCA_009650515.1,Corvus moneduloides (New Caledonian crow),Corvus moneduloides,100,11/12/19 0:00,University of Otago,331397,4457533,SAMN12418287,GCA_009650515.1,NA,Illumina HiSeq,no
+GCA_009651025.1,Corvus moneduloides (New Caledonian crow),Corvus moneduloides,62.08,11/12/19 0:00,Vertebrate Genomes Project,2563033,2563033,SAMN12368441,GCA_009651025.1,NA,PacBio Sequel I; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_902168055.1,Aratinga solstitialis (sun parakeet),Aratinga solstitialis,100,11/14/19 0:00,INSTITUT DE BIOLOGIA EVOLUTIVA (CSIC-UPF),236229,16980747,SAMEA5743801,GCA_902168055.1,NA,NA,NA
+GCF_009650955.1,Corvus moneduloides (New Caledonian crow),Corvus moneduloides,62.08,11/14/19 0:00,Vertebrate Genomes Project,11524098,74699841,SAMN12368441,GCA_009650955.1,GCF_009650955.1,PacBio Sequel I; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_009690805.1,Hemignathus wilsoni (Akiapolaau),Hemignathus wilsoni,134,11/22/19 0:00,Smithsonian Institution,69851,3340285,SAMN10867508,GCA_009690805.1,NA,Illumina,no
+GCA_009194515.1,Cairina moschata domestica (Muscovy Duck (domestic type)),Cairina moschata,100,11/25/19 0:00,McDonnell Genome Institute - Washington University School of Medicine,89133,2417665,SAMN08035743,GCA_009194515.1,NA,Illumina HiSeq,no
+GCA_009741485.1,Malurus cyaneus samueli (Superb fairywren),Malurus cyaneus,51.2,12/12/19 0:00,Australian National University,210412,68113514,SAMN12217597,GCA_009741485.1,NA,Illumina HiSeq; Illumina MiSeq; PacBio RSII,yes
+GCA_009764545.1,Geothlypis trichas (common yellowthroat),Geothlypis trichas,52.11,12/18/19 0:00,G10K,1049351,1049351,SAMN12631222,GCA_009764595.1,NA,PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_009764505.1,Tauraco erythrolophus (red-crested turaco),Tauraco erythrolophus,65.99,12/18/19 0:00,Vertebrate Genomes Project,1233539,1233539,SAMN12621036,GCA_009769465.1,NA,PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_009769595.1,Bucorvus abyssinicus (Abyssinian ground-hornbill),Bucorvus abyssinicus,66,12/19/19 0:00,Vertebrate Genomes Project,954952,954952,SAMN12614799,GCA_009769605.1,NA,PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_009769485.1,Cygnus olor (mute swan),Cygnus olor,60.23,12/19/19 0:00,Vertebrate Genomes Project,328714,328714,SAMN12621369,GCA_009769625.1,NA,PacBio Sequel 1 CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_009764595.1,Geothlypis trichas (common yellowthroat),Geothlypis trichas,52.11,12/19/19 0:00,G10K,3247339,72541719,SAMN12631222,GCA_009764545.1,NA,PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_009769505.1,Pterocles gutturalis (yellow-throated sandgrouse),Pterocles gutturalis,70.94,12/19/19 0:00,Vertebrate Genomes Project,1147717,1147717,SAMN12623217,GCA_009769525.1,NA,PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_009769465.1,Tauraco erythrolophus (red-crested turaco),Tauraco erythrolophus,65.99,12/19/19 0:00,Vertebrate Genomes Project,11927027,85562082,SAMN12621036,GCA_009764505.1,NA,PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_009819845.1,Aythya fuligula (tufted duck),Aythya fuligula,64.03,12/23/19 0:00,Vertebrate Genomes Project,4453028,4453028,SAMN12621346,GCA_009819845.1,NA,PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_009769605.1,Bucorvus abyssinicus (Abyssinian ground-hornbill),Bucorvus abyssinicus,66,12/23/19 0:00,Vertebrate Genomes Project,12039478,40274051,SAMN12614799,GCA_009769595.1,NA,PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_009819485.1,Cariama cristata (Red-legged seriema),Cariama cristata,50.93,12/23/19 0:00,Vertebrate Genomes Project,1876668,1876668,SAMN12614807,GCA_009819825.1,NA,PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_009769625.1,Cygnus olor (mute swan),Cygnus olor,60.23,12/23/19 0:00,Vertebrate Genomes Project,7743145,81035313,SAMN12621369,GCA_009769485.1,NA,PacBio Sequel; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_009792885.1,Eremophila alpestris peregrina (horned lark),Eremophila alpestris,135,12/23/19 0:00,Cornell University,193817,9421811,SAMN12913182,GCA_009792885.1,NA,Illumina HiSeq,no
+GCA_009819585.1,Merops nubicus (carmine bee-eater),Merops nubicus,60.12,12/23/19 0:00,Vertebrate Genomes Project,1966515,1966515,SAMN12621035,GCA_009819595.1,NA,PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_009819805.1,Phoenicopterus ruber ruber (American flamingo),Phoenicopterus ruber,61.27,12/23/19 0:00,G10K,1417567,1417567,SAMN12614931,GCA_009819805.1,NA,PacBio Sequel; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_009769525.1,Pterocles gutturalis (yellow-throated sandgrouse),Pterocles gutturalis,70.94,12/23/19 0:00,Vertebrate Genomes Project,12131577,43262132,SAMN12623217,GCA_009769505.1,NA,PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_009819645.1,Sterna hirundo (Common tern),Sterna hirundo,67.91,12/23/19 0:00,Vertebrate Genomes Project,5650192,5650192,SAMN12369541,GCA_009819645.1,NA,PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_009819715.1,Sylvia atricapilla (blackcap),Sylvia atricapilla,66.29,12/23/19 0:00,Vertebrate Genomes Project,1545467,1545467,SAMN12369542,GCA_009819715.1,NA,PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_009806455.1,Tetrax tetrax (birds),Tetrax tetrax,85,12/27/19 0:00,International Fund for Houbara Conservation,43434,389676,SAMN11607794,GCA_009806455.1,NA,Illumina HiSeq,no
+GCF_009819795.1,Aythya fuligula (tufted duck),Aythya fuligula,64.03,12/31/19 0:00,Vertebrate Genomes Project,17816505,85905639,SAMN12621346,GCA_009819795.1,GCF_009819795.1,PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_009819825.1,Cariama cristata (Red-legged seriema),Cariama cristata,50.93,12/31/19 0:00,Vertebrate Genomes Project,13514148,30176635,SAMN12614807,GCA_009819485.1,NA,PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_009819595.1,Merops nubicus (carmine bee-eater),Merops nubicus,60.12,12/31/19 0:00,Vertebrate Genomes Project,12372304,49132790,SAMN12621035,GCA_009819585.1,NA,PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_009823435.1,Nymphicus hollandicus (cockatiel),Nymphicus hollandicus,240,12/31/19 0:00,IRIDIAN GENOMES,38997,3634611,SAMN09580626,GCA_009823435.1,NA,Illumina,no
+GCA_009819775.1,Phoenicopterus ruber ruber (American flamingo),Phoenicopterus ruber,61.27,12/31/19 0:00,Vertebrate Genomes Project,14700712,85472901,SAMN12614931,GCA_009819775.1,NA,PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_009812075.1,Sialia sialis (eastern bluebird),Sialia sialis,114,12/31/19 0:00,Louisiana State University,53982,32306702,SAMN12412825,GCA_009812075.1,NA,Illumina HiSeq,no
+GCA_009819605.1,Sterna hirundo (Common tern),Sterna hirundo,67.91,12/31/19 0:00,Vertebrate Genomes Project,22002498,85487239,SAMN12369541,GCA_009819605.1,NA,PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_009819655.1,Sylvia atricapilla (blackcap),Sylvia atricapilla,66.29,12/31/19 0:00,Vertebrate Genomes Project,7345957,72978054,SAMN12369542,GCA_009819655.1,NA,PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_009829205.1,Chiroxiphia lanceolata (lance-tailed manakin),Chiroxiphia lanceolata,67.75,1/3/20 0:00,Vertebrate Genomes Project,1085679,1085679,SAMN12620979,GCA_009829205.1,NA,PacBio Sequel I CLR; llumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCF_009829145.1,Chiroxiphia lanceolata (lance-tailed manakin),Chiroxiphia lanceolata,67.75,1/3/20 0:00,Vertebrate Genomes Project,18496167,75608808,SAMN12620979,GCA_009829145.1,GCF_009829145.1,PacBio Sequel I CLR; llumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_009859025.1,Taeniopygia guttata (zebra finch),Taeniopygia guttata,82.5,1/13/20 0:00,Vertebrate Genomes Project,1021454,1021454,SAMN09946140,GCA_009859025.1,NA,PacBio Sequel I,yes
+GCA_009867205.1,Aratinga weddellii (birds),Aratinga weddellii,2019,1/14/20 0:00,IRIDIAN GENOMES,124592,9081201,SAMN09681954,GCA_009867205.1,NA,Illumina,no
+GCA_009867235.1,Psittacus erithacus (grey parrot),Psittacus erithacus,120,1/14/20 0:00,IRIDIAN GENOMES,175666,6797924,SAMN12165726,GCA_009867235.1,NA,Illumina,no
+GCA_009867315.1,Psittacus timneh (Timneh parrot),Psittacus timneh,80,1/14/20 0:00,IRIDIAN GENOMES,239765,13646571,SAMN12165721,GCA_009867315.1,NA,Illumina,no
+GCA_009936445.1,Anodorhynchus hyacinthinus (hyacinth macaw),Anodorhynchus hyacinthinus,120,1/27/20 0:00,IRIDIAN GENOMES,88936,3229032,SAMN09689126,GCA_009936445.1,NA,Illumina HiSeq,no
+GCA_010014805.1,Ara ararauna (blue-and-yellow macaw),Ara ararauna,110,1/30/20 0:00,IRIDIAN GENOMES,128137,2859019,SAMN10247388,GCA_010014805.1,NA,Illumina,no
+GCA_010014725.1,Ara chloropterus (red-and-green macaw),Ara chloropterus,140,1/30/20 0:00,IRIDIAN GENOMES,1535524,33226762,SAMN11250489,GCA_010014725.1,NA,Illumina,no
+GCA_010015425.1,Ara glaucogularis (Blue-throated macaw),Ara glaucogularis,120,1/30/20 0:00,IRIDIAN GENOMES,87476,19537597,SAMN10247383,GCA_010015425.1,NA,Illumina,no
+GCA_010015965.1,Ara militaris (military macaw),Ara militaris,110,1/30/20 0:00,IRIDIAN GENOMES,177519,4054913,SAMN11250506,GCA_010015965.1,NA,Illumina,no
+GCA_010015045.1,Cacatua leadbeateri (Major Mitchell's cockatoo),Cacatua leadbeateri,110,1/30/20 0:00,IRIDIAN GENOMES,516623,7891727,SAMN11250505,GCA_010015045.1,NA,Illumina,no
+GCA_010014925.1,Lorius garrulus (chattering lory),Lorius garrulus,120,1/30/20 0:00,IRIDIAN GENOMES,122760,5420790,SAMN09580627,GCA_010014925.1,NA,Illumina,no
+GCA_010014875.1,Psitteuteles goldiei (birds),Psitteuteles goldiei,240,1/30/20 0:00,IRIDIAN GENOMES,486424,19094663,SAMN10247382,GCA_010014875.1,NA,Illumina,no
+GCA_010014865.1,Pyrrhura frontalis (maroon-bellied parakeet),Pyrrhura frontalis,120,1/30/20 0:00,IRIDIAN GENOMES,86226,18208294,SAMN09681955,GCA_010014865.1,NA,Illumina,no
+GCA_010014965.1,Pyrrhura griseipectus (Gray-breasted parakeet),Pyrrhura griseipectus,120,1/30/20 0:00,IRIDIAN GENOMES,57804,4077983,SAMN13698507,GCA_010014965.1,NA,Illumina,no
+GCA_010087175.1,Aptenodytes patagonicus (king penguin),Aptenodytes patagonicus,120,1/31/20 0:00,BGI-Shenzhen,133461,2912628,SAMN12384866,GCA_010087175.1,NA,BGISEQ,no
+GCA_010085355.1,Eudyptes chrysocome (Rockhopper penguin),Eudyptes chrysocome,163,1/31/20 0:00,BGI-Shenzhen,80552,1949323,SAMN12384872,GCA_010085355.1,NA,Illumina HiSeq,no
+GCA_010084205.1,Eudyptes chrysolophus (Macaroni penguin),Eudyptes chrysolophus,109,1/31/20 0:00,BGI-Shenzhen,215030,13794837,SAMN12384869,GCA_010084205.1,NA,BGISEQ,no
+GCA_010085365.1,Eudyptes filholi (Southern rockhopper penguin),Eudyptes filholi,164,1/31/20 0:00,BGI-Shenzhen,86112,6429221,SAMN12384873,GCA_010085365.1,NA,Illumina HiSeq,no
+GCA_010082375.1,Eudyptes moseleyi (Northern rockhopper penguin),Eudyptes moseleyi,140,1/31/20 0:00,BGI-Shenzhen,42318,2252023,SAMN12384871,GCA_010082375.1,NA,Illumina HiSeq,no
+GCA_010085335.1,Eudyptes pachyrhynchus (Fiordland penguin),Eudyptes pachyrhynchus,116,1/31/20 0:00,BGI-Shenzhen,58247,8912950,SAMN12384875,GCA_010085335.1,NA,Illumina HiSeq,no
+GCA_010085315.1,Eudyptes robustus (Snares penguin),Eudyptes robustus,139,1/31/20 0:00,BGI-Shenzhen,83286,367542,SAMN12384876,GCA_010085315.1,NA,Illumina HiSeq,no
+GCA_010080425.1,Eudyptes schlegeli (Royal penguin),Eudyptes schlegeli,320,1/31/20 0:00,BGI-Shenzhen,42596,1894246,SAMN12384870,GCA_010080425.1,NA,BGISEQ,no
+GCA_010078445.1,Eudyptes sclateri (Erect-crested penguin),Eudyptes sclateri,132,1/31/20 0:00,BGI-Shenzhen,83178,1921244,SAMN12384874,GCA_010078445.1,NA,Illumina HiSeq,no
+GCA_010080465.1,Eudyptula albosignata (White-flippered penguin),Eudyptula albosignata,101,1/31/20 0:00,BGI-Shenzhen,104210,21866543,SAMN12384880,GCA_010080465.1,NA,BGISEQ,no
+GCA_010080355.1,Eudyptula minor (Little blue penguin),Eudyptula minor,87,1/31/20 0:00,BGI-Shenzhen,95403,21127646,SAMN12384879,GCA_010080355.1,NA,BGISEQ,no
+GCA_010078495.1,Eudyptula novaehollandiae (Australian little penguin),Eudyptula novaehollandiae,138,1/31/20 0:00,BGI-Shenzhen,134160,29280209,SAMN12384878,GCA_010078495.1,NA,BGISEQ,no
+GCA_010078485.1,Megadyptes antipodes antipodes (Yellow-eyed penguin),Megadyptes antipodes,89,1/31/20 0:00,BGI-Shenzhen,89505,23315117,SAMN12384877,GCA_010078485.1,NA,BGISEQ,no
+GCA_010078415.1,Pygoscelis antarcticus (chinstrap penguin),Pygoscelis antarcticus,125,1/31/20 0:00,BGI-Shenzhen,136952,6271244,SAMN12384868,GCA_010078415.1,NA,BGISEQ,no
+GCA_010090195.1,Pygoscelis papua (Gentoo penguin),Pygoscelis papua,105,1/31/20 0:00,BGI-Shenzhen,101329,2789995,SAMN12384867,GCA_010090195.1,NA,BGISEQ,no
+GCA_010077935.1,Spheniscus demersus (jackass penguin),Spheniscus demersus,115,1/31/20 0:00,BGI-Shenzhen,109372,15386364,SAMN12384881,GCA_010077935.1,NA,BGISEQ,no
+GCA_010076325.1,Spheniscus humboldti (Humboldt's penguin),Spheniscus humboldti,172,1/31/20 0:00,BGI-Shenzhen,35021,6229819,SAMN12384883,GCA_010076325.1,NA,Illumina HiSeq,no
+GCA_010076225.1,Spheniscus magellanicus (Magellanic penguin),Spheniscus magellanicus,172,1/31/20 0:00,BGI-Shenzhen,101702,12679469,SAMN12384882,GCA_010076225.1,NA,Illumina HiSeq,no
+GCA_010077915.1,Spheniscus mendiculus (Galapagos penguin),Spheniscus mendiculus,88,1/31/20 0:00,BGI-Shenzhen,81907,381910,SAMN12384884,GCA_010077915.1,NA,BGISEQ,no
+GCA_010303855.1,Bubo bubo (Eurasian eagle-owl),Bubo bubo,104,2/4/20 0:00,GEROMICS,37091,8019613,SAMN08398466,GCA_010303855.1,NA,Illumina HiSeq,no
+GCA_010312235.1,Buteo japonicus (hawks & eagles),Buteo japonicus,90,2/4/20 0:00,GEROMICS,36723,7468869,SAMN08398473,GCA_010312235.1,NA,Illumina HiSeq,no
+GCA_010332995.1,Falco tinnunculus (common kestrel),Falco tinnunculus,148,2/4/20 0:00,GEROMICS,37053,21232185,SAMN08398480,GCA_010332995.1,NA,Illumina HiSeq,no
+GCA_010365825.1,Otus sunia (Oriental scops-owl),Otus sunia,115,2/4/20 0:00,GEROMICS,52366,18540887,SAMN08398467,GCA_010365825.1,NA,Illumina HiSeq,no
+GCF_902150015.1,Tyto alba alba (Barn owl),Tyto alba,129,2/10/20 0:00,.,141398,4615526,SAMEA5733888,GCA_902150015.1,GCF_902150015.1,NA,NA
+GCF_008822105.2,Taeniopygia guttata (zebra finch),Taeniopygia guttata,82.5,2/12/20 0:00,Vertebrate Genomes Project,4378277,70879221,SAMN09946140,GCA_008822105.2,GCF_008822105.2,PacBio Sequel I; 10X Genomics chromium; Bionano Genomics 2 enzyme; Arima Genomics Hi-C; Illumina HiSeq,yes
+GCA_008822115.3,Taeniopygia guttata (zebra finch),Taeniopygia guttata,82.5,2/21/20 0:00,Vertebrate Genomes Project,5533763,71673800,SAMN09946140,GCA_008822115.3,NA,PacBio Sequel I; 10X Genomics chromium; Bionano Genomics 2 enzyme; Arima Genomics Hi-C; Illumina HiSeq,yes
+GCA_011004865.1,Balearica regulorum gibbericeps (East African grey crowned-crane),Balearica regulorum,59.56,2/24/20 0:00,Vertebrate Genomes Project,2534691,2534691,SAMN12615749,GCA_011004875.1,NA,PacBio Sequel I CLR; llumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_011057915.1,Melospiza melodia maxima (song sparrow),Melospiza melodia,25,3/2/20 0:00,UNIVERSITY OF GEORGIA,31709,5584891,SAMN10622322,GCA_011057915.1,NA,Illumina HiSeq,no
+GCA_011057875.1,Pterocles orientalis (black-bellied sandgrouse),Pterocles orientalis,95,3/2/20 0:00,International Fund for Houbara Conservation,48746,1099484,SAMN11607795,GCA_011057875.1,NA,Illumina HiSeq,no
+GCF_004027225.2,Strigops habroptila (Kakapo),Strigops habroptila,76.1,3/4/20 0:00,Vertebrate Genomes Project,9454087,83240647,SAMN09948751,GCA_004027225.2,GCF_004027225.2,PacBio RSII; 10X Genomics linked reads; Bionano Genomics DLS; Arima Genomics HiC,yes
+GCA_011004875.1,Balearica regulorum gibbericeps (East African grey crowned-crane),Balearica regulorum,59.56,3/5/20 0:00,Vertebrate Genomes Project,23326060,82577926,SAMN12615749,GCA_011004865.1,NA,PacBio Sequel I CLR; llumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_011075105.1,Heteronetta atricapilla (birds),Heteronetta atricapilla,60,3/10/20 0:00,Brood Parasitic Bird Genomes Consortium,151401,23364606,SAMN13257443,GCA_011075105.1,NA,Illumina NovaSeq,no
+GCA_011076525.1,Nettapus auritus (birds),Nettapus auritus,60,3/10/20 0:00,Brood Parasitic Bird Genomes Consortium,105147,26011715,SAMN13257464,GCA_011076525.1,NA,Illumina NovaSeq,no
+GCF_011077185.1,Oxyura jamaicensis (ruddy duck),Oxyura jamaicensis,60,3/10/20 0:00,Brood Parasitic Bird Genomes Consortium,128592,36145614,SAMN13257492,GCA_011077185.1,GCF_011077185.1,Illumina NovaSeq,no
+GCA_011074415.1,Stictonetta naevosa (freckled duck),Stictonetta naevosa,60,3/10/20 0:00,Brood Parasitic Bird Genomes Consortium,136958,10707530,SAMN13257911,GCA_011074415.1,NA,Illumina NovaSeq,no
+GCA_902810485.1,Alauda arvensis (Eurasian skylark),Alauda arvensis,100,3/13/20 0:00,UNIVERSITY OF EDINBURGH,79699,1430931,SAMEA6585484,GCA_902810485.1,NA,NA,NA
+GCA_011317185.1,Eupsittula pertinax (brown-throated parakeet),Eupsittula pertinax,120,3/16/20 0:00,IRIDIAN GENOMES,70940,9066519,SAMN13635021,GCA_011317185.1,NA,Illumina,no
+GCA_011125475.1,Melanerpes aurifrons (Golden-fronted woodpecker),Melanerpes aurifrons,46,3/17/20 0:00,University of Oklahoma,16045987,16045987,SAMN13719207,GCA_011125475.1,NA,Oxford Nanopore; Illumina,yes
+GCA_011421415.1,Poecile atricapillus (Black-capped chickadee),Poecile atricapillus,120,3/19/20 0:00,University of Colorado Boulder,109509,64674564,SAMN13264372,GCA_011421415.1,NA,Illumina HiSeq,no
+GCA_902806625.1,Camarhynchus parvulus (birds),Camarhynchus parvulus,31,3/21/20 0:00,UPPSALA UNIVERISTY,15143611,71061686,SAMEA6542012,GCA_902806625.1,NA,NA,NA
+GCA_011763535.1,Eclectus roratus (Eclectus parrot),Eclectus roratus,120,3/27/20 0:00,IRIDIAN GENOMES,86912,3064750,SAMN11250500,GCA_011763535.1,NA,Illumina,no
+GCA_011762725.1,Pionus senilis (white-capped parrot),Pionus senilis,110,3/27/20 0:00,IRIDIAN GENOMES,96461,17611112,SAMN09688240,GCA_011762725.1,NA,Illumina,no
+GCA_011763355.1,Pyrrhura molinae (Green-cheeked parakeet),Pyrrhura molinae,120,3/27/20 0:00,IRIDIAN GENOMES,82819,4671993,SAMN09681958,GCA_011763355.1,NA,Illumina,no
+GCA_011763455.1,Pyrrhura perlata (birds),Pyrrhura perlata,120,3/27/20 0:00,IRIDIAN GENOMES,101886,3731728,SAMN09683514,GCA_011763455.1,NA,Illumina,no
+GCA_011801015.1,Ardeotis arabs (birds),Ardeotis arabs,25,3/31/20 0:00,International Fund for Houbara Conservation,34349,47611,SAMN11607792,GCA_011801015.1,NA,Illumina HiSeq,no
+GCA_011799995.1,Chlamydotis macqueenii (Macqueen's bustard),Chlamydotis macqueenii,114,3/31/20 0:00,International Fund for Houbara Conservation,60940,3892422,SAMN11607796,GCA_011799995.1,NA,Illumina HiSeq,no
+GCA_011800025.1,Chlamydotis macqueenii (Macqueen's bustard),Chlamydotis macqueenii,96,3/31/20 0:00,International Fund for Houbara Conservation,88943,3046415,SAMN11607797,GCA_011800025.1,NA,Illumina HiSeq,no
+GCA_011800095.1,Guaruba guarouba (birds),Guaruba guarouba,120,3/31/20 0:00,IRIDIAN GENOMES,126760,9320406,SAMN12165723,GCA_011800095.1,NA,Illumina,no
+GCA_000738735.4,Corvus cornix cornix (hooded crow),Corvus cornix,150,4/1/20 0:00,Uppsala University,7830412,74117537,SAMN02143031,GCA_000738735.4,NA,Hi-C; PacBio,yes
+GCA_009859065.2,Taeniopygia guttata (zebra finch),Taeniopygia guttata,101.2,4/1/20 0:00,Vertebrate Genomes Project,4023669,71643432,SAMN09946140,GCA_009859065.2,NA,PacBio Sequel I; 10X genome; Bionano Genomics; Arima Genomics Hi-C,yes
+GCA_012057345.1,Aquila chrysaetos japonica (golden eagle),Aquila chrysaetos,55,4/3/20 0:00,"Laboratory of Ecogenetics, Environmental Biology Division, National Institute for Environmental Studies",54768,118558,SAMD00161055,GCA_012057345.1,NA,Illumina Miseq; Ion PGM; Illumina HiseqX,no
+GCA_012069535.1,Taeniopygia guttata (zebra finch),Taeniopygia guttata,70,4/6/20 0:00,PacBio,320958,320958,SAMN09946140,GCA_012069535.1,NA,PacBio Sequel,yes
+GCA_012069575.1,Taeniopygia guttata (zebra finch),Taeniopygia guttata,70,4/6/20 0:00,PacBio,3482864,3482864,SAMN09946140,GCA_012069575.1,NA,PacBio Sequel,yes
+GCA_012069585.1,Taeniopygia guttata (zebra finch),Taeniopygia guttata,70,4/6/20 0:00,PacBio,3479827,3479827,SAMN09946140,GCA_012069585.1,NA,PacBio Sequel,yes
+GCA_012069595.1,Taeniopygia guttata (zebra finch),Taeniopygia guttata,70,4/6/20 0:00,PacBio,3492644,72616063,SAMN09946140,GCA_012069595.1,NA,PacBio Sequel,yes
+GCA_012069605.1,Taeniopygia guttata (zebra finch),Taeniopygia guttata,70,4/6/20 0:00,PacBio,3453391,72568716,SAMN09946140,GCA_012069595.1,NA,PacBio Sequel,yes
+GCA_012069615.1,Taeniopygia guttata (zebra finch),Taeniopygia guttata,70,4/6/20 0:00,PacBio,3481582,3481582,SAMN09946140,GCA_012069615.1,NA,PacBio Sequel,yes
+GCA_012487025.1,Accipiter gentilis (Northern goshawk),Accipiter gentilis,48,4/8/20 0:00,"Environmental Genomics Office, Center for Enviromental Biology and Ecosystem Studies, National Institute for Environmental Studies",67032,150919,SAMD00156788,GCA_012487025.1,NA,Illumina HiseqX,no
+GCA_012488435.1,Antigone vipio (White-naped crane),Antigone vipio,54,4/8/20 0:00,"Environmental Genomics Office, Center for Enviromental Biology and Ecosystem Studies, National Institute for Environmental Studies",32896,77158,SAMD00156793,GCA_012488435.1,NA,Illumina HiseqX,no
+GCA_012488915.1,Falco peregrinus (peregrine falcon),Falco peregrinus,61,4/8/20 0:00,"Environmental Genomics Office, Center for Enviromental Biology and Ecosystem Studies, National Institute for Environmental Studies",88635,194737,SAMD00156794,GCA_012488915.1,NA,Illumina HiseqX,no
+GCA_012487855.1,Grus monacha (hooded crane),Grus monacha,67,4/8/20 0:00,"Environmental Genomics Office, Center for Enviromental Biology and Ecosystem Studies, National Institute for Environmental Studies",38530,89778,SAMD00156792,GCA_012487855.1,NA,Illumina HiseqX,no
+GCA_012487455.1,Nisaetus nipalensis (mountain hawk-eagle),Nisaetus nipalensis,52,4/8/20 0:00,"Environmental Genomics Office, Center for Enviromental Biology and Ecosystem Studies, National Institute for Environmental Studies",56477,116003,SAMD00156789,GCA_012487455.1,NA,Illumina HiseqX,no
+GCA_012275265.1,Melopsittacus undulatus (budgerigar),Melopsittacus undulatus,61.11,4/13/20 0:00,Vertebrate Genomes Project,16111685,75845561,SAMN12623090,GCA_012275265.1,NA,PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_012275275.1,Melopsittacus undulatus (budgerigar),Melopsittacus undulatus,61.11,4/13/20 0:00,Vertebrate Genomes Project,12472009,99198005,SAMN12623090,GCA_012275275.1,NA,PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCF_012275295.1,Melopsittacus undulatus (budgerigar),Melopsittacus undulatus,61.11,4/13/20 0:00,G10K,16636420,104092594,SAMN12623090,GCA_012275295.1Ê,GCF_012275295.1,PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCF_012460135.1,Molothrus ater (birds),Molothrus ater,200,4/20/20 0:00,Brood Parasitic Bird Genomes Consortium,13273966,52124711,SAMN14074414,GCA_012460135.1,GCF_012460135.1,PacBio Sequel II,yes
+GCA_013030995.1,Anser cygnoides (Swan goose),Anser cygnoides,325,5/11/20 0:00,Poultry Science Institute,1849874,33116532,SAMN13281505,GCA_013030995.1,NA,PacBio RSII,yes
+GCA_013036005.1,Myiopsitta monachus (monk parakeet),Myiopsitta monachus,140,5/11/20 0:00,IRIDIAN GENOMES,69906,12825613,SAMN11250504,GCA_013036005.1,NA,Illumina,no
+GCA_013186435.1,Turdus rufiventris (rufous-bellied thrush),Turdus rufiventris,75,5/28/20 0:00,LNCC,34001,4184613,SAMN08668864,GCA_013186435.1,NA,Illumina MiSeq; Illumina HiSeq,no
+GCA_903797565.1,Erithacus rubecula (European robin),Erithacus rubecula,41,6/11/20 0:00,SC,602370,603216,SAMEA4760689,GCA_903797595.1,NA,NA,NA
+GCA_013368595.1,Nyctibius grandis (birds),Nyctibius grandis,88.4,6/23/20 0:00,Vertebrate Genomes Project,2458434,2458434,SAMN12622411,GCA_013368605.1,NA,PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_013368605.1,Nyctibius grandis (birds),Nyctibius grandis,88.4,6/23/20 0:00,Vertebrate Genomes Project,23231768,92359233,SAMN12622411,GCA_013368595.1,NA,PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_013372525.1,Fulica atra (Eurasian coot),Fulica atra,53,6/24/20 0:00,University of Illinois at Urbana-Champaign,246158,6390841,SAMN14974647,GCA_013372525.1,NA,Illumina NovaSeq,no
+GCA_903797595.1,Erithacus rubecula (European robin),Erithacus rubecula,41,6/27/20 0:00,SC,5585877,46560559,SAMEA4760689,GCA_903797565.1,NA,NA,NA
+GCA_900411745.1,Anas platyrhynchos (mallard),Anas platyrhynchos,64,6/28/20 0:00,zhao_yue,29908,74035964,SAMEA4646736,GCA_900411745.1,NA,NA,NA
+GCF_013377495.1,Cygnus atratus (black swan),Cygnus atratus,90,6/30/20 0:00,The University of Queensland,12814145,12814145,SAMN15332785,GCA_013377495.1,GCF_013377495.1,PacBio Sequel II,yes
+GCA_013389925.1,Aegithalos caudatus (Northern long-tailed tit),Aegithalos caudatus,48,7/6/20 0:00,B10K Consortium,34055,311465,SAMN12253835,GCA_013389925.1,NA,Illumina HiSeq,no
+GCA_013390005.1,Calyptomena viridis (green broadbill),Calyptomena viridis,67,7/6/20 0:00,B10K Consortium,40187,169242,SAMN12253865,GCA_013390005.1,NA,Illumina HiSeq,no
+GCA_013390065.1,Chloropsis hardwickii (birds),Chloropsis hardwickii,73,7/6/20 0:00,B10K Consortium,39381,572698,SAMN12253970,GCA_013390065.1,NA,Illumina HiSeq,no
+GCA_013389845.1,Crypturellus soui (birds),Crypturellus soui,80,7/6/20 0:00,B10K Consortium,79009,846765,SAMN12253745,GCA_013389845.1,NA,Illumina HiSeq,no
+GCA_013389825.1,Crypturellus undulatus (birds),Crypturellus undulatus,95,7/6/20 0:00,B10K Consortium,99502,387774,SAMN12253746,GCA_013389825.1,NA,Illumina HiSeq,no
+GCA_013389985.1,Dryoscopus gambensis (birds),Dryoscopus gambensis,42,7/6/20 0:00,B10K Consortium,29388,113106,SAMN12253866,GCA_013389985.1,NA,Illumina HiSeq,no
+GCA_013389945.1,Fregata magnificens (birds),Fregata magnificens,40,7/6/20 0:00,B10K Consortium,35511,145412,SAMN12253859,GCA_013389945.1,NA,Illumina HiSeq,no
+GCA_013389885.1,Geococcyx californianus (birds),Geococcyx californianus,60,7/6/20 0:00,B10K Consortium,47040,59473,SAMN12253751,GCA_013389885.1,NA,Illumina HiSeq,no
+GCA_013390085.1,Grus americana (Whooping crane),Grus americana,45,7/6/20 0:00,B10K Consortium,46954,266481,SAMN12253918,GCA_013390085.1,NA,Illumina HiSeq,no
+GCA_013389865.1,Piaya cayana (squirrel cuckoo),Piaya cayana,64,7/6/20 0:00,B10K Consortium,44041,133717,SAMN12253892,GCA_013389865.1,NA,Illumina HiSeq,no
+GCA_013390045.1,Picathartes gymnocephalus (birds),Picathartes gymnocephalus,53,7/6/20 0:00,B10K Consortium,36514,110339,SAMN12253907,GCA_013390045.1,NA,Illumina HiSeq,no
+GCA_013390025.1,Pitta sordida (hooded pitta),Pitta sordida,48,7/6/20 0:00,B10K Consortium,41696,176673,SAMN12253864,GCA_013390025.1,NA,Illumina HiSeq,no
+GCA_013389905.1,Sula dactylatra (birds),Sula dactylatra,42,7/6/20 0:00,B10K Consortium,38906,156242,SAMN12253860,GCA_013389905.1,NA,Illumina HiSeq,no
+GCA_013390105.1,Tichodroma muraria (birds),Tichodroma muraria,52,7/6/20 0:00,B10K Consortium,14901,30899,SAMN12253913,GCA_013390105.1,NA,Illumina HiSeq,no
+GCA_013389965.1,Todus mexicanus (puerto rican tody),Todus mexicanus,55,7/6/20 0:00,B10K Consortium,8743,12670,SAMN12253871,GCA_013389965.1,NA,Illumina HiSeq,no
+GCA_013398685.1,Acrocephalus arundinaceus (great reed warbler),Acrocephalus arundinaceus,146,7/10/20 0:00,B10K Consortium,92557,336459,SAMN12254005,GCA_013398685.1,NA,Illumina HiSeq,no
+GCA_013398125.1,Aegotheles bennettii (birds),Aegotheles bennettii,45,7/10/20 0:00,B10K Consortium,65833,324808,SAMN12253958,GCA_013398125.1,NA,Illumina HiSeq,no
+GCA_013398535.1,Agelaius phoeniceus (red-winged blackbird),Agelaius phoeniceus,120,7/10/20 0:00,B10K Consortium,78381,1693451,SAMN12254002,GCA_013398535.1,NA,10X Genomics linked reads,no
+GCA_013398995.1,Alaudala cheleensis (Asian short-toed lark),Alaudala cheleensis,81,7/10/20 0:00,B10K Consortium,96766,398825,SAMN12253773,GCA_013398995.1,NA,Illumina HiSeq,no
+GCA_013398245.1,Alca torda (razorbill),Alca torda,47,7/10/20 0:00,B10K Consortium,48979,240911,SAMN12253979,GCA_013398245.1,NA,Illumina HiSeq,no
+GCA_013401355.1,Alcedo cyanopectus (Indigo-banded kingfisher),Alcedo cyanopectus,70,7/10/20 0:00,B10K Consortium,14890,25847,SAMN12253921,GCA_013401355.1,NA,Illumina HiSeq,no
+GCA_013397815.1,Aleadryas rufinucha (rufous-naped whistler),Aleadryas rufinucha,45,7/10/20 0:00,B10K Consortium,90297,367770,SAMN12253938,GCA_013397815.1,NA,Illumina HiSeq,no
+GCA_013399715.1,Alectura lathami (australian brush-turkey),Alectura lathami,48,7/10/20 0:00,B10K Consortium,18430,229397,SAMN12253796,GCA_013399715.1,NA,Illumina HiSeq,no
+GCA_013399365.1,Alopecoenas beccarii (Western bronze ground-dove),Alopecoenas beccarii,64,7/10/20 0:00,B10K Consortium,126523,674421,SAMN12253886,GCA_013399365.1,NA,Illumina HiSeq,no
+GCA_013399615.1,Amazona guildingii (birds),Amazona guildingii,42,7/10/20 0:00,B10K Consortium,61007,275649,SAMN12253802,GCA_013399615.1,NA,Illumina HiSeq,no
+GCA_013396435.1,Anhinga anhinga (American anhinga),Anhinga anhinga,52,7/10/20 0:00,B10K Consortium,25978,337495,SAMN12253762,GCA_013396435.1,NA,Illumina HiSeq,no
+GCA_013400875.1,Anhinga rufa (African darter),Anhinga rufa,48,7/10/20 0:00,B10K Consortium,12297,16986,SAMN12253935,GCA_013400875.1,NA,Illumina HiSeq,no
+GCA_013399115.1,Anseranas semipalmata (magpie goose),Anseranas semipalmata,47,7/10/20 0:00,B10K Consortium,53214,628312,SAMN12253809,GCA_013399115.1,NA,Illumina HiSeq,no
+GCA_013399455.1,Anthoscopus minutus (birds),Anthoscopus minutus,55,7/10/20 0:00,B10K Consortium,49651,108848,SAMN12253902,GCA_013399455.1,NA,Illumina HiSeq,no
+GCA_013398375.1,Aphelocoma coerulescens (scrub jay),Aphelocoma coerulescens,221,7/10/20 0:00,B10K Consortium,133617,7634200,SAMN12253992,GCA_013398375.1,NA,Illumina HiSeq,no
+GCA_013400195.1,Aramus guarauna (limpkin),Aramus guarauna,47,7/10/20 0:00,B10K Consortium,62981,810609,SAMN12253836,GCA_013400195.1,NA,Illumina HiSeq,no
+GCA_013396375.1,Ardeotis kori (birds),Ardeotis kori,57,7/10/20 0:00,B10K Consortium,53368,639944,SAMN12253748,GCA_013396375.1,NA,Illumina HiSeq,no
+GCA_013399435.1,Arenaria interpres (ruddy turnstone),Arenaria interpres,40,7/10/20 0:00,B10K Consortium,48252,181329,SAMN12253884,GCA_013399435.1,NA,Illumina HiSeq,no
+GCA_013398475.1,Asarcornis scutulata (birds),Asarcornis scutulata,110,7/10/20 0:00,B10K Consortium,91211,5635001,SAMN12254003,GCA_013398475.1,NA,10X Genomics linked reads,no
+GCA_013401215.1,Atlantisia rogersi (Inaccessible Island rail),Atlantisia rogersi,41,7/10/20 0:00,B10K Consortium,36139,36904,SAMN12254006,GCA_013401215.1,NA,Illumina HiSeq,no
+GCA_013400975.1,Atrichornis clamosus (birds),Atrichornis clamosus,94,7/10/20 0:00,B10K Consortium,125279,147592,SAMN12253955,GCA_013400975.1,NA,Illumina HiSeq,no
+GCA_013401315.1,Balaeniceps rex (shoebill),Balaeniceps rex,49,7/10/20 0:00,B10K Consortium,24547,60453,SAMN12253916,GCA_013401315.1,NA,Illumina HiSeq,no
+GCA_013396935.1,Baryphthengus martii (birds),Baryphthengus martii,44,7/10/20 0:00,B10K Consortium,70136,225352,SAMN12253779,GCA_013396935.1,NA,Illumina HiSeq,no
+GCA_013400315.1,Bombycilla garrulus (bohemian waxwing),Bombycilla garrulus,50,7/10/20 0:00,B10K Consortium,64047,615058,SAMN12253844,GCA_013400315.1,NA,Illumina HiSeq,no
+GCA_013398615.1,Brachypodius atriceps (black-headed bulbul),Brachypodius atriceps,155,7/10/20 0:00,B10K Consortium,85408,17537833,SAMN12253996,GCA_013398615.1,NA,Illumina HiSeq,no
+GCA_013401335.1,Brachypteracias leptosomus (short-legged ground-roller),Brachypteracias leptosomus,62,7/10/20 0:00,B10K Consortium,40314,130665,SAMN12253914,GCA_013401335.1,NA,Illumina HiSeq,no
+GCA_013396975.1,Bucco capensis (collared puffbird),Bucco capensis,54,7/10/20 0:00,B10K Consortium,66968,338467,SAMN12253774,GCA_013396975.1,NA,Illumina HiSeq,no
+GCA_013398885.1,Bucorvus abyssinicus (Abyssinian ground-hornbill),Bucorvus abyssinicus,93,7/10/20 0:00,B10K Consortium,163894,1077696,SAMN12253919,GCA_013398885.1,NA,Illumina HiSeq,no
+GCA_013400855.1,Buphagus erythrorhynchus (red-billed oxpecker),Buphagus erythrorhynchus,50,7/10/20 0:00,B10K Consortium,13219,37415,SAMN12253904,GCA_013400855.1,NA,Illumina HiSeq,no
+GCA_013397275.1,Burhinus bistriatus (birds),Burhinus bistriatus,42,7/10/20 0:00,B10K Consortium,46939,409133,SAMN12253814,GCA_013397275.1,NA,Illumina HiSeq,no
+GCA_013397715.1,Calcarius ornatus (birds),Calcarius ornatus,73,7/10/20 0:00,B10K Consortium,52433,1242718,SAMN12253923,GCA_013397715.1,NA,Illumina HiSeq,no
+GCA_013398955.1,Callaeas wilsoni (North Island kokako),Callaeas wilsoni,123,7/10/20 0:00,B10K Consortium,118426,133026,SAMN12253743,GCA_013398955.1,NA,Illumina HiSeq,no
+GCA_013398195.1,Caloenas nicobarica (Nicobar pigeon),Caloenas nicobarica,52,7/10/20 0:00,B10K Consortium,72340,20885367,SAMN12253981,GCA_013398195.1,NA,Illumina HiSeq,no
+GCA_013401115.1,Calonectris borealis (Cory's shearwater),Calonectris borealis,130,7/10/20 0:00,B10K Consortium,63034,65340,SAMN12253995,GCA_013401115.1,NA,Illumina HiSeq,no
+GCA_013396655.1,Campylorhamphus procurvoides (birds),Campylorhamphus procurvoides,43,7/10/20 0:00,B10K Consortium,152160,1025016,SAMN12253772,GCA_013396655.1,NA,Illumina HiSeq,no
+GCA_013397215.1,Cardinalis cardinalis (northern cardinal),Cardinalis cardinalis,53,7/10/20 0:00,B10K Consortium,90773,451346,SAMN12253819,GCA_013397215.1,NA,Illumina HiSeq,no
+GCA_013396415.1,Casuarius casuarius (southern cassowary),Casuarius casuarius,70,7/10/20 0:00,B10K Consortium,88589,5669588,SAMN12253744,GCA_013396415.1,NA,Illumina HiSeq,no
+GCA_013398975.1,Catharus fuscescens (veery),Catharus fuscescens,45,7/10/20 0:00,B10K Consortium,56061,276328,SAMN12253775,GCA_013398975.1,NA,Illumina HiSeq,no
+GCA_013400815.1,Centropus bengalensis (lesser coucal),Centropus bengalensis,56,7/10/20 0:00,B10K Consortium,34951,1149962,SAMN12253924,GCA_013400815.1,NA,Illumina HiSeq,no
+GCA_013397695.1,Centropus unirufus (birds),Centropus unirufus,56,7/10/20 0:00,B10K Consortium,79469,2055974,SAMN12253925,GCA_013397695.1,NA,Illumina HiSeq,no
+GCA_013396775.1,Cephalopterus ornatus (amazonian umbrellabird),Cephalopterus ornatus,42,7/10/20 0:00,B10K Consortium,75604,292884,SAMN12253765,GCA_013396775.1,NA,Illumina HiSeq,no
+GCA_013401065.1,Cepphus grylle (birds),Cepphus grylle,115,7/10/20 0:00,B10K Consortium,39689,16187446,SAMN12253990,GCA_013401065.1,NA,Illumina HiSeq,no
+GCA_013398595.1,Cercotrichas coryphoeus (Karoo scrub-robin),Cercotrichas coryphoeus,320,7/10/20 0:00,B10K Consortium,55393,954946,SAMN12253994,GCA_013398595.1,NA,Illumina HiSeq,no
+GCA_013400355.1,Certhia brachydactyla (short-toed tree-creeper),Certhia brachydactyla,49,7/10/20 0:00,B10K Consortium,76317,865393,SAMN12253843,GCA_013400355.1,NA,Illumina HiSeq,no
+GCA_013398575.1,Certhia familiaris (Eurasian tree-creeper),Certhia familiaris,64,7/10/20 0:00,B10K Consortium,48850,857734,SAMN12253998,GCA_013398575.1,NA,10X Genomics linked reads,no
+GCA_013401135.1,Cettia cetti (birds),Cettia cetti,40,7/10/20 0:00,B10K Consortium,62878,64977,SAMN12254007,GCA_013401135.1,NA,Illumina HiSeq,no
+GCA_013398935.1,Ceuthmochares aereus (birds),Ceuthmochares aereus,65,7/10/20 0:00,B10K Consortium,29269,163031,SAMN12253749,GCA_013398935.1,NA,Illumina HiSeq,no
+GCA_013400775.1,Chaetops frenatus (Rufous rock-jumper),Chaetops frenatus,42,7/10/20 0:00,B10K Consortium,34663,250297,SAMN12253910,GCA_013400775.1,NA,Illumina HiSeq,no
+GCA_013396525.1,Chaetorhynchus papuensis (pygmy drongo),Chaetorhynchus papuensis,69,7/10/20 0:00,B10K Consortium,96574,712200,SAMN12253758,GCA_013396525.1,NA,Illumina HiSeq,no
+GCA_013399475.1,Chauna torquata (southern screamer),Chauna torquata,45,7/10/20 0:00,B10K Consortium,39550,232486,SAMN12253900,GCA_013399475.1,NA,Illumina HiSeq,no
+GCA_013398295.1,Chionis minor (black-faced sheathbill),Chionis minor,50,7/10/20 0:00,B10K Consortium,128427,592381,SAMN12253976,GCA_013398295.1,NA,Illumina HiSeq,no
+GCA_013399075.1,Chloroceryle aenea (American pygmy kingfisher),Chloroceryle aenea,44,7/10/20 0:00,B10K Consortium,34835,324840,SAMN12253811,GCA_013399075.1,NA,Illumina HiSeq,no
+GCA_013400585.1,Chloropsis cyanopogon (birds),Chloropsis cyanopogon,65,7/10/20 0:00,B10K Consortium,24720,106723,SAMN12253867,GCA_013400585.1,NA,Illumina HiSeq,no
+GCA_013399635.1,Chordeiles acutipennis (lesser nighthawk),Chordeiles acutipennis,67,7/10/20 0:00,B10K Consortium,40733,630207,SAMN12253893,GCA_013399635.1,NA,Illumina HiSeq,no
+GCA_013397655.1,Chroicocephalus maculipennis (brown-hooded gull),Chroicocephalus maculipennis,52,7/10/20 0:00,B10K Consortium,39391,476221,SAMN12253928,GCA_013397655.1,NA,Illumina HiSeq,no
+GCA_013396505.1,Chunga burmeisteri (Black-legged seriema),Chunga burmeisteri,50,7/10/20 0:00,B10K Consortium,72519,1413557,SAMN12253760,GCA_013396505.1,NA,Illumina HiSeq,no
+GCA_013396715.1,Ciccaba nigrolineata (birds),Ciccaba nigrolineata,41,7/10/20 0:00,B10K Consortium,52324,419310,SAMN12253770,GCA_013396715.1,NA,Illumina HiSeq,no
+GCA_013399255.1,Ciconia maguari (birds),Ciconia maguari,41,7/10/20 0:00,B10K Consortium,66040,367223,SAMN12253803,GCA_013399255.1,NA,Illumina HiSeq,no
+GCA_013399935.1,Cinclus mexicanus (birds),Cinclus mexicanus,46,7/10/20 0:00,B10K Consortium,44268,213297,SAMN12253825,GCA_013399935.1,NA,Illumina HiSeq,no
+GCA_013399555.1,Circaetus pectoralis (black-chested snake-eagle),Circaetus pectoralis,50,7/10/20 0:00,B10K Consortium,28952,1302531,SAMN12253898,GCA_013399555.1,NA,Illumina HiSeq,no
+GCA_013400215.1,Cisticola juncidis (birds),Cisticola juncidis,49,7/10/20 0:00,B10K Consortium,74140,873777,SAMN12253849,GCA_013400215.1,NA,Illumina HiSeq,no
+GCA_013398175.1,Climacteris rufus (rufous treecreeper),Climacteris rufus,45,7/10/20 0:00,B10K Consortium,72434,863000,SAMN12253953,GCA_013398175.1,NA,Illumina HiSeq,no
+GCA_013397755.1,Cnemophilus loriae (Loria's bird-of-paradise),Cnemophilus loriae,46,7/10/20 0:00,B10K Consortium,122939,1426893,SAMN12253940,GCA_013397755.1,NA,Illumina HiSeq,no
+GCA_013396365.1,Cochlearius cochlearius (boat-billed heron),Cochlearius cochlearius,61,7/10/20 0:00,B10K Consortium,62809,1662124,SAMN12253750,GCA_013396365.1,NA,Illumina HiSeq,no
+GCA_013397635.1,Columbina picui (picui ground-dove),Columbina picui,73,7/10/20 0:00,B10K Consortium,24994,616882,SAMN12253927,GCA_013397635.1,NA,Illumina HiSeq,no
+GCA_013398635.1,Copsychus sechellarum (birds),Copsychus sechellarum,374,7/10/20 0:00,B10K Consortium,109076,11085488,SAMN12254010,GCA_013398635.1,NA,Illumina HiSeq,no
+GCA_013398675.1,Corvus moneduloides (New Caledonian crow),Corvus moneduloides,99,7/10/20 0:00,B10K Consortium,331397,4457534,SAMN12254009,GCA_013398675.1,NA,Illumina HiSeq,no
+GCA_013396815.1,Corythaeola cristata (great blue turaco),Corythaeola cristata,75,7/10/20 0:00,B10K Consortium,7216,102987,SAMN12253763,GCA_013396815.1,NA,Illumina HiSeq,no
+GCA_013399495.1,Corythaixoides concolor (grey go-away-bird),Corythaixoides concolor,63,7/10/20 0:00,B10K Consortium,52683,1108645,SAMN12253899,GCA_013399495.1,NA,Illumina HiSeq,no
+GCA_013397455.1,Crotophaga sulcirostris (groove-billed ani),Crotophaga sulcirostris,55,7/10/20 0:00,B10K Consortium,83601,1692907,SAMN12253881,GCA_013397455.1,NA,Illumina HiSeq,no
+GCA_013397915.1,Daphoenositta chrysoptera (varied sittella),Daphoenositta chrysoptera,54,7/10/20 0:00,B10K Consortium,79485,804295,SAMN12253948,GCA_013397915.1,NA,Illumina HiSeq,no
+GCA_013397935.1,Dasyornis broadbenti (rufous bristle-bird),Dasyornis broadbenti,44,7/10/20 0:00,B10K Consortium,67799,1415013,SAMN12253949,GCA_013397935.1,NA,Illumina HiSeq,no
+GCA_013396995.1,Dicaeum eximium (birds),Dicaeum eximium,49,7/10/20 0:00,B10K Consortium,117005,1096110,SAMN12253792,GCA_013396995.1,NA,Illumina HiSeq,no
+GCA_013399195.1,Dicrurus megarhynchus (birds),Dicrurus megarhynchus,42,7/10/20 0:00,B10K Consortium,143784,1068420,SAMN12253804,GCA_013399195.1,NA,Illumina HiSeq,no
+GCA_013397315.1,Donacobius atricapilla (birds),Donacobius atricapilla,49,7/10/20 0:00,B10K Consortium,64871,542855,SAMN12253813,GCA_013397315.1,NA,Illumina HiSeq,no
+GCA_013396795.1,Dromaius novaehollandiae (emu),Dromaius novaehollandiae,71,7/10/20 0:00,B10K Consortium,86977,4098324,SAMN12253764,GCA_013396795.1,NA,Illumina HiSeq,no
+GCA_013398915.1,Dromas ardeola (birds),Dromas ardeola,44,7/10/20 0:00,B10K Consortium,40991,314166,SAMN12253915,GCA_013398915.1,NA,Illumina HiSeq,no
+GCA_013400955.1,Drymodes brunneopygia (birds),Drymodes brunneopygia,48,7/10/20 0:00,B10K Consortium,79910,443364,SAMN12253961,GCA_013400955.1,NA,Illumina HiSeq,no
+GCA_013397175.1,Dyaphorophyia castanea (birds),Dyaphorophyia castanea,50,7/10/20 0:00,B10K Consortium,84600,719154,SAMN12253821,GCA_013397175.1,NA,Illumina HiSeq,no
+GCA_013397115.1,Edolisoma coerulescens (birds),Edolisoma coerulescens,42,7/10/20 0:00,B10K Consortium,131175,1336768,SAMN12253783,GCA_013397115.1,NA,Illumina HiSeq,no
+GCA_013398835.1,Emberiza fucata (birds),Emberiza fucata,57,7/10/20 0:00,B10K Consortium,19687,892245,SAMN12253922,GCA_013398835.1,NA,Illumina HiSeq,no
+GCA_013397615.1,Eolophus roseicapillus (galah),Eolophus roseicapillus,55,7/10/20 0:00,B10K Consortium,21735,418393,SAMN12253931,GCA_013397615.1,NA,Illumina HiSeq,no
+GCA_013398395.1,Erithacus rubecula (European robin),Erithacus rubecula,159,7/10/20 0:00,B10K Consortium,73144,2955106,SAMN12253986,GCA_013398395.1,NA,Illumina HiSeq,no
+GCA_013400515.1,Erpornis zantholeuca (birds),Erpornis zantholeuca,45,7/10/20 0:00,B10K Consortium,45331,176063,SAMN12253868,GCA_013400515.1,NA,Illumina HiSeq,no
+GCA_013397435.1,Erythrocercus mccallii (birds),Erythrocercus mccallii,122,7/10/20 0:00,B10K Consortium,83996,346475,SAMN12253870,GCA_013397435.1,NA,Illumina HiSeq,no
+GCA_013396675.1,Eubucco bourcierii (red-headed barbet),Eubucco bourcierii,38,7/10/20 0:00,B10K Consortium,26549,208022,SAMN12253768,GCA_013396675.1,NA,Illumina HiSeq,no
+GCA_013398775.1,Eudromia elegans (elegant crested-tinamou),Eudromia elegans,84,7/10/20 0:00,B10K Consortium,74838,6275819,SAMN12253968,GCA_013398775.1,NA,Illumina HiSeq,no
+GCA_013397775.1,Eulacestoma nigropectus (wattled ploughbill),Eulacestoma nigropectus,44,7/10/20 0:00,B10K Consortium,75916,1156832,SAMN12253941,GCA_013397775.1,NA,Illumina HiSeq,no
+GCA_013400335.1,Eurystomus gularis (birds),Eurystomus gularis,35,7/10/20 0:00,B10K Consortium,57880,197888,SAMN12253862,GCA_013400335.1,NA,Illumina HiSeq,no
+GCA_013398115.1,Falcunculus frontatus (Eastern shriketit),Falcunculus frontatus,67,7/10/20 0:00,B10K Consortium,150458,1193676,SAMN12253959,GCA_013398115.1,NA,Illumina HiSeq,no
+GCA_013399695.1,Formicarius rufipectus (birds),Formicarius rufipectus,49,7/10/20 0:00,B10K Consortium,79409,836584,SAMN12253799,GCA_013399695.1,NA,Illumina HiSeq,no
+GCA_013399335.1,Fregetta grallaria (white-bellied storm-petrel),Fregetta grallaria,59,7/10/20 0:00,B10K Consortium,15821,342041,SAMN12253887,GCA_013399335.1,NA,Illumina HiSeq,no
+GCA_013397465.1,Furnarius figulus (birds),Furnarius figulus,72,7/10/20 0:00,B10K Consortium,55547,650940,SAMN12253878,GCA_013397465.1,NA,Illumina HiSeq,no
+GCA_013399015.1,Galbula dea (birds),Galbula dea,48,7/10/20 0:00,B10K Consortium,251170,1175606,SAMN12253812,GCA_013399015.1,NA,Illumina HiSeq,no
+GCA_013401295.1,Glareola pratincola (birds),Glareola pratincola,60,7/10/20 0:00,B10K Consortium,39898,411631,SAMN12253752,GCA_013401295.1,NA,Illumina HiSeq,no
+GCA_013399595.1,Glaucidium brasilianum (ferruginous pygmy-owl),Glaucidium brasilianum,69,7/10/20 0:00,B10K Consortium,74988,1600682,SAMN12253894,GCA_013399595.1,NA,Illumina HiSeq,no
+GCA_013396735.1,Grallaria varia (variegated antpitta),Grallaria varia,49,7/10/20 0:00,B10K Consortium,64146,482390,SAMN12253766,GCA_013396735.1,NA,Illumina HiSeq,no
+GCA_013397955.1,Grantiella picta (birds),Grantiella picta,49,7/10/20 0:00,B10K Consortium,100624,1131194,SAMN12253950,GCA_013397955.1,NA,Illumina HiSeq,no
+GCA_013399875.1,Gymnorhina tibicen (Australian magpie),Gymnorhina tibicen,51,7/10/20 0:00,B10K Consortium,140542,1191429,SAMN12253831,GCA_013399875.1,NA,Illumina HiSeq,no
+GCA_013397595.1,Halcyon senegalensis (birds),Halcyon senegalensis,68,7/10/20 0:00,B10K Consortium,95631,2050318,SAMN12253930,GCA_013397595.1,NA,Illumina HiSeq,no
+GCA_013398555.1,Haliaeetus albicilla (white-tailed eagle),Haliaeetus albicilla,262,7/10/20 0:00,B10K Consortium,134899,4551471,SAMN12253999,GCA_013398555.1,NA,Illumina HiSeq,no
+GCA_013399135.1,Heliornis fulica (sungrebe),Heliornis fulica,43,7/10/20 0:00,B10K Consortium,53463,389526,SAMN12253807,GCA_013399135.1,NA,Illumina HiSeq,no
+GCA_013396855.1,Hemiprocne comata (birds),Hemiprocne comata,40,7/10/20 0:00,B10K Consortium,62389,355677,SAMN12253781,GCA_013396855.1,NA,Illumina HiSeq,no
+GCA_013399355.1,Herpetotheres cachinnans (birds),Herpetotheres cachinnans,66,7/10/20 0:00,B10K Consortium,61768,1830427,SAMN12253885,GCA_013399355.1,NA,Illumina HiSeq,no
+GCA_013400095.1,Himantopus himantopus (black-winged stilt),Himantopus himantopus,39,7/10/20 0:00,B10K Consortium,79248,712820,SAMN12253837,GCA_013400095.1,NA,Illumina HiSeq,no
+GCA_013400075.1,Hippolais icterina (icterine warbler),Hippolais icterina,49,7/10/20 0:00,B10K Consortium,64762,494139,SAMN12253841,GCA_013400075.1,NA,Illumina HiSeq,no
+GCA_013399815.1,Hirundo rustica (Barn swallow),Hirundo rustica,117,7/10/20 0:00,B10K Consortium,119850,675769,SAMN12253817,GCA_013399815.1,NA,Illumina HiSeq,no
+GCA_013401035.1,Horornis vulcanius (birds),Horornis vulcanius,46,7/10/20 0:00,B10K Consortium,3129,15429,SAMN12253956,GCA_013401035.1,NA,Illumina HiSeq,no
+GCA_013397025.1,Hydrobates tethys (Wedge-rumped storm-petrel),Hydrobates tethys,38,7/10/20 0:00,B10K Consortium,54514,372486,SAMN12253790,GCA_013397025.1,NA,Illumina HiSeq,no
+GCA_013397195.1,Hylia prasina (green hylia),Hylia prasina,48,7/10/20 0:00,B10K Consortium,64125,688804,SAMN12253820,GCA_013397195.1,NA,Illumina HiSeq,no
+GCA_013400635.1,Hypocryptadius cinnamomeus (birds),Hypocryptadius cinnamomeus,53,7/10/20 0:00,B10K Consortium,23460,39504,SAMN12253877,GCA_013400635.1,NA,Illumina HiSeq,no
+GCA_013398815.1,Ibidorhyncha struthersii (birds),Ibidorhyncha struthersii,47,7/10/20 0:00,B10K Consortium,64861,514623,SAMN12253964,GCA_013398815.1,NA,Illumina HiSeq,no
+GCA_013398055.1,Ifrita kowaldi (blue-capped ifrita),Ifrita kowaldi,51,7/10/20 0:00,B10K Consortium,103033,424487,SAMN12253943,GCA_013398055.1,NA,Illumina HiSeq,no
+GCA_013399915.1,Illadopsis cleaveri (blackcap illadopsis),Illadopsis cleaveri,45,7/10/20 0:00,B10K Consortium,45419,377149,SAMN12253828,GCA_013399915.1,NA,Illumina HiSeq,no
+GCA_013399975.1,Indicator maculatus (spotted honeyguide),Indicator maculatus,48,7/10/20 0:00,B10K Consortium,65219,462551,SAMN12253826,GCA_013399975.1,NA,Illumina HiSeq,no
+GCA_013397155.1,Irena cyanogastra (fairy bluebird),Irena cyanogastra,49,7/10/20 0:00,B10K Consortium,128716,552862,SAMN12253784,GCA_013397155.1,NA,Illumina HiSeq,no
+GCA_013400555.1,Jacana jacana (wattled jacana),Jacana jacana,42,7/10/20 0:00,B10K Consortium,31221,126631,SAMN12253869,GCA_013400555.1,NA,Illumina HiSeq,no
+GCA_013397235.1,Lanius ludovicianus (birds),Lanius ludovicianus,45,7/10/20 0:00,B10K Consortium,98065,684974,SAMN12253815,GCA_013397235.1,NA,Illumina HiSeq,no
+GCA_013400295.1,Larus smithsonianus (American herring gull),Larus smithsonianus,90,7/10/20 0:00,B10K Consortium,59826,82245,SAMN12253848,GCA_013400295.1,NA,Illumina HiSeq,no
+GCA_013400445.1,Leiothrix lutea (red-billed leiothrix),Leiothrix lutea,70,7/10/20 0:00,B10K Consortium,27764,297511,SAMN12253856,GCA_013400445.1,NA,Illumina HiSeq,no
+GCA_013399835.1,Leptocoma aspasia (birds),Leptocoma aspasia,44,7/10/20 0:00,B10K Consortium,89252,743438,SAMN12253793,GCA_013399835.1,NA,Illumina HiSeq,no
+GCA_013397325.1,Leucopsar rothschildi (Bali myna),Leucopsar rothschildi,43,7/10/20 0:00,B10K Consortium,93565,605901,SAMN12253829,GCA_013397325.1,NA,Illumina HiSeq,no
+GCA_013400155.1,Locustella ochotensis (Middendorff's grasshopper-warbler),Locustella ochotensis,93,7/10/20 0:00,B10K Consortium,58272,653738,SAMN12253834,GCA_013400155.1,NA,Illumina HiSeq,no
+GCA_013396455.1,Lophotis ruficrista (birds),Lophotis ruficrista,60,7/10/20 0:00,B10K Consortium,57900,702395,SAMN12253761,GCA_013396455.1,NA,Illumina HiSeq,no
+GCA_013398455.1,Loxia curvirostra (birds),Loxia curvirostra,92,7/10/20 0:00,B10K Consortium,211346,3116274,SAMN12253984,GCA_013398455.1,NA,Illumina HiSeq,no
+GCA_013396895.1,Loxia leucoptera (white-winged crossbill),Loxia leucoptera,50,7/10/20 0:00,B10K Consortium,96290,614047,SAMN12253777,GCA_013396895.1,NA,Illumina HiSeq,no
+GCA_013397975.1,Machaerirhynchus nigripectus (birds),Machaerirhynchus nigripectus,44,7/10/20 0:00,B10K Consortium,76530,998129,SAMN12253945,GCA_013397975.1,NA,Illumina HiSeq,no
+GCA_013397995.1,Malurus elegans (Red-winged fairywren),Malurus elegans,52,7/10/20 0:00,B10K Consortium,74070,458136,SAMN12253946,GCA_013397995.1,NA,Illumina HiSeq,no
+GCA_013397845.1,Melanocharis versteri (Fan-tailed berrypecker),Melanocharis versteri,54,7/10/20 0:00,B10K Consortium,103752,854663,SAMN12253939,GCA_013397845.1,NA,Illumina HiSeq,no
+GCA_013398205.1,Melospiza melodia (song sparrow),Melospiza melodia,368,7/10/20 0:00,B10K Consortium,181098,9239070,SAMN12253982,GCA_013398205.1,NA,ILLUMINA; PACBIO_SMRT,yes
+GCA_013396355.1,Menura novaehollandiae (superb lyrebird),Menura novaehollandiae,60,7/10/20 0:00,B10K Consortium,85461,2360993,SAMN12253747,GCA_013396355.1,NA,Illumina HiSeq,no
+GCA_013399675.1,Mesembrinibis cayennensis (birds),Mesembrinibis cayennensis,40,7/10/20 0:00,B10K Consortium,85098,482795,SAMN12253800,GCA_013399675.1,NA,Illumina HiSeq,no
+GCA_013397495.1,Mionectes macconnelli (McConnell's flycatcher),Mionectes macconnelli,73,7/10/20 0:00,B10K Consortium,72805,1646422,SAMN12253879,GCA_013397495.1,NA,Illumina HiSeq,no
+GCA_013398855.1,Mohoua ochrocephala (birds),Mohoua ochrocephala,35,7/10/20 0:00,B10K Consortium,54215,206785,SAMN12253963,GCA_013398855.1,NA,Illumina HiSeq,no
+GCA_013401155.1,Molothrus ater (birds),Molothrus ater,63,7/10/20 0:00,B10K Consortium,89160,1946625,SAMN12254001,GCA_013401155.1,NA,Illumina HiSeq,no
+GCA_013397355.1,Motacilla alba (white wagtail),Motacilla alba,50,7/10/20 0:00,B10K Consortium,87013,683060,SAMN12253824,GCA_013397355.1,NA,Illumina HiSeq,no
+GCA_013397015.1,Myiagra hebetior (birds),Myiagra hebetior,46,7/10/20 0:00,B10K Consortium,66181,831089,SAMN12253791,GCA_013397015.1,NA,Illumina HiSeq,no
+GCA_013400655.1,Mystacornis crossleyi (Crossley's babbler),Mystacornis crossleyi,45,7/10/20 0:00,B10K Consortium,10653,36392,SAMN12253876,GCA_013400655.1,NA,Illumina HiSeq,no
+GCA_013400695.1,Neodrepanis coruscans (wattled asity),Neodrepanis coruscans,46,7/10/20 0:00,B10K Consortium,7054,18836,SAMN12253874,GCA_013400695.1,NA,Illumina HiSeq,no
+GCA_013397415.1,Neopipo cinnamomea (birds),Neopipo cinnamomea,72,7/10/20 0:00,B10K Consortium,43146,485965,SAMN12253882,GCA_013397415.1,NA,Illumina HiSeq,no
+GCA_013398715.1,Nesospiza acunhae (birds),Nesospiza acunhae,110,7/10/20 0:00,B10K Consortium,38571,1027905,SAMN12254004,GCA_013398715.1,NA,Illumina HiSeq,no
+GCA_013400495.1,Nicator chloris (birds),Nicator chloris,78,7/10/20 0:00,B10K Consortium,56498,99492,SAMN12253854,GCA_013400495.1,NA,Illumina HiSeq,no
+GCA_013398735.1,Nothocercus julius (birds),Nothocercus julius,77,7/10/20 0:00,B10K Consortium,37646,4059565,SAMN12253972,GCA_013398735.1,NA,Illumina HiSeq,no
+GCA_013398345.1,Nothocercus nigrocapillus (birds),Nothocercus nigrocapillus,80,7/10/20 0:00,B10K Consortium,31010,2648942,SAMN12253973,GCA_013398345.1,NA,Illumina HiSeq,no
+GCA_013398335.1,Nothoprocta ornata (birds),Nothoprocta ornata,85,7/10/20 0:00,B10K Consortium,47308,3788443,SAMN12253974,GCA_013398335.1,NA,Illumina HiSeq,no
+GCA_013398315.1,Nothoprocta pentlandii (birds),Nothoprocta pentlandii,94,7/10/20 0:00,B10K Consortium,45203,1104275,SAMN12253975,GCA_013398315.1,NA,Illumina HiSeq,no
+GCA_013398075.1,Notiomystis cincta (birds),Notiomystis cincta,43,7/10/20 0:00,B10K Consortium,50117,154199,SAMN12253957,GCA_013398075.1,NA,Illumina HiSeq,no
+GCA_013396595.1,Nyctibius bracteatus (Rufous potoo),Nyctibius bracteatus,59,7/10/20 0:00,B10K Consortium,33238,380686,SAMN12253753,GCA_013396595.1,NA,Illumina HiSeq,no
+GCA_013399155.1,Nyctibius grandis (birds),Nyctibius grandis,44,7/10/20 0:00,B10K Consortium,64960,158961,SAMN12253808,GCA_013399155.1,NA,Illumina HiSeq,no
+GCA_013400055.1,Nycticryphes semicollaris (birds),Nycticryphes semicollaris,41,7/10/20 0:00,B10K Consortium,74117,702727,SAMN12253838,GCA_013400055.1,NA,Illumina HiSeq,no
+GCA_013399395.1,Nyctiprogne leucopyga (birds),Nyctiprogne leucopyga,62,7/10/20 0:00,B10K Consortium,28894,190423,SAMN12253883,GCA_013399395.1,NA,Illumina HiSeq,no
+GCA_013396615.1,Oceanites oceanicus (Wilson's storm-petrel),Oceanites oceanicus,67,7/10/20 0:00,B10K Consortium,28090,406319,SAMN12253754,GCA_013396615.1,NA,Illumina HiSeq,no
+GCA_013399175.1,Odontophorus gujanensis (marbled wood quail),Odontophorus gujanensis,52,7/10/20 0:00,B10K Consortium,74578,343789,SAMN12253806,GCA_013399175.1,NA,Illumina HiSeq,no
+GCA_013399995.1,Oenanthe oenanthe (Northern wheatear),Oenanthe oenanthe,52,7/10/20 0:00,B10K Consortium,44998,507914,SAMN12253823,GCA_013399995.1,NA,Illumina HiSeq,no
+GCA_013397825.1,Onychorhynchus coronatus (birds),Onychorhynchus coronatus,71,7/10/20 0:00,B10K Consortium,96253,2999088,SAMN12253933,GCA_013397825.1,NA,Illumina HiSeq,no
+GCA_013398015.1,Oreocharis arfaki (tit berrypecker),Oreocharis arfaki,45,7/10/20 0:00,B10K Consortium,109596,636482,SAMN12253944,GCA_013398015.1,NA,Illumina HiSeq,no
+GCA_013400995.1,Oreotrochilus melanogaster (birds),Oreotrochilus melanogaster,50,7/10/20 0:00,B10K Consortium,7679,167855,SAMN12253978,GCA_013400995.1,NA,Illumina HiSeq,no
+GCA_013397895.1,Origma solitaria (birds),Origma solitaria,47,7/10/20 0:00,B10K Consortium,99117,1255867,SAMN12253952,GCA_013397895.1,NA,Illumina HiSeq,no
+GCA_013400235.1,Oriolus oriolus (Eurasian golden-oriole),Oriolus oriolus,40,7/10/20 0:00,B10K Consortium,97892,716337,SAMN12253845,GCA_013400235.1,NA,Illumina HiSeq,no
+GCA_013397795.1,Orthonyx spaldingii (northern chowchilla),Orthonyx spaldingii,46,7/10/20 0:00,B10K Consortium,81405,1302835,SAMN12253936,GCA_013397795.1,NA,Illumina HiSeq,no
+GCA_013400675.1,Oxylabes madagascariensis (white-throated Oxylabes),Oxylabes madagascariensis,40,7/10/20 0:00,B10K Consortium,3531,17018,SAMN12253875,GCA_013400675.1,NA,Illumina HiSeq,no
+GCA_013399855.1,Oxyruncus cristatus (sharpbill),Oxyruncus cristatus,49,7/10/20 0:00,B10K Consortium,75750,1139285,SAMN12253832,GCA_013399855.1,NA,Illumina HiSeq,no
+GCA_013397055.1,Pachycephala philippinensis (yellow-belllied whistler),Pachycephala philippinensis,41,7/10/20 0:00,B10K Consortium,60658,492780,SAMN12253786,GCA_013397055.1,NA,Illumina HiSeq,no
+GCA_013397135.1,Pachyramphus minor (birds),Pachyramphus minor,40,7/10/20 0:00,B10K Consortium,89585,564837,SAMN12253822,GCA_013397135.1,NA,Illumina HiSeq,no
+GCA_013401275.1,Pandion haliaetus (osprey),Pandion haliaetus,46,7/10/20 0:00,B10K Consortium,23447,104045,SAMN12253917,GCA_013401275.1,NA,Illumina HiSeq,no
+GCA_013398035.1,Panurus biarmicus (birds),Panurus biarmicus,109,7/10/20 0:00,B10K Consortium,18922,121818,SAMN12253962,GCA_013398035.1,NA,Illumina HiSeq,no
+GCA_013397395.1,Paradoxornis webbianus (crow tit),Paradoxornis webbianus,47,7/10/20 0:00,B10K Consortium,78603,970774,SAMN12253833,GCA_013397395.1,NA,Illumina HiSeq,no
+GCA_013400915.1,Pardalotus punctatus (spotted pardalote),Pardalotus punctatus,47,7/10/20 0:00,B10K Consortium,83169,306807,SAMN12253951,GCA_013400915.1,NA,Illumina HiSeq,no
+GCA_013401095.1,Passerina amoena (birds),Passerina amoena,115,7/10/20 0:00,B10K Consortium,54910,646716,SAMN12253987,GCA_013401095.1,NA,Illumina HiSeq,no
+GCA_013398155.1,Pedionomus torquatus (plains-wanderer),Pedionomus torquatus,41,7/10/20 0:00,B10K Consortium,36855,254645,SAMN12253960,GCA_013398155.1,NA,Illumina HiSeq,no
+GCA_013400755.1,Pelecanoides urinatrix (birds),Pelecanoides urinatrix,81,7/10/20 0:00,B10K Consortium,93910,250258,SAMN12253911,GCA_013400755.1,NA,Illumina HiSeq,no
+GCA_013396635.1,Penelope pileata (birds),Penelope pileata,48,7/10/20 0:00,B10K Consortium,84123,732582,SAMN12253771,GCA_013396635.1,NA,Illumina HiSeq,no
+GCA_013400575.1,Peucedramus taeniatus (olive warbler),Peucedramus taeniatus,51,7/10/20 0:00,B10K Consortium,61982,183857,SAMN12253863,GCA_013400575.1,NA,Illumina HiSeq,no
+GCA_013399535.1,Phaetusa simplex (large-billed tern),Phaetusa simplex,48,7/10/20 0:00,B10K Consortium,16901,520939,SAMN12253896,GCA_013399535.1,NA,Illumina HiSeq,no
+GCA_013400175.1,Phainopepla nitens (birds),Phainopepla nitens,43,7/10/20 0:00,B10K Consortium,74322,542914,SAMN12253850,GCA_013400175.1,NA,Illumina HiSeq,no
+GCA_013398405.1,Pheucticus melanocephalus (birds),Pheucticus melanocephalus,119,7/10/20 0:00,B10K Consortium,57804,697372,SAMN12253988,GCA_013398405.1,NA,Illumina HiSeq,no
+GCA_013399295.1,Piprites chloris (white-winged piprites),Piprites chloris,75,7/10/20 0:00,B10K Consortium,75890,2866662,SAMN12253889,GCA_013399295.1,NA,Illumina HiSeq,no
+GCA_013399945.1,Ploceus nigricollis (birds),Ploceus nigricollis,46,7/10/20 0:00,B10K Consortium,74004,730145,SAMN12253827,GCA_013399945.1,NA,Illumina HiSeq,no
+GCA_013400795.1,Pluvianellus socialis (magellanic plover),Pluvianellus socialis,48,7/10/20 0:00,B10K Consortium,48629,121952,SAMN12253906,GCA_013400795.1,NA,Illumina HiSeq,no
+GCA_013399755.1,Podargus strigoides (tawny frogmouth),Podargus strigoides,69,7/10/20 0:00,B10K Consortium,80636,176118,SAMN12253797,GCA_013399755.1,NA,Illumina HiSeq,no
+GCA_013399565.1,Podilymbus podiceps (birds),Podilymbus podiceps,67,7/10/20 0:00,B10K Consortium,35810,692269,SAMN12253895,GCA_013399565.1,NA,Illumina HiSeq,no
+GCA_013398625.1,Poecile atricapillus (Black-capped chickadee),Poecile atricapillus,101,7/10/20 0:00,B10K Consortium,109509,11311321,SAMN12253993,GCA_013398625.1,NA,Illumina HiSeq,no
+GCA_013397295.1,Polioptila caerulea (birds),Polioptila caerulea,52,7/10/20 0:00,B10K Consortium,50944,602916,SAMN12253816,GCA_013397295.1,NA,Illumina HiSeq,no
+GCA_013401195.1,Pomatorhinus ruficollis (streak-breasted scimitar babbler),Pomatorhinus ruficollis,83,7/10/20 0:00,B10K Consortium,60017,1256354,SAMN12253971,GCA_013401195.1,NA,Illumina HiSeq,no
+GCA_013400735.1,Pomatostomus ruficeps (chestnut-crowned babbler),Pomatostomus ruficeps,43,7/10/20 0:00,B10K Consortium,34780,71937,SAMN12253873,GCA_013400735.1,NA,Illumina HiSeq,no
+GCA_013397665.1,Probosciger aterrimus (palm cockatoo),Probosciger aterrimus,105,7/10/20 0:00,B10K Consortium,32274,198462,SAMN12253926,GCA_013397665.1,NA,Illumina HiSeq,no
+GCA_013398275.1,Promerops cafer (Cape sugarbird),Promerops cafer,55,7/10/20 0:00,B10K Consortium,128262,1179653,SAMN12253977,GCA_013398275.1,NA,Illumina HiSeq,no
+GCA_013400715.1,Prunella fulvescens (Brown accentor),Prunella fulvescens,49,7/10/20 0:00,B10K Consortium,26696,121881,SAMN12253912,GCA_013400715.1,NA,Illumina HiSeq,no
+GCA_013398875.1,Prunella himalayana (birds),Prunella himalayana,74,7/10/20 0:00,B10K Consortium,38296,1815815,SAMN12253920,GCA_013398875.1,NA,Illumina HiSeq,no
+GCA_013396835.1,Psilopogon haemacephalus (birds),Psilopogon haemacephalus,41,7/10/20 0:00,B10K Consortium,36269,297144,SAMN12253782,GCA_013396835.1,NA,Illumina HiSeq,no
+GCA_013399095.1,Psophia crepitans (common trumpeter),Psophia crepitans,42,7/10/20 0:00,B10K Consortium,58160,468890,SAMN12253810,GCA_013399095.1,NA,Illumina HiSeq,no
+GCA_013397535.1,Pterocles burchelli (birds),Pterocles burchelli,74,7/10/20 0:00,B10K Consortium,43196,594480,SAMN12253932,GCA_013397535.1,NA,Illumina HiSeq,no
+GCA_013401235.1,Pteruthius melanotis (birds),Pteruthius melanotis,52,7/10/20 0:00,B10K Consortium,34184,1869218,SAMN12253969,GCA_013401235.1,NA,Illumina HiSeq,no
+GCA_013397565.1,Ptilonorhynchus violaceus (satin bowerbird),Ptilonorhynchus violaceus,46,7/10/20 0:00,B10K Consortium,120946,1215016,SAMN12253905,GCA_013397565.1,NA,Illumina HiSeq,no
+GCA_013396485.1,Ptilorrhoa leucosticta (birds),Ptilorrhoa leucosticta,66,7/10/20 0:00,B10K Consortium,77643,1205068,SAMN12253757,GCA_013396485.1,NA,Illumina HiSeq,no
+GCA_013400435.1,Pycnonotus jocosus (red-whiskered bulbul),Pycnonotus jocosus,48,7/10/20 0:00,B10K Consortium,53855,218123,SAMN12253855,GCA_013400435.1,NA,Illumina HiSeq,no
+GCA_013399035.1,Quiscalus mexicanus (Great-tailed grackle),Quiscalus mexicanus,54,7/10/20 0:00,B10K Consortium,60532,93215,SAMN12253789,GCA_013399035.1,NA,Illumina HiSeq,no
+GCA_013399055.1,Ramphastos sulfuratus (birds),Ramphastos sulfuratus,76,7/10/20 0:00,B10K Consortium,38620,85980,SAMN12253788,GCA_013399055.1,NA,Illumina HiSeq,no
+GCA_013396955.1,Regulus satrapa (golden-crowned kinglet),Regulus satrapa,50,7/10/20 0:00,B10K Consortium,28936,363229,SAMN12253776,GCA_013396955.1,NA,Illumina HiSeq,no
+GCA_013397075.1,Rhabdornis inornatus (birds),Rhabdornis inornatus,50,7/10/20 0:00,B10K Consortium,152176,1047454,SAMN12253787,GCA_013397075.1,NA,Illumina HiSeq,no
+GCA_013400275.1,Rhadina sibilatrix (birds),Rhadina sibilatrix,50,7/10/20 0:00,B10K Consortium,38753,335188,SAMN12253847,GCA_013400275.1,NA,Illumina HiSeq,no
+GCA_013397725.1,Rhagologus leucostigma (birds),Rhagologus leucostigma,49,7/10/20 0:00,B10K Consortium,141346,1441581,SAMN12253942,GCA_013397725.1,NA,Illumina HiSeq,no
+GCA_013398505.1,Rhegmatorhina hoffmannsi (white-breasted antbird),Rhegmatorhina hoffmannsi,151,7/10/20 0:00,B10K Consortium,73812,11805716,SAMN12253983,GCA_013398505.1,NA,Illumina HiSeq,no
+GCA_013400115.1,Rhinopomastus cyanomelas (common scimitar-bill),Rhinopomastus cyanomelas,51,7/10/20 0:00,B10K Consortium,114804,415862,SAMN12253851,GCA_013400115.1,NA,Illumina HiSeq,no
+GCA_013400135.1,Rhinoptilus africanus (double-banded courser),Rhinoptilus africanus,39,7/10/20 0:00,B10K Consortium,52916,382637,SAMN12253852,GCA_013400135.1,NA,Illumina HiSeq,no
+GCA_013399225.1,Rhipidura dahli (birds),Rhipidura dahli,49,7/10/20 0:00,B10K Consortium,98056,789307,SAMN12253805,GCA_013399225.1,NA,Illumina HiSeq,no
+GCA_013396575.1,Rhodinocichla rosea (birds),Rhodinocichla rosea,67,7/10/20 0:00,B10K Consortium,29643,2545584,SAMN12253755,GCA_013396575.1,NA,Illumina HiSeq,no
+GCA_013398095.1,Rhynochetos jubatus (kagu),Rhynochetos jubatus,49,7/10/20 0:00,B10K Consortium,91152,965071,SAMN12253954,GCA_013398095.1,NA,Illumina HiSeq,no
+GCA_013401015.1,Rissa tridactyla (black-legged kittiwake),Rissa tridactyla,110,7/10/20 0:00,B10K Consortium,54641,17652270,SAMN12253991,GCA_013401015.1,NA,Illumina HiSeq,no
+GCA_013399305.1,Rostratula benghalensis (greater painted-snipe),Rostratula benghalensis,67,7/10/20 0:00,B10K Consortium,78725,3398382,SAMN12253888,GCA_013399305.1,NA,Illumina HiSeq,no
+GCA_013400035.1,Rynchops niger (black skimmer),Rynchops niger,39,7/10/20 0:00,B10K Consortium,57549,523074,SAMN12253840,GCA_013400035.1,NA,Illumina HiSeq,no
+GCA_013399415.1,Sagittarius serpentarius (hawks & eagles),Sagittarius serpentarius,39,7/10/20 0:00,B10K Consortium,36754,129671,SAMN12253901,GCA_013399415.1,NA,Illumina HiSeq,no
+GCA_013396695.1,Sakesphorus luctuosus (birds),Sakesphorus luctuosus,45,7/10/20 0:00,B10K Consortium,84116,564384,SAMN12253769,GCA_013396695.1,NA,Illumina HiSeq,no
+GCA_013398745.1,Sapayoa aenigma (broad-billed sapayoa),Sapayoa aenigma,94,7/10/20 0:00,B10K Consortium,60157,363559,SAMN12253965,GCA_013398745.1,NA,Illumina HiSeq,no
+GCA_013396755.1,Sclerurus mexicanus (tawny-throated leaftosser),Sclerurus mexicanus,46,7/10/20 0:00,B10K Consortium,128486,1030170,SAMN12253767,GCA_013396755.1,NA,Illumina HiSeq,no
+GCA_013400535.1,Scopus umbretta (hamerkop),Scopus umbretta,54,7/10/20 0:00,B10K Consortium,16158,32357,SAMN12253872,GCA_013400535.1,NA,Illumina HiSeq,no
+GCA_013400415.1,Scytalopus superciliaris (birds),Scytalopus superciliaris,43,7/10/20 0:00,B10K Consortium,60031,632025,SAMN12253857,GCA_013400415.1,NA,Illumina HiSeq,no
+GCA_013399775.1,Semnornis frantzii (birds),Semnornis frantzii,46,7/10/20 0:00,B10K Consortium,8608,16361,SAMN12253798,GCA_013399775.1,NA,Illumina HiSeq,no
+GCA_013399895.1,Serilophus lunatus (silver-breasted broadbill),Serilophus lunatus,49,7/10/20 0:00,B10K Consortium,89885,848514,SAMN12253830,GCA_013399895.1,NA,Illumina HiSeq,no
+GCA_013399655.1,Setophaga kirtlandii (Kirtland's warbler),Setophaga kirtlandii,44,7/10/20 0:00,B10K Consortium,77437,583164,SAMN12253801,GCA_013399655.1,NA,Illumina HiSeq,no
+GCA_013400255.1,Sitta europaea (wood nuthatch),Sitta europaea,51,7/10/20 0:00,B10K Consortium,79571,660828,SAMN12253846,GCA_013400255.1,NA,Illumina HiSeq,no
+GCA_013396465.1,Smithornis capensis (birds),Smithornis capensis,68,7/10/20 0:00,B10K Consortium,67220,1785105,SAMN12253759,GCA_013396465.1,NA,Illumina HiSeq,no
+GCA_013398795.1,Spelaeornis formosus (spotted wren-babbler),Spelaeornis formosus,65,7/10/20 0:00,B10K Consortium,43159,1152566,SAMN12253967,GCA_013398795.1,NA,Illumina HiSeq,no
+GCA_013399215.1,Spizaetus tyrannus (black hawk-eagle),Spizaetus tyrannus,57,7/10/20 0:00,B10K Consortium,72446,1501215,SAMN12253891,GCA_013399215.1,NA,Illumina HiSeq,no
+GCA_013401375.1,Spizella passerina (chipping sparrow),Spizella passerina,71,7/10/20 0:00,B10K Consortium,9017,13068,SAMN12253929,GCA_013401375.1,NA,Illumina HiSeq,no
+GCA_013398225.1,Steatornis caripensis (oilbird),Steatornis caripensis,57,7/10/20 0:00,B10K Consortium,38015,306642,SAMN12253980,GCA_013398225.1,NA,Illumina HiSeq,no
+GCA_013396915.1,Stercorarius parasiticus (birds),Stercorarius parasiticus,36,7/10/20 0:00,B10K Consortium,107045,644604,SAMN12253778,GCA_013396915.1,NA,Illumina HiSeq,no
+GCA_013397095.1,Sterrhoptilus dennistouni (birds),Sterrhoptilus dennistouni,46,7/10/20 0:00,B10K Consortium,50778,955539,SAMN12253785,GCA_013397095.1,NA,Illumina HiSeq,no
+GCA_013397865.1,Struthidea cinerea (birds),Struthidea cinerea,45,7/10/20 0:00,B10K Consortium,74270,1098961,SAMN12253937,GCA_013397865.1,NA,Illumina HiSeq,no
+GCA_013398435.1,Sylvia atricapilla (blackcap),Sylvia atricapilla,283,7/10/20 0:00,B10K Consortium,57175,16014248,SAMN12253985,GCA_013398435.1,NA,Illumina HiSeq,no
+GCA_013400015.1,Sylvia borin (garden warbler),Sylvia borin,48,7/10/20 0:00,B10K Consortium,55510,729727,SAMN12253842,GCA_013400015.1,NA,Illumina HiSeq,no
+GCA_013399515.1,Sylvietta virens (Green crombec),Sylvietta virens,55,7/10/20 0:00,B10K Consortium,33668,2514434,SAMN12253897,GCA_013399515.1,NA,Illumina HiSeq,no
+GCA_013400615.1,Syrrhaptes paradoxus (Pallas's sandgrouse),Syrrhaptes paradoxus,65,7/10/20 0:00,B10K Consortium,33027,83867,SAMN12253880,GCA_013400615.1,NA,Illumina HiSeq,no
+GCA_013396555.1,Tachuris rubrigastra (birds),Tachuris rubrigastra,57,7/10/20 0:00,B10K Consortium,66111,2761092,SAMN12253756,GCA_013396555.1,NA,Illumina HiSeq,no
+GCA_013400895.1,Thalassarche chlororhynchos (Atlantic yellow-nosed albatross),Thalassarche chlororhynchos,45,7/10/20 0:00,B10K Consortium,23404,47773,SAMN12253934,GCA_013400895.1,NA,Illumina HiSeq,no
+GCA_013400375.1,Thinocorus orbignyianus (birds),Thinocorus orbignyianus,40,7/10/20 0:00,B10K Consortium,75634,845400,SAMN12253858,GCA_013400375.1,NA,Illumina HiSeq,no
+GCA_013397245.1,Thryothorus ludovicianus (Carolina wren),Thryothorus ludovicianus,46,7/10/20 0:00,B10K Consortium,60402,495202,SAMN12253818,GCA_013397245.1,NA,Illumina HiSeq,no
+GCA_013397375.1,Toxostoma redivivum (birds),Toxostoma redivivum,50,7/10/20 0:00,B10K Consortium,88070,747747,SAMN12253839,GCA_013397375.1,NA,Illumina HiSeq,no
+GCA_013400475.1,Tricholaema leucomelas (pied barbet),Tricholaema leucomelas,76,7/10/20 0:00,B10K Consortium,77267,294019,SAMN12253853,GCA_013400475.1,NA,Illumina HiSeq,no
+GCA_013399275.1,Trogon melanurus (black-tailed trogon),Trogon melanurus,69,7/10/20 0:00,B10K Consortium,51448,600933,SAMN12253890,GCA_013399275.1,NA,Illumina HiSeq,no
+GCA_013400935.1,Turnix velox (Little buttonquail),Turnix velox,52,7/10/20 0:00,B10K Consortium,44031,151069,SAMN12253947,GCA_013400935.1,NA,Illumina HiSeq,no
+GCA_013399735.1,Tyrannus savana (Fork-tailed flycatcher),Tyrannus savana,47,7/10/20 0:00,B10K Consortium,72317,436182,SAMN12253795,GCA_013399735.1,NA,Illumina HiSeq,no
+GCA_013397515.1,Upupa epops (Eurasian hoopoe),Upupa epops,49,7/10/20 0:00,B10K Consortium,49406,227838,SAMN12253908,GCA_013397515.1,NA,Illumina HiSeq,no
+GCA_013401055.1,Uria aalge (common murre),Uria aalge,95,7/10/20 0:00,B10K Consortium,23216,11658233,SAMN12253989,GCA_013401055.1,NA,Illumina HiSeq,no
+GCA_013401255.1,Urocolius indicus (birds),Urocolius indicus,89,7/10/20 0:00,B10K Consortium,94415,261726,SAMN12253966,GCA_013401255.1,NA,Illumina HiSeq,no
+GCA_013397555.1,Urocynchramus pylzowi (birds),Urocynchramus pylzowi,59,7/10/20 0:00,B10K Consortium,53989,858275,SAMN12253909,GCA_013397555.1,NA,Illumina HiSeq,no
+GCA_013398495.1,Vidua chalybeata (birds),Vidua chalybeata,81,7/10/20 0:00,B10K Consortium,387567,916466,SAMN12254000,GCA_013398495.1,NA,ILLUMINA; PACBIO_SMRT,yes
+GCA_013400395.1,Vidua macroura (birds),Vidua macroura,47,7/10/20 0:00,B10K Consortium,37790,170489,SAMN12253861,GCA_013400395.1,NA,Illumina HiSeq,no
+GCA_013396875.1,Vireo altiloquus (black-whiskered vireo),Vireo altiloquus,47,7/10/20 0:00,B10K Consortium,121572,668056,SAMN12253780,GCA_013396875.1,NA,Illumina HiSeq,no
+GCA_013401175.1,Xiphorhynchus elegans (elegant woodcreeper),Xiphorhynchus elegans,79,7/10/20 0:00,B10K Consortium,62223,172271,SAMN12254008,GCA_013401175.1,NA,10X Genomics linked reads,no
+GCA_013400835.1,Zapornia atra (birds),Zapornia atra,45,7/10/20 0:00,B10K Consortium,44130,134191,SAMN12253903,GCA_013400835.1,NA,Illumina HiSeq,no
+GCA_013399795.1,Zosterops hypoxanthus (birds),Zosterops hypoxanthus,47,7/10/20 0:00,B10K Consortium,48044,306037,SAMN12253794,GCA_013399795.1,NA,Illumina HiSeq,no
+GCA_013407035.1,Corvus monedula (jackdaw),Corvus monedula,64,7/13/20 0:00,Univerisity of Munich,23262489,73777161,SAMN14646012,GCA_013407035.1,NA,PacBio; Hi-C,yes
+GCA_013433245.1,Ara glaucogularis (Blue-throated macaw),Ara glaucogularis,150,7/21/20 0:00,Texas A&M University,11243935,63877199,SAMN15376960,GCA_013433245.1,NA,Illumina NovaSeq; Oxford Nanopore GridION; BioNano Optical Mapping,yes
+GCA_900496995.3,Aquila chrysaetos chrysaetos (golden eagle),Aquila chrysaetos,60,7/31/20 0:00,SC,21924221,46934974,SAMEA994725,GCA_900496995.3,NA,NA,NA
+GCA_014362705.1,Columba janthina nitens (Japanese wood-pigeon),Columba janthina,60,8/22/20 0:00,"Environmental Genomics Office, Center for Enviromental Biology and Ecosystem Studies, National Institute for Environmental Studies",109998,187831,SAMD00237431,GCA_014362705.1,NA,Illumina Novaseq6000,no
+GCA_014363025.1,Corvus macrorhynchos (Large-billed crow),Corvus macrorhynchos,58,8/22/20 0:00,"Environmental Genomics Office, Center for Enviromental Biology and Ecosystem Studies, National Institute for Environmental Studies",52265,133802,SAMD00237434,GCA_014363025.1,NA,Illumina Novaseq6000,no
+GCA_014362685.1,Cygnus cygnus (common whooper),Cygnus cygnus,57,8/22/20 0:00,"Environmental Genomics Office, Center for Environmental Biology and Ecosystem Studies, National Institute for Environmental Studies",25015,71936,SAMD00237433,GCA_014362685.1,NA,Illumina Novaseq6000,no
+GCA_014363165.1,Fratercula cirrhata (birds),Fratercula cirrhata,85,8/22/20 0:00,"Environmental Genomics Office, Center for Enviromental Biology and Ecosystem Studies, National Institute for Environmental Studies",19680,54950,SAMD00237436,GCA_014363165.1,NA,Illumina Novaseq6000,no
+GCA_014363185.1,Haliaeetus pelagicus (Steller's sea-eagle),Haliaeetus pelagicus,49,8/22/20 0:00,"Environmental Genomics Office, Center for Environmental Biology and Ecosystem Studies, National Institute for Environmental Studies",86631,179278,SAMD00237430,GCA_014363185.1,NA,Illumina Novaseq6000,no
+GCA_014363365.1,Leucopsar rothschildi (Bali myna),Leucopsar rothschildi,93,8/22/20 0:00,"Environmental Genomics Office, Center for Enviromental Biology and Ecosystem Studies, National Institute for Environmental Studies",104200,220241,SAMD00237439,GCA_014363365.1,NA,Illumina Novaseq6000,no
+GCA_014363385.1,Phoebastria albatrus (birds),Phoebastria albatrus,80,8/22/20 0:00,"Environmental Genomics Office, Center for Enviromental Biology and Ecosystem Studies, National Institute for Environmental Studies",43134,87989,SAMD00237437,GCA_014363385.1,NA,Illumina Novaseq6000,no
+GCA_014363425.1,Uria aalge inornata (common murre),Uria aalge,74,8/22/20 0:00,"Environmental Genomics Office, Center for Enviromental Biology and Ecosystem Studies, National Institute for Environmental Studies",19433,39335,SAMD00237438,GCA_014363425.1,NA,Illumina Novaseq6000,no
+GCA_000332375.2,Amazona vittata (Puerto Rican parrot),Amazona vittata,13,8/28/20 0:00,Puerto Rican Parrot Genome Project,29306,101034,SAMN02981494,GCA_000332375.2,NA,Illumina HiSeq,no
+GCA_014549065.1,Cardinalis cardinalis (northern cardinal),Cardinalis cardinalis,59,9/15/20 0:00,Harvard University,133919,3635514,SAMN15394674,GCA_014549065.1,NA,Illumina HiSeq,no
+GCA_014595935.1,Numida meleagris (helmeted guineafowl),Numida meleagris,1,9/15/20 0:00,"Kunming Institute of Zoology, Chinese Academy of Sciences",14170429,98083000,SAMN15246817,GCA_014595935.1,NA,PacBio Sequel,yes
+GCA_014706015.1,Lycocorax pyrrhopterus obiensis (birds),Lycocorax pyrrhopterus,70,9/23/20 0:00,Uppsala University,7452883,74168823,SAMN15881074,GCA_014706015.1,NA,PacBio RSII,yes
+GCA_014706025.1,Lycocorax pyrrhopterus obiensis (birds),Lycocorax pyrrhopterus,70,9/23/20 0:00,Uppsala University,6294665,69066023,SAMN15881073,GCA_014706025.1,NA,PacBio RSII,yes
+GCA_014706035.1,Lycocorax pyrrhopterus obiensis (birds),Lycocorax pyrrhopterus,70,9/23/20 0:00,Uppsala University,6294665,8009555,SAMN15881072,GCA_014706035.1,NA,PacBio RSII,yes
+GCA_014706055.1,Lycocorax pyrrhopterus obiensis (birds),Lycocorax pyrrhopterus,70,9/23/20 0:00,Uppsala University,6294665,6644037,SAMN15881071,GCA_014706055.1,NA,PacBio RSII,yes
+GCA_014706265.1,Lycocorax pyrrhopterus obiensis (birds),Lycocorax pyrrhopterus,70,9/23/20 0:00,Uppsala University,6103580,70588798,SAMN15881068,GCA_014706265.1,NA,PacBio RSII,yes
+GCA_014706275.1,Lycocorax pyrrhopterus obiensis (birds),Lycocorax pyrrhopterus,90,9/23/20 0:00,Uppsala University,1727421,4229628,SAMN15881067,GCA_014706275.1,NA,Illumina HiSeq,no
+GCA_014706285.1,Lycocorax pyrrhopterus obiensis (birds),Lycocorax pyrrhopterus,70,9/23/20 0:00,Uppsala University,6103580,6103580,SAMN15881066,GCA_014706285.1,NA,PacBio RSII,yes
+GCA_014706295.1,Lycocorax pyrrhopterus obiensis (birds),Lycocorax pyrrhopterus,70,9/23/20 0:00,Uppsala University,7380351,74168823,SAMN15881065,GCA_014706295.1,NA,PacBio RSII,yes
+GCA_014706395.1,Lycocorax pyrrhopterus obiensis (birds),Lycocorax pyrrhopterus,30,9/23/20 0:00,Uppsala University,98550,4360585,SAMN15881069,GCA_014706395.1,NA,Illumina HiSeq,no
+GCA_014805655.1,Passer montanus (Eurasian tree sparrow),Passer montanus,141,9/30/20 0:00,"Institute of Zoology, Chinese Academy of Sciences",1083540,11160574,SAMN07998528,GCA_014805655.1,NA,Illumina HiSeq,no
+GCA_014839825.1,Picoides pubescens (Downy woodpecker),Picoides pubescens,62.43,9/30/20 0:00,Vertebrate Genomes Project,2189221,2189221,SAMN12629497,GCA_014839835.1,NA,PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_014839835.1,Picoides pubescens (Downy woodpecker),Picoides pubescens,62.43,9/30/20 0:00,Vertebrate Genomes Project,19150283,38715865,SAMN12629497,GCA_014839825.1,NA,PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_014839755.1,Sylvia borin (garden warbler),Sylvia borin,72.07,9/30/20 0:00,Vertebrate Genomes Project,31914676,72750092,SAMN12618613,GCA_014839755.1,NA,PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_014839765.1,Sylvia borin (garden warbler),Sylvia borin,72.07,9/30/20 0:00,Vertebrate Genomes Project,4687358,4687358,SAMN12618613,GCA_014839765.1,NA,PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_015163975.1,Pyrrhura lepida (Pearly parakeet),Pyrrhura lepida,90,11/1/20 0:00,IRIDIAN GENOMES,70170,2531370,SAMN09681978,GCA_015163975.1,NA,Illumina,no
+GCA_015220155.1,Falco rusticolus (gyrfalcon),Falco rusticolus,44.28,11/2/20 0:00,Vertebrate Genomes Project,76252,76252,SAMN12629496,GCA_015220155.1,NA,PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_015220175.1,Pogoniulus pusillus (Red-fronted tinkerbird),Pogoniulus pusillus,165.44,11/2/20 0:00,Vertebrate Genomes Project,647387,647387,SAMN15098508,GCA_015220805.1,NA,PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_015220805.1,Pogoniulus pusillus (Red-fronted tinkerbird),Pogoniulus pusillus,165.44,11/2/20 0:00,Vertebrate Genomes Project,16792259,33994490,SAMN15098508,GCA_015220175.1,NA,PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCF_015220075.1,Falco rusticolus (gyrfalcon),Falco rusticolus,44.28,11/3/20 0:00,Vertebrate Genomes Project,15323486,91094845,SAMN12629496,GCA_015220075.1,GCF_015220075.1,PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_009819885.2,Catharus ustulatus (Swainson's thrush),Catharus ustulatus,60.58,11/4/20 0:00,Vertebrate Genomes Project,4908935,68462074,SAMN12618602,GCA_009819505.2,NA,PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_015227895.1,Colaptes auratus (northern flicker),Colaptes auratus,34,11/4/20 0:00,Texas Tech University,826960,43947546,SAMN14482758,GCA_015227895.1,NA,Illumina NovaSeq; PacBio Sequel,yes
+GCA_015227805.1,Hirundo rustica (Barn swallow),Hirundo rustica,51.15,11/4/20 0:00,Vertebrate Genomes Project,2794774,76187387,SAMN14675488,GCA_015227805.1,NA,PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_015227815.1,Hirundo rustica (Barn swallow),Hirundo rustica,51.15,11/4/20 0:00,Vertebrate Genomes Project,992690,992690,SAMN14675488,GCA_015227815.1,NA,PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_015227605.1,Phasianus colchicus (Ring-necked pheasant),Phasianus colchicus,80,11/4/20 0:00,Shanghai Jiao Tong University,1328716,59462841,SAMN12811331,GCA_015227605.1,NA,PacBio Sequel; PacBio RSII; Illumina,yes
+GCA_009819505.2,Catharus ustulatus (Swainson's thrush),Catharus ustulatus,60.58,11/5/20 0:00,Vertebrate Genomes Project,1498444,1498444,SAMN12618602,GCA_009819885.2,NA,PacBio Sequel I CLR; Illumina NovaSeq; Arima Genomics Hi-C; Bionano Genomics DLS,yes
+GCA_015343275.1,Lycocorax pyrrhopterus obiensis (birds),Lycocorax pyrrhopterus,30,11/10/20 0:00,Uppsala University,97575,4748626,SAMN15881070,GCA_015343275.1,NA,Illumina HiSeq,no
+GCA_015532645.1,Fringilla coelebs coelebs (chaffinch),Fringilla coelebs,274,11/17/20 0:00,Museo Nacional de Ciencias Naturales,67082,68853404,SAMN16636146,GCA_015532645.1,NA,Illumina HiSeq,no
+GCF_015476345.1,Anas platyrhynchos (mallard),Anas platyrhynchos,143,11/23/20 0:00,Zhejiang University,5679408,76269206,SAMN15588841,GCA_015476345.1,GCF_015476345.1,PacBio RSII; PacBio Sequel,yes
+GCA_003945595.2,Pipra filicauda (Wire-tailed manakin),Pipra filicauda,90,12/1/20 0:00,Smithsonian Institution,1677444,2585899,SAMN08774045,GCA_003945595.2,NA,Illumina HiSeq; PacBio,yes
+GCA_015832205.1,Motacilla alba alba (white wagtail),Motacilla alba,12,12/8/20 0:00,Uppsala University,251690,251690,SAMN16093224,GCA_015832205.1,NA,PacBio Sequel II HiFi,yes
+GCF_015832195.1,Motacilla alba alba (white wagtail),Motacilla alba,18,12/8/20 0:00,Uppsala University,8515530,72386170,SAMN16093224,GCA_015832195.1,GCF_015832195.1,PacBio Sequel II HiFi,yes
+GCA_001746935.2,Setophaga coronata coronata (myrtle warbler),Setophaga coronata,100,12/8/20 0:00,Cornell University,43576,71386623,SAMN05224218,GCA_001746935.2,NA,Illumina,no
+GCA_015883425.1,Lamprotornis superbus (birds),Lamprotornis superbus,98,12/9/20 0:00,Columbia University,150333,4390367,SAMN16294059,GCA_015883425.1,NA,Illumina HiSeq,no
+GCA_003400225.2,Chlamydotis undulata undulata (Houbara bustard),Chlamydotis undulata,98,12/15/20 0:00,International Fund for Houbara Conservation,90121,3265787,SAMN09281226,GCA_003400225.2,NA,Illumina HiSeq,no
+GCA_016128335.1,Dromaius novaehollandiae (emu),Dromaius novaehollandiae,70,12/15/20 0:00,Zhejiang University,14094718,82723677,SAMN15183959,GCA_016128335.1,NA,PacBio RSII,yes

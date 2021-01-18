@@ -1,0 +1,17 @@
+AssemblyAccession,Organism,SpeciesName,Coverage,SubmissionDate,SubmitterOrganization,ContigN50,ScaffoldN50,BioSample
+GCA_009764475.1,Pristis pectinata (smalltooth sawfish),Pristis pectinata,61.91,2019/12/19 00:00,Vertebrate Genomes Project,17009522,101699621,SAMN12629505
+GCA_902713615.1,Scyliorhinus canicula (smaller spotted catshark),Scyliorhinus canicula,63,2020/12/17 00:00,SC,1862211,198790641,SAMEA994730
+GCF_010909765.1,Amblyraja radiata (thorny skate),Amblyraja radiata,128.24,2020/02/21 00:00,Vertebrate Genomes Project,1462921,62052929,SAMN09948523
+GCA_004010195.1,Chiloscyllium plagiosum (whitespotted bambooshark),Chiloscyllium plagiosum,280,2019/01/10 00:00,BGI,37239,72140027,SAMN09508879
+GCF_001642345.1,Rhincodon typus (whale shark),Rhincodon typus,20,2017/03/03 00:00,Emory University,144422,144422,SAMN04562461
+GCF_000165045.1,Callorhinchus milii (elephant shark),Callorhinchus milii,19.25,2013/12/11 00:00,"Institute of Molecular and Cell Biology, Singapore",46577,4521921,SAMN00000800
+GCA_003427335.1,Chiloscyllium punctatum (brownbanded bambooshark),Chiloscyllium punctatum,45,2018/08/02 00:00,"Phyloinformatics Unit, Division of Bio-Function Dynamics Imaging, Center for Life Science Technologies, RIKEN",21276,1963924,SAMD00098917
+GCA_012026655.1,Hydrolagus affinis (small-eyed rabbitfish),Hydrolagus affinis,35,2020/04/03 00:00,CIIMAR - Interdisciplinary Centre of Marine and Environmental Research,15857,19535,SAMN14087618
+GCA_003427355.1,Scyliorhinus torazame (cloudy catshark),Scyliorhinus torazame,68,2018/08/02 00:00,"Phyloinformatics Unit, Division of Bio-Function Dynamics Imaging, Center for Life Science Technologies, RIKEN",7146,282424,SAMD00098918
+GCA_000238235.1,Leucoraja erinacea (little skate),Leucoraja erinacea,26,2011/12/15 00:00,North East Cyberinfrastructure Consortium,665,665,SAMN00189066
+GCA_902204185.2,Carcharodon carcharias (great white shark),Carcharodon carcharias,45,2019/08/01 00:00,EBI,335,335,SAMN04526268
+GCA_009764485.1,Pristis pectinata (smalltooth sawfish),Pristis pectinata,61.91,2019/12/18 00:00,Vertebrate Genomes Project,261025,261025,SAMN12629505
+GCA_902713625.1,Scyliorhinus canicula (smaller spotted catshark),Scyliorhinus canicula,63,2020/12/18 00:00,SC,230697,230697,SAMEA994730
+GCA_013626285.1,Rhincodon typus (whale shark),Rhincodon typus,164,2020/07/24 00:00,Ulsan National Institute of Science and Technology,113611,3127311,SAMN09428498
+GCA_010909745.1,Amblyraja radiata (thorny skate),Amblyraja radiata,128.24,2020/02/14 00:00,Vertebrate Genomes Project,75113,75117,SAMN09948523
+GCA_003604245.1,Carcharodon carcharias (great white shark),Carcharodon carcharias,190,2018/10/01 00:00,Cornell University,46102,2991981,SAMN01915239

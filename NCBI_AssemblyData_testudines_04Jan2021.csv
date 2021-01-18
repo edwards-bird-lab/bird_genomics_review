@@ -1,0 +1,30 @@
+AssemblyAccession,Organism,SpeciesName,Coverage,SubmissionDate,SubmitterOrganization,ContigN50,ScaffoldN50,BioSample
+GCF_015237465.1,Chelonia mydas (Green sea turtle),Chelonia mydas,60,2020/11/05 00:00,Vertebrate Genomes Project,39415510,134428053,SAMN12612360
+GCA_016161935.1,Mauremys reevesii (Reeves's turtle),Mauremys reevesii,96.7,2020/12/21 00:00,Anhui normal university,33352699,130473029,SAMN16454374
+GCF_007399415.2,Gopherus evgoodei (Goodes thornscrub tortoise),Gopherus evgoodei,58,2019/07/25 00:00,Vertebrate Genomes Project,13026736,147425149,SAMN03496275
+GCF_009764565.2,Dermochelys coriacea (leatherback sea turtle),Dermochelys coriacea,63.68,2020/12/09 00:00,G10K,7029801,137568771,SAMN12629498
+GCF_013100865.1,Trachemys scripta elegans (red-eared slider turtle),Trachemys scripta,60,2020/05/15 00:00,California Academy of Sciences,204575,140411086,SAMN12189062
+GCA_000241765.5,Chrysemys picta bellii (western painted turtle),Chrysemys picta,19.2,2020/08/21 00:00,Painted turtle genome sequencing consortium,21318,16028813,SAMN02713681
+GCA_001728815.2,Malaclemys terrapin terrapin (diamondback terrapin),Malaclemys terrapin,16,2016/09/20 00:00,University of Maryland,437266,437266,SAMN05591378
+GCA_007922225.1,Emydura subglobosa (turtles),Emydura subglobosa,61,2019/08/05 00:00,McDonnell Genome Institute - Washington University School of Medicine,350989,44759016,SAMN10723686
+GCA_003942145.1,Platysternon megacephalum (big-headed turtle),Platysternon megacephalum,208,2018/12/12 00:00,Novogene,213602,7221511,SAMN09536731
+GCA_007922305.1,Dermatemys mawii (turtles),Dermatemys mawii,60,2019/08/05 00:00,McDonnell Genome Institute - Washington University School of Medicine,183958,34365009,SAMN10723923
+GCA_007922155.1,Mesoclemmys tuberculata (tuberculate toadhead turtle),Mesoclemmys tuberculata,73,2019/08/05 00:00,McDonnell Genome Institute - Washington University School of Medicine,146430,46415247,SAMN10734026
+GCA_007922195.1,Podocnemis expansa (turtles),Podocnemis expansa,60,2019/08/05 00:00,McDonnell Genome Institute - Washington University School of Medicine,134824,37101370,SAMN10723688
+GCA_007922185.1,Carettochelys insculpta (pitted-shelled turtle),Carettochelys insculpta,68,2019/08/05 00:00,McDonnell Genome Institute - Washington University School of Medicine,116202,45881824,SAMN10723924
+GCA_007922165.1,Chelydra serpentina (Common snapping turtle),Chelydra serpentina,65,2019/08/05 00:00,McDonnell Genome Institute - Washington University School of Medicine,80593,21135443,SAMN10724079
+GCF_002925995.2,Terrapene carolina triunguis (Three-toed box turtle),Terrapene carolina,69,2018/09/21 00:00,McDonnell Genome Institute - Washington University School of Medicine,76614,24249581,SAMN08285364
+GCA_007922175.1,Pelusios castaneus (West African mud turtle),Pelusios castaneus,50,2019/08/01 00:00,McDonnell Genome Institute - Washington University School of Medicine,74864,14055032,SAMN10724078
+GCA_003846335.1,Cuora mccordi (McCord's box turtle),Cuora mccordi,71,2018/11/28 00:00,McDonnell Genome Institute - Washington University School of Medicine,74338,32628679,SAMN10392581
+GCF_003597395.1,Chelonoidis abingdonii (Abingdon island giant tortoise),Chelonoidis abingdonii,28,2018/09/25 00:00,Universidad de Oviedo,73186,1277207,SAMN07840320
+GCA_009430475.1,Actinemys marmorata (Northwestern pond turtle),Actinemys marmorata,54,2019/10/31 00:00,McDonnell Genome Institute - Washington University School of Medicine,59125,13640393,SAMN10724089
+GCA_004028625.2,Cuora amboinensis (Amboina box turtle),Cuora amboinensis,58,2019/03/22 00:00,McDonnell Genome Institute - Washington University School of Medicine,47152,247606,SAMN10722981
+GCA_002896415.1,Gopherus agassizii (Agassiz's desert tortoise),Gopherus agassizii,118,2018/01/24 00:00,Arizona State University,43735,228109,SAMN05991319
+GCF_000230535.1,Pelodiscus sinensis (Chinese soft-shelled turtle),Pelodiscus sinensis,105,2012/07/24 00:00,P. sinensis genome project consortium,21993,3350749,SAMN02981371
+GCA_000385615.1,Apalone spinifera (spiny softshell turtle),Apalone spinifera,33.4,2013/05/03 00:00,WUGSC,4693,2306994,SAMN03004388
+GCA_007399395.1,Gopherus evgoodei (Goodes thornscrub tortoise),Gopherus evgoodei,58,2019/07/24 00:00,Vertebrate Genomes Project,655454,655454,SAMN03496275
+GCA_015220195.1,Chelonia mydas (Green sea turtle),Chelonia mydas,60,2020/11/02 00:00,G10K,454332,455478,SAMN12612360
+GCA_009762595.2,Dermochelys coriacea (leatherback sea turtle),Dermochelys coriacea,63.68,2020/12/08 00:00,Vertebrate Genomes Project,246490,246490,SAMN12629498
+GCA_011386835.1,Chrysemys picta (Painted turtle),Chrysemys picta,74,2020/03/16 00:00,Washington University School of Medicine,86765,15929002,SAMN13293682
+GCA_006547105.1,Dermochelys coriacea (leatherback sea turtle),Dermochelys coriacea,32,2019/07/01 00:00,Canada's Genomic Enterprise,45261,120030,SAMN11567340
+GCF_000344595.1,Chelonia mydas (Green sea turtle),Chelonia mydas,110,2013/03/18 00:00,BGI,29240,3864108,SAMN02981410

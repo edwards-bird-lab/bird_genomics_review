@@ -1,0 +1,1060 @@
+AssemblyAccession,Organism,SpeciesName,Coverage,SubmissionDate,SubmitterOrganization,ContigN50,ScaffoldN50,BioSample
+GCF_000002035.6,Danio rerio (zebrafish),Danio rerio,0,2017/05/09 00:00,Genome Reference Consortium,1422317,7379053,SAMN06930106
+GCF_002234675.1,Oryzias latipes (Japanese medaka),Oryzias latipes,0.99,2017/07/27 00:00,The University of Tokyo,2530934,31218526,SAMN06689957
+GCA_902810595.1,Coregonus sp. 'balchen' (bony fishes),Coregonus sp. 'balchen',90,2020/03/10 00:00,EAWAG,533126,52020451,SAMEA5807383
+GCA_004023545.1,Lateolabrax maculatus (spotted sea bass),Lateolabrax maculatus,302,2019/01/15 00:00,BGI,42653,22343975,SAMN07680090
+GCA_016271365.1,Neoceratodus forsteri (Australian lungfish),Neoceratodus forsteri,30,2020/12/22 00:00,University of Konstanz,1402697193,1485207024,SAMN15471169
+GCF_013368585.1,Megalops cyprinoides (Indo-Pacific tarpon),Megalops cyprinoides,104.34,2020/06/23 00:00,Vertebrate Genomes Project,26850664,38251172,SAMN12623619
+GCF_902362185.1,Chanos chanos (milkfish),Chanos chanos,68,2019/08/14 00:00,SC,23134051,50300218,SAMEA5159473
+GCA_902685375.1,Neostethus bicornis (bony fishes),Neostethus bicornis,119,2019/11/26 00:00,SC,23089617,29119677,SAMEA104240207
+GCF_011004845.1,Esox lucius (northern pike),Esox lucius,1,2020/03/05 00:00,Vertebrate Genomes Project,22630263,37473588,SAMN12623624
+GCA_009823395.1,Thamnaconus septentrionalis (bony fishes),Thamnaconus septentrionalis,104,2020/01/02 00:00,Yellow Sea Fisheries Research Institute,22457894,23049015,SAMN12753623
+GCF_013347765.1,Scophthalmus maximus (turbot),Scophthalmus maximus,30,2020/06/18 00:00,CIGENE,20466349,25949660,SAMN14896287
+GCA_013133815.1,Cromileptes altivelis (humpback grouper),Cromileptes altivelis,114.26,2020/05/20 00:00,Sun Yat-sen University,18269829,43466551,SAMN14537433
+GCF_013339905.1,Hippoglossus stenolepis (Pacific halibut),Hippoglossus stenolepis,91,2020/06/16 00:00,International Pacific Halibut Commission,17826919,24985257,SAMN14503176
+GCA_014839685.1,Anableps anableps (largescale foureyes),Anableps anableps,58.8,2020/09/30 00:00,Vertebrate Genomes Project,17460000,39321252,SAMN12623628
+GCF_009078355.1,Pangasianodon hypophthalmus (striped catfish),Pangasianodon hypophthalmus,147,2019/10/22 00:00,GenoFish,16187036,26458119,SAMN11969507
+GCF_013265735.2,Oncorhynchus mykiss (rainbow trout),Oncorhynchus mykiss,111.6,2020/09/23 00:00,USDA/ARS,15579713,39165350,SAMN14537335
+GCF_001444195.1,Xiphophorus couchianus (Monterrey platyfish),Xiphophorus couchianus,77,2018/09/19 00:00,McDonnell Genome Institute - Washington University School of Medicine,15315838,30550352,SAMN03922721
+GCF_904848185.1,Acanthopagrus latus (yellowfin seabream),Acanthopagrus latus,60,2020/10/12 00:00,SC,14880455,30717905,SAMN16236878
+GCF_902150065.1,Myripristis murdjan (pinecone soldierfish),Myripristis murdjan,45,2019/07/03 00:00,SC,14475636,34950760,SAMEA4872133
+GCA_013332515.1,Verasper variegatus (spotted halibut),Verasper variegatus,100,2020/06/11 00:00,Yellow Sea fisheries Research Institution,14452835,24764384,SAMN14998119
+GCA_011397635.1,Epinephelus fuscoguttatus (brown-marbled grouper),Epinephelus fuscoguttatus,87.6,2020/02/20 00:00,Epinephelus fuscoguttatus,13857438,44419306,SAMD00201013
+GCA_014805685.1,Silurus meridionalis (bony fishes),Silurus meridionalis,97.83,2020/09/30 00:00,Southwest University,13195069,28049309,SAMN14558653
+GCF_015220715.1,Pygocentrus nattereri (red-bellied piranha),Pygocentrus nattereri,77.77,2020/11/03 00:00,Vertebrate Genomes Project,12898870,42283192,SAMN12623623
+GCF_900963305.1,Echeneis naucrates (live sharksucker),Echeneis naucrates,62,2019/04/11 00:00,SC,12371513,23287306,SAMEA4966390
+GCA_011952085.1,Siniperca chuatsi (mandarin fish),Siniperca chuatsi,50,2020/04/09 00:00,IGB Leibniz-Institute of Freshwater Ecology and Inland Fisheries,12191788,30508166,SAMN13269087
+GCF_901709675.1,Syngnathus acus (greater pipefish),Syngnathus acus,96,2020/07/31 00:00,SC,11959915,14974571,SAMEA104381750
+GCA_004786185.1,Channa argus (northern snakehead),Channa argus,83,2019/04/15 00:00,Gooalgene,11786852,27759500,SAMN10910622
+GCF_015220745.1,Sebastes umbrosus (honeycomb rockfish),Sebastes umbrosus,45.05,2020/11/03 00:00,Vertebrate Genomes Project,11445908,34912176,SAMN12629503
+GCA_012432095.1,Onychostoma macrolepis (bony fishes),Onychostoma macrolepis,93.85,2020/04/17 00:00,SOUTHWEST UNIVERSITY,10809623,34067727,SAMN14163390
+GCA_013358685.1,Antennarius maculatus (warty frogfish),Antennarius maculatus,141,2020/06/12 00:00,Vertebrate Genomes Project,10114706,22928215,SAMN12623626
+GCA_015846415.1,Triplophysa dalaica (bony fishes),Triplophysa dalaica,200,2020/12/02 00:00,HeNan Normal University and Wuhan diggers,9273388,23627495,SAMN14582390
+GCF_002775205.1,Xiphophorus maculatus (southern platyfish),Xiphophorus maculatus,83,2017/12/07 00:00,"The Genome Institute, Washington University at St. Louis",9181372,31535491,SAMN08025980
+GCF_900964775.1,Scleropages formosus (Asian bonytongue),Scleropages formosus,72,2019/04/11 00:00,SC,9102216,31084684,SAMEA4872123
+GCF_900324485.2,Mastacembelus armatus (zig-zag eel),Mastacembelus armatus,52,2019/03/16 00:00,SC,8014513,25090313,SAMEA104026378
+GCA_012411365.1,Ameiurus melas (black bullhead),Ameiurus melas,57,2020/04/16 00:00,GenoFish,7408031,32284220,SAMN13926790
+GCF_003331165.1,Xiphophorus hellerii (green swordtail),Xiphophorus hellerii,68,2019/12/05 00:00,McDonnell Genome Institute - Washington University School of Medicine,7084538,32404057,SAMN09545741
+GCF_013358815.1,Electrophorus electricus (electric eel),Electrophorus electricus,52.97,2020/06/23 00:00,Vertebrate Genomes Project,7062559,25664172,SAMN12623625
+GCF_900324465.2,Anabas testudineus (climbing perch),Anabas testudineus,68,2018/12/19 00:00,SC,7055436,25063394,SAMEA104026376
+GCF_009819705.1,Hippoglossus hippoglossus (Atlantic halibut),Hippoglossus hippoglossus,56.23,2019/12/31 00:00,Vertebrate Genomes Project,7020318,26312018,SAMN12629501
+GCF_008315115.2,Sander lucioperca (pike-perch),Sander lucioperca,360,2020/08/14 00:00,Leibniz Institute for Farm Animal Biology (FBN),6663498,41060379,SAMN12618724
+GCF_900634415.1,Cottoperca gobio (bony fishes),Cottoperca gobio,75,2019/02/06 00:00,SC,6330900,25156145,SAMEA104242975
+GCA_014673565.1,Sebastes schlegelii (Schlegel's black rockfish),Sebastes schlegelii,100,2020/08/31 00:00,Qingdao Agricultural University,5473395,7939220,SAMN10781578
+GCF_013347855.1,Anguilla anguilla (European eel),Anguilla anguilla,51.23,2020/06/18 00:00,Vertebrate Genomes Project,5114673,57205429,SAMN12623627
+GCA_900634625.2,Parambassis ranga (Indian glassy fish),Parambassis ranga,101,2020/07/31 00:00,SC,5080925,22993012,SAMEA4675621
+GCF_009769545.1,Cyclopterus lumpus (lumpfish),Cyclopterus lumpus,55.96,2019/12/23 00:00,Vertebrate Genomes Project,4950682,23863342,SAMN12629502
+GCF_900246225.1,Astatotilapia calliptera (eastern happy),Astatotilapia calliptera,80,2018/05/30 00:00,SC,4438245,38669361,SAMEA104026430
+GCA_014281875.1,Nibea albiflora (white flower croaker),Nibea albiflora,114.67,2020/08/24 00:00,Marine Fishery Institute of Zhejiang Province,4420150,25433336,SAMN13037310
+GCA_003711565.2,Takifugu flavidus (sansaifugu),Takifugu flavidus,200,2019/08/16 00:00,Frasergen bioinfomatics,4357567,15676631,SAMN10077091
+GCF_004354835.1,Perca flavescens (yellow perch),Perca flavescens,137.7,2019/03/19 00:00,INRA (Fish Physiology and Genomics laboratory),4268950,37412490,SAMN10722690
+GCA_010015445.1,Perca fluviatilis (European perch),Perca fluviatilis,135,2020/01/30 00:00,SEX'PERCH,4197643,39550354,SAMN12071746
+GCA_013435755.1,Amphilophus citrinellus (Midas cichlid),Amphilophus citrinellus,89,2020/07/21 00:00,Max Planck Institute of Molecular Cell Biology and Genetics,3839513,37146573,SAMN15430250
+GCF_009762535.1,Notolabrus celidotus (New Zealand spotty),Notolabrus celidotus,71.06,2019/12/18 00:00,Vertebrate Genomes Project,3748462,37090664,SAMN12623201
+GCA_003999625.1,Oryzias javanicus (javanese ricefish),Oryzias javanicus,76.5,2019/01/08 00:00,INRA (Fish Physiology and Genomics laboratory),3558013,35390520,SAMN10417210
+GCA_015343265.1,Pao palembangensis (humpback puffer),Pao palembangensis,393,2020/11/10 00:00,BGI,3269158,15808960,SAMN15098013
+GCF_901000725.2,Takifugu rubripes (torafugu),Takifugu rubripes,83,2019/06/05 00:00,SC,3136617,16705553,SAMEA104384834
+GCA_003047355.2,Amphiprion percula (orange clownfish),Amphiprion percula,121,2018/11/28 00:00,King Abdullah University of Science and Technology,3123421,38416550,SAMN08615572
+GCA_900700375.2,Denticeps clupeoides (denticle herring),Denticeps clupeoides,63,2020/07/31 00:00,SC,3059612,22793177,SAMEA104129917
+GCF_001858045.2,Oreochromis niloticus (Nile tilapia),Oreochromis niloticus,44,2018/06/29 00:00,University of Maryland,2923640,38839487,SAMN05859795
+GCF_900880675.1,Sparus aurata (gilthead seabream),Sparus aurata,56,2019/07/30 00:00,SC,2862625,35791275,SAMEA104384835
+GCA_008369825.1,Triplophysa tibetana (bony fishes),Triplophysa tibetana,130,2019/09/12 00:00,Gooalgene,2833080,24885746,SAMN11094431
+GCF_902148845.1,Salarias fasciatus (jewelled blenny),Salarias fasciatus,96,2019/07/03 00:00,SC,2597836,32729575,SAMEA4966329
+GCA_900634795.3,Betta splendens (Siamese fighting fish),Betta splendens,48,2020/08/25 00:00,SC,2497747,20129463,SAMEA104381735
+GCF_902148855.1,Sphaeramia orbicularis (orbiculate cardinalfish),Sphaeramia orbicularis,53,2019/07/03 00:00,SC,2360121,57165184,SAMEA4966328
+GCF_902500255.1,Thalassophryne amazonica (bony fishes),Thalassophryne amazonica,67,2019/09/30 00:00,SC,2329598,118421481,SAMEA104129913
+GCF_009829125.1,Periophthalmus magnuspinnatus (bony fishes),Periophthalmus magnuspinnatus,69.53,2020/01/03 00:00,Vertebrate Genomes Project,2301275,32865169,SAMN12629500
+GCA_014839995.1,Xenentodon cancila (freshwater garfish),Xenentodon cancila,62.8,2020/09/30 00:00,Vertebrate Genomes Project,2195850,28679447,SAMN12623622
+GCF_007364275.1,Archocentrus centrarchus (flier cichlid),Archocentrus centrarchus,76,2019/08/01 00:00,Vertebrate Genomes Project,2146538,35590001,SAMN09948522
+GCA_900634775.2,Gouania willdenowi (blunt-snouted clingfish),Gouania willdenowi,58,2020/07/31 00:00,SC,1838341,38978045,SAMEA104026382
+GCF_000372685.2,Astyanax mexicanus (Mexican tetra),Astyanax mexicanus,65,2017/09/25 00:00,Washington University School of Medince,1767240,35377769,SAMN02981523
+GCF_901001165.1,Salmo trutta (river trout),Salmo trutta,68,2019/06/02 00:00,SC,1703178,52209666,SAMEA994732
+GCA_007927625.1,Coilia nasus (Japanese grenadier anchovy),Coilia nasus,430,2019/08/16 00:00,BGI,1632759,2096086,SAMN08159314
+GCA_903798145.1,Danio aesculapii (bony fishes),Danio aesculapii,52,2020/06/27 00:00,SC,1517104,55996547,SAMEA104240212
+GCF_000238955.4,Maylandia zebra (zebra mbuna),Maylandia zebra,65,2018/04/10 00:00,Broad Institute,1407748,32660920,SAMN03892560
+GCA_004026145.2,Takifugu bimaculatus (bony fishes),Takifugu bimaculatus,327.2,2019/06/21 00:00,"College of Ocean and Earth Sciences, Xiamen University",1312995,16785490,SAMN10524747
+GCA_903798195.1,Danio kyathit (bony fishes),Danio kyathit,51,2020/06/27 00:00,SC,1264270,64228523,SAMEA104130240
+GCF_002021735.2,Oncorhynchus kisutch (coho salmon),Oncorhynchus kisutch,300,2019/11/04 00:00,University of Victoria,1159298,68265700,SAMN05991263
+GCF_900700415.1,Clupea harengus (Atlantic herring),Clupea harengus,75,2019/04/16 00:00,UPPSALA UNIVERISTY,1151065,30022480,SAMEA5339254
+GCF_900747795.1,Erpetoichthys calabaricus (reedfish),Erpetoichthys calabaricus,51,2019/03/26 00:00,SC,1143051,199226436,SAMEA104026374
+GCA_011397275.1,Plectropomus leopardus (leopard coralgrouper),Plectropomus leopardus,145,2020/02/20 00:00,Sun Yat-Sen University,1139749,34616500,SAMD00199277
+GCA_004119915.1,Collichthys lucidus (big head croaker),Collichthys lucidus,100,2019/01/30 00:00,JiMei University,1098566,35919243,SAMN10225518
+GCF_902167405.1,Gadus morhua (Atlantic cod),Gadus morhua,83,2019/07/16 00:00,SC,1015663,28732775,SAMEA5574046
+GCF_003368295.1,Carassius auratus (goldfish),Carassius auratus,71,2018/08/09 00:00,National Institutes of Health,821153,22763433,SAMN09670328
+GCF_902827115.1,Pseudochaenichthys georgianus (South Georgia icefish),Pseudochaenichthys georgianus,93,2020/04/15 00:00,SC,661283,42832159,SAMEA104132832
+GCF_010645085.1,Acipenser ruthenus (sterlet),Acipenser ruthenus,42,2020/02/19 00:00,University of Wuerzburg,601142,42361471,SAMN12612932
+GCF_011125445.2,Fundulus heteroclitus (mummichog),Fundulus heteroclitus,40,2020/08/13 00:00,University of Missouri,587965,39340135,SAMN13668183
+GCF_006149115.1,Oncorhynchus nerka (sockeye salmon),Oncorhynchus nerka,158,2019/06/07 00:00,Fisheries and Oceans Canada,329583,1058586,SAMN11519041
+GCF_000972845.2,Larimichthys crocea (large yellow croaker),Larimichthys crocea,140,2018/11/27 00:00,BGI,277487,27037660,SAMN03092871
+GCF_005281545.1,Epinephelus lanceolatus (giant grouper),Epinephelus lanceolatus,133,2019/05/13 00:00,"Yellow Sea Fisheries Research Institute, Chinese Academy of Fishery Sciences",159800,46227939,SAMN10786578
+GCA_014183145.1,Sciaenops ocellatus (red drum),Sciaenops ocellatus,172.9,2020/08/13 00:00,Shanghai Ocean University,151930,25657701,SAMN13064845
+GCF_002872995.1,Oncorhynchus tshawytscha (Chinook salmon),Oncorhynchus tshawytscha,202,2018/01/16 00:00,Fisheries and Oceans Canada,133169,1728323,SAMN07843558
+GCA_011952095.1,Siniperca scherzeri (leopard mandarin fish),Siniperca scherzeri,40,2020/04/09 00:00,IGB Leibniz-Institute of Freshwater Ecology and Inland Fisheries,83753,30166107,SAMN13269089
+GCA_001660625.2,Ictalurus punctatus (channel catfish),Ictalurus punctatus,0,2019/01/25 00:00,Auburn University,81424,7898905,SAMN03486842
+GCA_011952075.1,Siniperca knerii (big-eye mandarin fish),Siniperca knerii,40,2020/04/09 00:00,IGB Leibniz-Institute of Freshwater Ecology and Inland Fisheries,77506,29777865,SAMN13269088
+GCA_011952105.1,Coreoperca whiteheadi (bony fishes),Coreoperca whiteheadi,40,2020/04/09 00:00,IGB Leibniz-Institute of Freshwater Ecology and Inland Fisheries,76587,28603870,SAMN13269090
+GCA_006386435.1,Epinephelus moara (kelp grouper),Epinephelus moara,381,2019/06/26 00:00,"Yellow Sea Fisheries Research Institute, Chinese Academy of Fishery Sciences",76174,43431032,SAMN11657372
+GCF_000951615.1,Cyprinus carpio (common carp),Cyprinus carpio,0,2014/11/03 00:00,CHINESE ACADEMY OF FISHERY SCIENCE,75080,7828959,SAMEA2757102
+GCF_000242695.1,Lepisosteus oculatus (spotted gar),Lepisosteus oculatus,677.5,2012/01/13 00:00,Broad Institute,68337,6928108,SAMN00706774
+GCF_001649575.2,Kryptolebias marmoratus (mangrove rivulus),Kryptolebias marmoratus,72.75,2020/11/16 00:00,Washington State University,57646,28170849,SAMN04622665
+GCF_000233375.1,Salmo salar (Atlantic salmon),Salmo salar,206,2015/06/10 00:00,International Cooperation to Sequence the Atlantic Salmon Genome,57618,1366254,SAMN02749551
+GCF_002910315.2,Salvelinus sp. IW2-2015 (bony fishes),Salvelinus sp. IW2-2015,146,2018/02/12 00:00,University of Victoria,55619,1018695,SAMN06561764
+GCF_012931545.1,Oncorhynchus keta (chum salmon),Oncorhynchus keta,150,2020/04/29 00:00,Fisheries and Oceans Canada,50313,656204,SAMN12367893
+GCA_007896545.1,Kryptolebias hermaphroditus (bony fishes),Kryptolebias hermaphroditus,166,2019/08/08 00:00,Sungkyunkwan University,46411,27459464,SAMN11869169
+GCF_013103735.1,Etheostoma cragini (Arkansas darter),Etheostoma cragini,208.6,2020/05/15 00:00,"Kellogg Biological Station, Michigan State University",45088,27593271,SAMN14351042
+GCF_000633615.1,Poecilia reticulata (guppy),Poecilia reticulata,110,2014/04/28 00:00,Max Planck Institute for Developmental Biology,41913,5270359,SAMN02404645
+GCA_004348285.1,Thymallus thymallus (grayling),Thymallus thymallus,5,2019/03/19 00:00,University of Turku,31777,32985317,SAMN09080809
+GCF_002922805.2,Oryzias melastigma (Indian medaka),Oryzias melastigma,82,2020/04/13 00:00,Sungkyunkwan University,30057,29987720,SAMN07596545
+GCF_000523025.1,Cynoglossus semilaevis (tongue sole),Cynoglossus semilaevis,0,2014/01/28 00:00,Beijing Genomics Institute,27008,509861,SAMN02595200
+GCF_008692095.1,Etheostoma spectabile (orangethroat darter),Etheostoma spectabile,172,2019/10/07 00:00,University of Illinois at Urbana-Champaign,26023,30497795,SAMN12373147
+GCF_001465895.1,Nothobranchius furzeri (turquoise killifish),Nothobranchius furzeri,100,2015/12/11 00:00,LEIBNIZ INSTITUTE FOR AGE RESEARCH - FRITZ LIPMANN,19950,15858201,SAMEA2698544
+GCA_014132575.1,Gasterosteus nipponicus (bony fishes),Gasterosteus nipponicus,17.8,2020/07/29 00:00,the University of Tokyo,544634,17641857,SAMD00226355
+GCA_010277075.1,Poeciliopsis retropinna (bony fishes),Poeciliopsis retropinna,70,2020/02/06 00:00,Wageningen UR,15063430,21601530,SAMN12288624
+GCA_015710095.1,Argyrosomus japonicus (mulloway),Argyrosomus japonicus,150,2020/12/02 00:00,Zhejiang Ocean University,13110246,13110246,SAMN16453595
+GCA_014656515.1,Oryzias celebensis (Celebes medaka),Oryzias celebensis,110,2020/09/12 00:00,National Institute of Genetics,6114092,28928686,SAMD00239084
+GCF_904425465.1,Colossoma macropomum (tambaqui),Colossoma macropomum,37,2020/09/25 00:00,WELLCOME TRUST SANGER INSTITUTE,5645235,40163545,SAMEA7302664
+GCA_008087265.1,Cebidichthys violaceus (monkeyface prickleback),Cebidichthys violaceus,107,2019/08/26 00:00,"University of California, Irvine",5507153,6717604,SAMN06857690
+GCA_009176245.1,Thunnus orientalis (Pacific bluefin tuna),Thunnus orientalis,252,2019/10/13 00:00,"National Research Institute of Fisheries Science, Japan Fisheries Research and Education Agency",5458584,7922002,SAMD00166193
+GCA_005024645.1,Planiliza haematocheilus (so-iny mullet),Planiliza haematocheilus,214,2019/05/01 00:00,Jeju National University,3973280,3973280,SAMN11356700
+GCA_008933995.1,Datnioides undecimradiatus (Mekong tiger perch),Datnioides undecimradiatus,200,2019/10/10 00:00,BGI,3802431,9689676,SAMN12855526
+GCA_011823955.1,Dissostichus mawsoni (Antarctic toothfish),Dissostichus mawsoni,81,2020/04/01 00:00,Korea University,3015437,36983948,SAMN12869232
+GCA_007210695.1,Neogobius melanostomus (round goby),Neogobius melanostomus,50,2019/07/22 00:00,University of Basel,2817412,2817412,SAMN12099445
+GCF_902500615.1,Pungitius pungitius (ninespine stickleback),Pungitius pungitius,110,2020/10/12 00:00,UNIVERSITY OF OSLO,2775277,20450314,SAMEA5986199
+GCA_015244755.2,Tenualosa ilisha (Hilsa shad),Tenualosa ilisha,104,2020/11/05 00:00,"Consortium Research Platform on Genmics, ICAR, India",2624235,2624235,SAMN08162886
+GCA_006030095.1,Triplophysa siluroides (bony fishes),Triplophysa siluroides,50,2019/06/05 00:00,Institute of Hydrobiology,2549348,2872994,SAMN11775600
+GCA_900536245.1,Epinephelus coioides (orange-spotted grouper),Epinephelus coioides,50,2019/12/05 00:00,CNGB,2494056,2567038,SAMEA4836213
+GCA_900490495.1,Danionella dracula (bony fishes),Danionella dracula,60,2018/07/01 00:00,SC,2300191,10287669,SAMEA104026433
+GCA_900408965.1,Simochromis diagramma (bony fishes),Simochromis diagramma,69,2018/06/18 00:00,SC,2231376,8960300,SAMEA104026415
+GCA_005784505.1,Bagarius yarrelli (goonch),Bagarius yarrelli,253,2019/05/22 00:00,Shenzhen Key Lab of Marine Genomics,1854961,3129371,SAMN10979322
+GCA_900607315.1,Trachinotus ovatus (derbio),Trachinotus ovatus,50,2018/12/02 00:00,South China Sea Fisheries Research Institute,1846793,29494812,SAMEA104304870
+GCA_013375575.1,Percina caprodes (logperch),Percina caprodes,45,2020/06/29 00:00,McGill University,1429287,1429287,SAMN15198648
+GCF_902827165.1,Trematomus bernacchii (emerald rockcod),Trematomus bernacchii,46,2020/04/15 00:00,SC,1402669,8748152,SAMEA104132834
+GCF_016077235.1,Cyprinodon tularosa (bony fishes),Cyprinodon tularosa,90,2020/12/15 00:00,Purdue University,1362150,1362150,SAMN16509697
+GCA_013621035.1,Clarias magur (bony fishes),Clarias magur,95,2020/07/24 00:00,Rohu and Magur Genome Sequencing Consortium,1226249,1316675,SAMN08826798
+GCF_001640805.1,Lates calcarifer (barramundi perch),Lates calcarifer,90,2016/05/09 00:00,Temasek Life Sciences Laboratory,1066117,1191366,SAMN04026617
+GCA_902827135.1,Harpagifer antarcticus (Antarctic spiny plunderfish),Harpagifer antarcticus,67,2020/04/15 00:00,SC,1048452,4997231,SAMEA104132831
+GCF_003724035.1,Tachysurus fulvidraco (yellow catfish),Tachysurus fulvidraco,100,2018/11/13 00:00,BGI-SZ,980445,3653474,SAMN10147840
+GCA_012861695.1,Trematomus loennbergii (deepwater notothen),Trematomus loennbergii,75,2020/04/27 00:00,EarthBIogenome Project,968532,15527446,SAMN14309518
+GCA_002217815.1,Seriola quinqueradiata (Japanese amberjack),Seriola quinqueradiata,210,2017/07/05 00:00,"Natinal Research Insititute of Aquaculture, FRA",872227,5610255,SAMD00083042
+GCA_015082035.1,Chaenogobius annularis (forktongue goby),Chaenogobius annularis,100,2020/10/21 00:00,The University of Tokyo,803221,951958,SAMD00131633
+GCA_006182925.2,Reinhardtius hippoglossoides (Greenland flounder),Reinhardtius hippoglossoides,60,2019/07/25 00:00,McGill University,775256,17640195,SAMN11811143
+GCA_002994505.1,Seriola rivoliana (Almaco jack),Seriola rivoliana,295.8,2018/03/12 00:00,Iowa State University,740108,9509606,SAMN08545647
+GCF_900080235.1,Labrus bergylta (ballan wrasse),Labrus bergylta,144,2016/05/03 00:00,National Institute of nutrition and seafood research,703847,794648,SAMEA3939555
+GCA_005408345.1,Macquaria australasica (Macquarie perch),Macquaria australasica,100,2019/05/16 00:00,Deakin University,678975,845515,SAMN10817714
+GCF_902827175.1,Gymnodraco acuticeps (bony fishes),Gymnodraco acuticeps,42,2020/04/15 00:00,SC,534678,1921211,SAMEA104242997
+GCA_004335475.1,Pseudoliparis sp. Yap Trench (bony fishes),Pseudoliparis sp. Yap Trench,81,2019/03/08 00:00,BGI-SZ,523845,976167,SAMN10662039
+GCA_004120215.1,Labeo rohita (rohu),Labeo rohita,132,2019/01/30 00:00,Central Institute of Freshwater Aquaculture,522833,1959535,SAMN08685245
+GCA_002819105.1,Symphodus melops (corkwing wrasse),Symphodus melops,28.3,2017/12/05 00:00,University of Agder,461652,461652,SAMN06339785
+GCF_002776465.1,Amphiprion ocellaris (clown anemonefish),Amphiprion ocellaris,45,2017/11/16 00:00,Deakin University,324210,401715,SAMN07982614
+GCA_009869865.1,Megalobrama amblycephala (Wuchang bream),Megalobrama amblycephala,172,2020/01/14 00:00,Hunan Normal Univesity,322873,1403021,SAMN10457791
+GCA_003573665.1,Oxygymnocypris stewartii (bony fishes),Oxygymnocypris stewartii,90.81,2018/09/18 00:00,Novogene Bioinformatics Technology Corporation,257093,257093,SAMN09762613
+GCF_002260705.1,Seriola dumerili (greater amberjack),Seriola dumerili,210,2017/08/03 00:00,"Genomic breeding group, Research Center for Aquatic Breeding, National Research Institute of aquaculture, FRA",249755,5812906,SAMD00083043
+GCA_008360985.1,Macquaria ambigua (golden perch),Macquaria ambigua,200,2019/09/09 00:00,Deakin University,243852,252501,SAMN12340637
+GCA_903064625.1,Mallotus villosus (capelin),Mallotus villosus,99,2020/05/18 00:00,CEES,229616,236994,SAMEA6813208
+GCA_900497675.1,Arapaima gigas (arapaima),Arapaima gigas,135,2018/07/25 00:00,UNIVERSIDADE FEDERAL DO PARA,131583,667839,SAMEA104324749
+GCA_008086565.1,Thalassoma bifasciatum (bluehead),Thalassoma bifasciatum,242,2019/08/02 00:00,University of Otago,122955,155821,SAMN10258813
+GCA_009869775.1,Culter alburnus (topmouth culter),Culter alburnus,200,2020/01/14 00:00,Hunan Normal Univesity,121415,3669388,SAMN10457884
+GCA_006937985.1,Aphyosemion australe (lyretail killifish),Aphyosemion australe,77,2019/07/12 00:00,Max Planck Institute for Biology of Ageing,119465,1435212,SAMN11370804
+GCA_009660295.1,Lophius piscatorius (angler),Lophius piscatorius,150,2019/11/13 00:00,Nord university,104538,104538,SAMN11282402
+GCA_010882115.1,Protosalanx chinensis (bony fishes),Protosalanx chinensis,426.48,2020/02/20 00:00,Institute of Zoology Chinese Academy of Sciences,103007,5188763,SAMN14001151
+GCA_010277015.1,Poeciliopsis turrubarensis (bony fishes),Poeciliopsis turrubarensis,80,2020/02/06 00:00,Wageningen UR,101021,4228945,SAMN12288626
+GCA_009108245.1,Ompok bimaculatus (butter catfish),Ompok bimaculatus,217,2019/10/15 00:00,"DEPARTMENT OF BIOCHEMISTRY, ALL INDIA INSTITUTE OF MEDICAL SCIENCES(AIIMS), NEW DELHI, INDIA",81474,81583,SAMN12206647
+GCA_001593715.1,Miichthys miiuy (Mi-iuy croaker),Miichthys miiuy,158,2016/03/17 00:00,Zhejiang Ocean University,81271,1145539,SAMN02486174
+GCA_900291075.1,Melanogrammus aeglefinus (haddock),Melanogrammus aeglefinus,256,2018/03/19 00:00,CEES,77605,209126,SAMEA104602249
+GCA_006937955.1,Pachypanchax playfairii (golden panchax),Pachypanchax playfairii,100,2019/07/12 00:00,Max Planck Institute for Biology of Ageing,76641,3173794,SAMN11370848
+GCA_002120245.1,Maccullochella peelii (Murray cod),Maccullochella peelii,80,2017/05/09 00:00,Monash University Malaysia,70439,109974,SAMN03938494
+GCA_014773175.1,Lucifuga dentata (toothed Cuban cusk-eel),Lucifuga dentata,134,2020/09/28 00:00,EGCE - CNRS Gif-sur-Yvette,62305,120915,SAMN12634698
+GCF_005870065.1,Oreochromis aureus (blue tilapia),Oreochromis aureus,166,2019/05/28 00:00,BGI-SZ ocean institute,60340,1102239,SAMN11513266
+GCF_000485575.1,Poecilia formosa (Amazon molly),Poecilia formosa,82,2013/10/28 00:00,Aquatic Genome Models,57472,1574226,SAMN02981564
+GCA_010883035.1,Poeciliopsis occidentalis (Gila topminnow),Poeciliopsis occidentalis,56,2020/02/20 00:00,Texas A&M University,56887,1540873,SAMN11418710
+GCA_009936485.1,Gymnarchus niloticus (bony fishes),Gymnarchus niloticus,90,2020/01/27 00:00,IRIDIAN GENOMES,54271,1179548,SAMN08214438
+GCA_000689215.1,Dicentrarchus labrax (European seabass),Dicentrarchus labrax,30,2014/04/09 00:00,MPI-PZ,54134,26439989,SAMEA3271076
+GCA_903798025.1,Danionella translucida (bony fishes),Danionella translucida,58,2020/06/16 00:00,SC,53453,6531461,SAMEA104129915
+GCA_006937965.1,Callopanchax toddi (bony fishes),Callopanchax toddi,96,2019/07/12 00:00,Max Planck Institute for Biology of Ageing,52012,1656350,SAMN11370820
+GCF_002814215.1,Seriola lalandi dorsalis (yellowtail amberjack),Seriola lalandi,180,2017/12/08 00:00,Iowa State University,51346,1269737,SAMN04902367
+GCA_011419295.1,Clarias macrocephalus (bighead catfish),Clarias macrocephalus,140,2020/03/18 00:00,Deakin University,47837,80802,SAMN13972449
+GCA_902810495.1,Petrochromis trewavasae (threadfin cichlid),Petrochromis trewavasae,80,2020/04/15 00:00,UNIVERSITY OF GRAZ,46763,1826695,SAMEA6604288
+GCF_000690725.1,Stegastes partitus (bicolor damselfish),Stegastes partitus,121,2014/05/13 00:00,Aquatic Genome Models,43010,411659,SAMN02743342
+GCA_009756435.1,Chionodraco myersi (Myers' icefish),Chionodraco myersi,100,2019/12/16 00:00,University of Padova,42918,48322,SAMN10434302
+GCA_009663075.1,Gambusia holbrooki (eastern mosquitofish),Gambusia holbrooki,61.72,2019/11/14 00:00,University of Wuerzburg,42011,54640,SAMN12130783
+GCF_004355925.1,Anarrhichthys ocellatus (wolf-eel),Anarrhichthys ocellatus,45,2019/03/08 00:00,Canada's Genomic Enterprise,41757,5717598,SAMN10245424
+GCA_013363375.1,Menidia beryllina (inland silverside),Menidia beryllina,56,2020/06/19 00:00,University of California Davis,40093,4493486,SAMN14992539
+GCF_001443325.1,Poecilia mexicana (shortfin molly),Poecilia mexicana,30,2015/11/13 00:00,The Genome Institute at Washington University School of Medicine (WUGSC),39840,275316,SAMN02048972
+GCF_001891065.1,Hippocampus comes (tiger tail seahorse),Hippocampus comes,192,2016/12/08 00:00,"South China Sea Institute of Oceanology, Chinese Academy of Sciences",39546,2034572,SAMN04531611
+GCA_900092035.1,Leuciscus waleckii (Amur ide),Leuciscus waleckii,250,2016/06/28 00:00,CHINESE ACADEMY OF FISHERY SCIENCE,38877,21959719,SAMEA3723233
+GCA_006229165.1,Gasterosteus aculeatus (three-spined stickleback),Gasterosteus aculeatus,142,2019/06/11 00:00,Institute of Ecology and Evolution,38090,3715221,SAMN11077409
+GCF_002872115.1,Paramormyrops kingsleyae (bony fishes),Paramormyrops kingsleyae,90,2018/01/10 00:00,Michigan State University,37656,1731158,SAMN08000665
+GCA_003317085.1,Hucho hucho (huchen),Hucho hucho,120,2018/07/13 00:00,University Of Aberdeen,37639,287338,SAMN09378492
+GCF_001970005.1,Paralichthys olivaceus (Japanese flounder),Paralichthys olivaceus,100,2017/01/24 00:00,Tsinghua University,36690,10546925,SAMN05817825
+GCA_003731715.1,Anabarilius grahami (bony fishes),Anabarilius grahami,188,2018/11/15 00:00,BGI,36058,4459447,SAMN09469597
+GCF_001443285.1,Poecilia latipinna (sailfin molly),Poecilia latipinna,34,2015/11/13 00:00,The Genome Institute at Washington University School of Medicine (WUGSC),33278,279200,SAMN02048973
+GCA_902810505.1,Tropheus moorii (blunthead cichlid),Tropheus moorii,40,2020/04/15 00:00,UNIVERSITY OF GRAZ,32181,1635562,SAMEA6604290
+GCA_004358465.1,Ophiodon elongatus (bony fishes),Ophiodon elongatus,40,2019/03/08 00:00,Canada's Genomic Enterprise,31240,5092707,SAMN10245457
+GCA_011763525.1,Mormyrus iriodes (bony fishes),Mormyrus iriodes,120,2020/03/27 00:00,IRIDIAN GENOMES,31067,38654,SAMN11649522
+GCA_014490765.1,Eleutheronema tetradactylum (Indian salmon),Eleutheronema tetradactylum,87.6,2020/09/08 00:00,The Chinese University of Hong Kong,30813,56314,SAMN13011971
+GCA_003416845.1,Oplegnathus fasciatus (barred knifejaw),Oplegnathus fasciatus,292,2018/08/22 00:00,National Institute of Fisheries Science,29992,1126915,SAMN07331350
+GCA_000499045.2,Anoplopoma fimbria (sablefish),Anoplopoma fimbria,186,2020/10/05 00:00,"NOAA, National Marine Fisheries Service, Northwest Fisheries Science Center",29750,288526,SAMN02144194
+GCF_001515645.1,Sinocyclocheilus grahami (bony fishes),Sinocyclocheilus grahami,88,2015/12/16 00:00,"BGI, Shenzhen",29354,1156368,SAMN03320097
+GCA_000180735.1,Tetraodon nigroviridis (spotted green pufferfish),Tetraodon nigroviridis,0,2004/05/14 00:00,Genoscope,29054,734039,SAMEA3138311
+GCA_008586565.1,Oryzias sinensis (Chinese medaka),Oryzias sinensis,45,2019/09/19 00:00,Peking University,28180,991358,SAMN12084253
+GCA_901007775.1,Dunckerocampus dactyliophorus (ringed pipefish),Dunckerocampus dactyliophorus,31,2020/04/15 00:00,CEES,27594,75189,SAMEA5563351
+GCA_903131615.1,Diplodus sargus (white seabream),Diplodus sargus,57,2020/06/05 00:00,UMR5175,27464,3406122,SAMEA6813209
+GCA_901007915.1,Syngnathus typhle (broad-nosed pipefish),Syngnathus typhle,530,2020/04/15 00:00,CEES,25809,3046963,SAMEA5563360
+GCA_003987875.1,Clarias batrachus (walking catfish),Clarias batrachus,84,2018/12/31 00:00,Auburn University,24893,361123,SAMN09480820
+GCA_001698575.1,Mola mola (ocean sunfish),Mola mola,96,2016/08/08 00:00,BGI-shenzhen,23239,8766736,SAMN04335856
+GCA_015163995.1,Mormyrus lacerda (bony fishes),Mormyrus lacerda,90,2020/11/01 00:00,IRIDIAN GENOMES,23165,13297468,SAMN11976054
+GCA_015164015.1,Brevimyrus niger (bony fishes),Brevimyrus niger,120,2020/11/01 00:00,IRIDIAN GENOMES,23012,12376973,SAMN11109190
+GCF_000239375.1,Pundamilia nyererei (bony fishes),Pundamilia nyererei,126,2011/12/22 00:00,Broad Institute,22622,2525540,SAMN00149614
+GCA_900610375.1,Hypoplectrus puella (barred hamlet),Hypoplectrus puella,245,2018/12/12 00:00,GEOMAR Helmholtz Centre for Ocean Research Kiel,22581,24210077,SAMEA4799755
+GCA_903798115.1,Danio jaintianensis (bony fishes),Danio jaintianensis,85,2020/06/16 00:00,SC,22545,18165534,SAMEA104026422
+GCF_001952655.1,Monopterus albus (swamp eel),Monopterus albus,146,2017/01/17 00:00,Wuhan University,22239,2106322,SAMN06219872
+GCA_006942095.1,Nothobranchius kuhntae (Beira killifish),Nothobranchius kuhntae,78,2019/07/12 00:00,Max Planck Institute for Biology of Ageing,22234,1178460,SAMN11370845
+GCF_000239415.1,Haplochromis burtoni (Burton's mouthbrooder),Haplochromis burtoni,131,2011/12/22 00:00,Broad Institute,21886,1194190,SAMN00139641
+GCA_903364295.1,Serranus cabrilla (comber),Serranus cabrilla,63,2020/06/05 00:00,UMR5175,21564,610905,SAMEA6813211
+GCA_002895965.1,Coryphaenoides rupestris (roundnose grenadier),Coryphaenoides rupestris,50,2018/01/23 00:00,"Molecular Ecology Group, Department of Biosciences, Durham University",20848,159738,SAMN08010939
+GCF_000732505.1,Cyprinodon variegatus (sheepshead minnow),Cyprinodon variegatus,81,2015/10/01 00:00,Aquatic Genome Models,20803,835301,SAMN02736898
+GCF_000788275.1,Boleophthalmus pectinirostris (great blue-spotted mudskipper),Boleophthalmus pectinirostris,144,2014/12/02 00:00,BGI-shenzhen,20438,2375582,SAMN03201692
+GCA_003610055.1,Morone chrysops (white bass),Morone chrysops,51,2018/10/02 00:00,Auburn University,20318,51932,SAMN10103279
+GCF_014905685.1,Nematolebias whitei (Rio pearlfish),Nematolebias whitei,53.63,2020/10/22 00:00,Michigan State University,19984,49984095,SAMN12588121
+GCA_903798035.1,Danio albolineatus (pearl danio),Danio albolineatus,70,2020/06/16 00:00,SC,18826,4632361,SAMEA104026392
+GCF_001515625.1,Sinocyclocheilus rhinocerous (bony fishes),Sinocyclocheilus rhinocerous,48,2015/12/14 00:00,"BGI, Shenzhen",18758,945738,SAMN03320098
+GCA_901007705.1,Fistularia tabacaria (cornetfish),Fistularia tabacaria,29,2020/04/15 00:00,CEES,17669,107234,SAMEA5563353
+GCA_900303265.1,Brotula barbata (bearded brotula),Brotula barbata,30,2018/03/20 00:00,CEES,17578,45752,SAMEA4028811
+GCA_003097735.1,Gambusia affinis (western mosquitofish),Gambusia affinis,54.9,2018/05/08 00:00,University of Georgia,17511,6651460,SAMN07157452
+GCF_000735185.1,Notothenia coriiceps (black rockcod),Notothenia coriiceps,38,2014/07/29 00:00,Antarctic Fish Genome Project,17487,217655,SAMN02206445
+GCF_001515605.1,Sinocyclocheilus anshuiensis (bony fishes),Sinocyclocheilus anshuiensis,60,2015/12/14 00:00,"BGI, Shenzhen",17271,1284143,SAMN03320099
+GCF_004916995.1,Morone saxatilis (striped sea-bass),Morone saxatilis,24417.7,2019/04/26 00:00,North Carolina State University,17211,25942274,SAMN11399929
+GCA_900302695.1,Helostoma temminkii (kissing gourami),Helostoma temminkii,16,2018/03/19 00:00,CEES,17055,71786,SAMEA4028825
+GCA_000787095.1,Periophthalmodon schlosseri (giant mudskipper),Periophthalmodon schlosseri,65,2014/12/02 00:00,BGI-Shenzhen,16946,39308,SAMN03201695
+GCA_900302625.1,Thunnus albacares (yellowfin tuna),Thunnus albacares,18,2018/03/21 00:00,CEES,16808,46920,SAMEA4028815
+GCA_903798205.1,Danio tinwini (gold ring danio),Danio tinwini,72,2020/06/16 00:00,SC,16685,13583820,SAMEA104026413
+GCA_004335335.1,Sebastes koreanus (bony fishes),Sebastes koreanus,49,2019/03/08 00:00,Zhejiang Ocean University,16662,16662,SAMN10490951
+GCA_901111315.1,Anguilla marmorata (giant mottled eel),Anguilla marmorata,30,2020/02/10 00:00,CEES,16529,64942,SAMEA5568835
+GCF_002109545.1,Acanthochromis polyacanthus (spiny chromis),Acanthochromis polyacanthus,70,2017/04/25 00:00,King Abdullah University of Science and technology,16099,334400,SAMN06347167
+GCA_901007665.1,Aeoliscus strigatus (razorfish),Aeoliscus strigatus,58,2020/04/15 00:00,CEES,15935,115785,SAMEA5563349
+GCA_015708405.1,Sarotherodon lohbergeri (keppi),Sarotherodon lohbergeri,10,2020/12/01 00:00,"""CICHLID~X""",15058,40148,SAMN12124122
+GCA_901007895.1,Syngnathus rostellatus (Nilsson's pipefish),Syngnathus rostellatus,55,2020/04/15 00:00,CEES,14947,87573,SAMEA5563359
+GCA_901111305.1,Anguilla megastoma (Polynesian longfinned eel),Anguilla megastoma,30,2020/02/10 00:00,CEES,14572,61910,SAMEA5568836
+GCA_014825785.1,Odontesthes bonariensis (pejerrey),Odontesthes bonariensis,40,2020/09/30 00:00,George Washington University,14340,60945,SAMN09607192
+GCA_903798125.1,Danio choprai (bony fishes),Danio choprai,57,2020/06/16 00:00,SC,13929,5707536,SAMEA104026429
+GCA_014706435.1,Silurus glanis (European catfish),Silurus glanis,60,2020/09/23 00:00,University of Turku,13869,3169562,SAMN14055911
+GCA_015052225.1,Oreochromis tanganicae (bony fishes),Oreochromis tanganicae,21.65,2020/10/28 00:00,"""CICHLID~X""",13689,29954,SAMN12123811
+GCA_000475215.1,Sebastes rubrivinctus (flag rockfish),Sebastes rubrivinctus,87,2013/10/22 00:00,University of Southern California,13541,30046,SAMN02981552
+GCA_000475235.3,Sebastes nigrocinctus (tiger rockfish),Sebastes nigrocinctus,94,2016/12/20 00:00,USC,13471,116274,SAMN02981553
+GCA_901007825.1,Macroramphosus scolopax (longspine snipefish),Macroramphosus scolopax,36,2020/04/15 00:00,CEES,13365,41786,SAMEA5563356
+GCA_015107895.1,Eretmodus cyanostictus (Tanganyika clown),Eretmodus cyanostictus,12.78,2020/10/29 00:00,"""CICHLID~X""",13348,24150,SAMN12123806
+GCA_015106675.1,Pelmatolapia mariae (spotted tilapia),Pelmatolapia mariae,20.62,2020/10/29 00:00,"""CICHLID~X""",13274,27743,SAMN12123906
+GCF_000239395.1,Neolamprologus brichardi (lyretail cichlid),Neolamprologus brichardi,171,2011/12/22 00:00,Broad Institute,13047,4430025,SAMN00139653
+GCA_015108415.1,Tilapia sparmanii (bony fishes),Tilapia sparmanii,22.96,2020/10/29 00:00,"""CICHLID~X""",12811,28898,SAMN12123911
+GCA_015108515.1,Hemichromis elongatus (bony fishes),Hemichromis elongatus,23.07,2020/10/29 00:00,"""CICHLID~X""",12746,37082,SAMN12123904
+GCA_901111295.1,Anguilla obscura (Pacific shortfinned eel),Anguilla obscura,30,2020/02/10 00:00,CEES,12681,54849,SAMEA5568837
+GCF_000225785.1,Latimeria chalumnae (coelacanth),Latimeria chalumnae,77.5,2011/09/12 00:00,Broad Institute,12671,924513,SAMN00138723
+GCA_015106755.1,Etia nguti (bony fishes),Etia nguti,17.7,2020/10/29 00:00,"""CICHLID~X""",12660,33462,SAMN12123890
+GCA_015104515.1,Limnochromis staneri (bony fishes),Limnochromis staneri,21.16,2020/10/29 00:00,"""CICHLID~X""",12577,25573,SAMN12123743
+GCA_015110455.1,Eretmodus marksmithi (bony fishes),Eretmodus marksmithi,12.93,2020/10/29 00:00,"""CICHLID~X""",12535,24325,SAMN12123938
+GCA_015108655.1,Paracyprichromis sp. 'tembwe' AB-2019 (bony fishes),Paracyprichromis sp. 'tembwe' AB-2019,23.42,2020/10/29 00:00,"""CICHLID~X""",12518,23822,SAMN12123888
+GCA_015105255.1,Haplotaxodon microlepis (bony fishes),Haplotaxodon microlepis,16.93,2020/10/29 00:00,"""CICHLID~X""",12456,25202,SAMN12123706
+GCA_015106575.1,Tropheus annectens (bony fishes),Tropheus annectens,19.47,2020/10/29 00:00,"""CICHLID~X""",12422,23944,SAMN12123917
+GCA_015052705.1,Tropheus sp. 'black' (bony fishes),Tropheus sp. 'black',13.45,2020/10/28 00:00,"""CICHLID~X""",12405,24299,SAMN12123868
+GCA_015108555.1,Coptodon rendalli (redbreast tilapia),Coptodon rendalli,21.35,2020/10/29 00:00,"""CICHLID~X""",12324,29581,SAMN12123901
+GCA_015106075.1,Perissodus multidentatus (bony fishes),Perissodus multidentatus,17.44,2020/10/29 00:00,"""CICHLID~X""",12300,25951,SAMN12123798
+GCA_015110135.1,Spathodus marlieri (bony fishes),Spathodus marlieri,13.08,2020/10/29 00:00,"""CICHLID~X""",12237,23529,SAMN12123955
+GCA_015105735.1,Plecodus straeleni (bony fishes),Plecodus straeleni,19.39,2020/10/29 00:00,"""CICHLID~X""",12200,24685,SAMN12123679
+GCA_900323345.1,Pseudochromis fuscus (brown dottyback),Pseudochromis fuscus,19,2018/03/26 00:00,CEES,12029,24689,SAMEA4028829
+GCA_015107015.1,Pseudosimochromis babaulti (bony fishes),Pseudosimochromis babaulti,16.34,2020/10/29 00:00,"""CICHLID~X""",11917,24524,SAMN12123859
+GCA_015107505.1,Grammatotria lemairii (bony fishes),Grammatotria lemairii,16.52,2020/10/29 00:00,"""CICHLID~X""",11878,24241,SAMN12123833
+GCA_008269305.1,Oreochromis spilurus (bony fishes),Oreochromis spilurus,50,2019/09/03 00:00,King Abdulaziz University,11851,11851,SAMN12169131
+GCA_015106255.1,Greenwoodochromis bellcrossi (bony fishes),Greenwoodochromis bellcrossi,13.4,2020/10/29 00:00,"""CICHLID~X""",11849,26743,SAMN12123782
+GCA_015109715.1,Cyphotilapia sp. '5-bar frontosa' AB-2019 (bony fishes),Cyphotilapia sp. '5-bar frontosa' AB-2019,12.86,2020/10/29 00:00,"""CICHLID~X""",11820,27013,SAMN12123974
+GCA_015110415.1,Petrochromis orthognathus (bony fishes),Petrochromis orthognathus,8.64,2020/10/29 00:00,"""CICHLID~X""",11755,23555,SAMN12123943
+GCA_015052565.1,Pseudosimochromis marginatus (bony fishes),Pseudosimochromis marginatus,12.6,2020/10/28 00:00,"""CICHLID~X""",11713,24859,SAMN12123978
+GCA_015102415.1,Tilapia brevimanus (bony fishes),Tilapia brevimanus,20.03,2020/10/29 00:00,"""CICHLID~X""",11674,25843,SAMN12123913
+GCA_900302685.1,Spondyliosoma cantharus (black seabream),Spondyliosoma cantharus,17,2018/03/21 00:00,CEES,11633,28198,SAMEA4028822
+GCA_015106695.1,Serranochromis macrocephalus (bony fishes),Serranochromis macrocephalus,25.42,2020/10/29 00:00,"""CICHLID~X""",11620,20245,SAMN12123909
+GCA_015107555.1,Boulengerochromis microlepis (giant cichlid),Boulengerochromis microlepis,10.69,2020/10/29 00:00,"""CICHLID~X""",11600,26382,SAMN12123832
+GCA_015109335.1,Cyprichromis sp. 'dwarf jumbo' AB-2019 (bony fishes),Cyprichromis sp. 'dwarf jumbo' AB-2019,17.34,2020/10/29 00:00,"""CICHLID~X""",11455,25762,SAMN12123998
+GCA_015052685.1,Julidochromis sp. 'unterfels' AB-2019 (bony fishes),Julidochromis sp. 'unterfels' AB-2019,21.8,2020/10/28 00:00,"""CICHLID~X""",11439,20303,SAMN12123878
+GCA_015107955.1,Perissodus eccentricus (bony fishes),Perissodus eccentricus,9.07,2020/10/29 00:00,"""CICHLID~X""",11305,25001,SAMN12123800
+GCA_004335365.1,Sebastes nudus (ogon-murasoi),Sebastes nudus,46,2019/03/08 00:00,Zhejiang Ocean University,11290,11290,SAMN10490952
+GCA_900303245.1,Selene dorsalis (African moonfish),Selene dorsalis,24,2018/03/19 00:00,CEES,11209,32464,SAMEA4028824
+GCA_015108955.1,Neolamprologus furcifer (bony fishes),Neolamprologus furcifer,13.03,2020/10/29 00:00,"""CICHLID~X""",11113,21254,SAMN12123856
+GCA_015107215.1,Cyprichromis coloratus (bony fishes),Cyprichromis coloratus,10.08,2020/10/29 00:00,"""CICHLID~X""",11088,23397,SAMN12123848
+GCA_010014945.1,Syngnathus floridae (dusky pipefish),Syngnathus floridae,2019,2020/01/30 00:00,IRIDIAN GENOMES,11028,1379020,SAMN09688109
+GCA_003597225.1,Anguilla japonica (Japanese eel),Anguilla japonica,211,2018/09/14 00:00,National Research Institute of Fisheries Science,11014,36264158,SAMD00098195
+GCA_015109375.1,Neolamprologus longior (bony fishes),Neolamprologus longior,17.5,2020/10/29 00:00,"""CICHLID~X""",11003,22364,SAMN12123997
+GCA_002592385.1,Micropterus floridanus (Florida bass),Micropterus floridanus,80,2017/10/19 00:00,Auburn University,10978,10978,SAMN07502010
+GCA_015110155.1,Tanganicodus irsacae (spotfin goby cichlid),Tanganicodus irsacae,12.82,2020/10/29 00:00,"""CICHLID~X""",10933,20959,SAMN12123950
+GCA_015112515.1,Petrochromis sp. 'polyodon texas' AB-2019 (bony fishes),Petrochromis sp. 'polyodon texas' AB-2019,12.74,2020/10/29 00:00,"""CICHLID~X""",10914,24026,SAMN12124098
+GCA_015105495.1,Lepidiolamprologus cunningtoni (bony fishes),Lepidiolamprologus cunningtoni,18.87,2020/10/29 00:00,"""CICHLID~X""",10910,19109,SAMN12123693
+GCA_015108695.1,Neolamprologus variostigma (bony fishes),Neolamprologus variostigma,22.44,2020/10/29 00:00,"""CICHLID~X""",10891,19942,SAMN12123882
+GCA_015102225.1,Variabilichromis moorii (bony fishes),Variabilichromis moorii,11.63,2020/10/29 00:00,"""CICHLID~X""",10882,20963,SAMN12123588
+GCA_001910805.2,Sebastes aleutianus (rougheye rockfish),Sebastes aleutianus,78,2016/12/20 00:00,USC,10838,340062,SAMN03964772
+GCA_015106635.1,Sargochromis carlottae (bony fishes),Sargochromis carlottae,19.63,2020/10/29 00:00,"""CICHLID~X""",10750,18930,SAMN12123908
+GCA_015105695.1,Cyprichromis sp. 'jumbo' AB-2019 (bony fishes),Cyprichromis sp. 'jumbo' AB-2019,12.24,2020/10/29 00:00,"""CICHLID~X""",10655,23285,SAMN12123683
+GCA_015106615.1,Thoracochromis brauschi (bony fishes),Thoracochromis brauschi,21.43,2020/10/29 00:00,"""CICHLID~X""",10651,19521,SAMN12123912
+GCA_015108395.1,Neolamprologus helianthus (bony fishes),Neolamprologus helianthus,14.15,2020/10/29 00:00,"""CICHLID~X""",10620,21295,SAMN12123920
+GCA_015109315.1,Tropheus sp. 'lukuga' AB-2019 (bony fishes),Tropheus sp. 'lukuga' AB-2019,16.24,2020/10/29 00:00,"""CICHLID~X""",10585,25807,SAMN12123995
+GCA_015103275.1,Paracyprichromis nigripinnis (bony fishes),Paracyprichromis nigripinnis,9.5,2020/10/29 00:00,"""CICHLID~X""",10563,20832,SAMN12123636
+GCA_015111015.1,Tropheus polli (bony fishes),Tropheus polli,16.33,2020/10/29 00:00,"""CICHLID~X""",10521,25241,SAMN12124064
+GCA_015106775.1,Etroplus canarensis (bony fishes),Etroplus canarensis,19.01,2020/10/29 00:00,"""CICHLID~X""",10520,18345,SAMN12123891
+GCA_901007745.1,Hippocampus kuda (spotted seahorse),Hippocampus kuda,39,2020/04/15 00:00,CEES,10411,31191,SAMEA5563355
+GCA_015108175.1,Pelvicachromis taeniatus (bony fishes),Pelvicachromis taeniatus,9.51,2020/10/29 00:00,"""CICHLID~X""",10380,26672,SAMN12123930
+GCA_015110075.1,Neolamprologus toae (bony fishes),Neolamprologus toae,11.45,2020/10/29 00:00,"""CICHLID~X""",10380,21118,SAMN12123957
+GCA_015708585.1,Sarotherodon steinbachi (kululu),Sarotherodon steinbachi,10,2020/12/01 00:00,"""CICHLID~X""",10360,34697,SAMN13929961
+GCA_015106655.1,Coptodon bakossiorum (bony fishes),Coptodon bakossiorum,11.63,2020/10/29 00:00,"""CICHLID~X""",10351,29145,SAMN12123900
+GCA_015108675.1,Telmatochromis sp. 'longola' AB-2019 (bony fishes),Telmatochromis sp. 'longola' AB-2019,17.51,2020/10/29 00:00,"""CICHLID~X""",10339,22215,SAMN12123887
+GCA_901007805.1,Hippocampus whitei (White's seahorse),Hippocampus whitei,40,2020/04/15 00:00,CEES,10333,40759,SAMEA5563354
+GCA_015105975.1,Xenotilapia flavipinnis (yellow sand cichlid),Xenotilapia flavipinnis,21.45,2020/10/29 00:00,"""CICHLID~X""",10331,18043,SAMN12123818
+GCA_015108275.1,Neolamprologus gracilis (bony fishes),Neolamprologus gracilis,18.26,2020/10/29 00:00,"""CICHLID~X""",10314,21865,SAMN12123922
+GCA_015109735.1,Neolamprologus ventralis (bony fishes),Neolamprologus ventralis,22.03,2020/10/29 00:00,"""CICHLID~X""",10294,19909,SAMN12123976
+GCA_015107935.1,Greenwoodochromis christyi (bony fishes),Greenwoodochromis christyi,13.02,2020/10/29 00:00,"""CICHLID~X""",10262,23650,SAMN12123804
+GCA_015052445.1,Cyprichromis zonatus (bony fishes),Cyprichromis zonatus,12.38,2020/10/28 00:00,"""CICHLID~X""",10175,23055,SAMN12123638
+GCA_015052425.1,Pseudosimochromis curvifrons (bony fishes),Pseudosimochromis curvifrons,12.7,2020/10/28 00:00,"""CICHLID~X""",10150,18115,SAMN12123616
+GCA_015106095.1,Xenotilapia nigrolabiata (bony fishes),Xenotilapia nigrolabiata,20.36,2020/10/29 00:00,"""CICHLID~X""",10130,18982,SAMN12123789
+GCA_015103235.1,Neolamprologus cylindricus (bony fishes),Neolamprologus cylindricus,12.28,2020/10/29 00:00,"""CICHLID~X""",10117,19794,SAMN12123643
+GCA_015103075.1,Orthochromis indermauri (bony fishes),Orthochromis indermauri,21.79,2020/10/29 00:00,"""CICHLID~X""",10058,16915,SAMN12123648
+GCA_015105295.1,Neolamprologus caudopunctatus (bony fishes),Neolamprologus caudopunctatus,9.77,2020/10/29 00:00,"""CICHLID~X""",10045,18363,SAMN12123703
+GCA_015052305.1,Hemibates koningsi (bony fishes),Hemibates koningsi,17.67,2020/10/28 00:00,"""CICHLID~X""",10032,19550,SAMN12123797
+GCA_015107655.1,Xenochromis hecqui (bony fishes),Xenochromis hecqui,11.71,2020/10/29 00:00,"""CICHLID~X""",10032,22631,SAMN12123822
+GCA_015102695.1,Lepidiolamprologus kendalli (bony fishes),Lepidiolamprologus kendalli,9.62,2020/10/29 00:00,"""CICHLID~X""",10025,18334,SAMN12123669
+GCA_015105335.1,Neolamprologus tetracanthus (bony fishes),Neolamprologus tetracanthus,13.22,2020/10/29 00:00,"""CICHLID~X""",10025,18997,SAMN12123701
+GCA_015109775.1,Xenotilapia longispinis (bony fishes),Xenotilapia longispinis,12.74,2020/10/29 00:00,"""CICHLID~X""",9971,19045,SAMN12123973
+GCA_015108895.1,Spathodus erythrodon (bony fishes),Spathodus erythrodon,8.95,2020/10/29 00:00,"""CICHLID~X""",9945,18980,SAMN12123860
+GCA_006348945.1,Liparis tanakae (Tanaka's snailfish),Liparis tanakae,372,2019/06/14 00:00,Seoul National University,9903,375216,SAMN10970109
+GCA_015109655.1,Neolamprologus sp. 'brevis magara' AB-2019 (bony fishes),Neolamprologus sp. 'brevis magara' AB-2019,9.23,2020/10/29 00:00,"""CICHLID~X""",9858,19635,SAMN12123982
+GCA_015113095.1,Tangachromis dhanisi (bony fishes),Tangachromis dhanisi,17.51,2020/10/29 00:00,"""CICHLID~X""",9827,22037,SAMN12124111
+GCA_900302555.1,Myripristis jacobus (blackbar soldierfish),Myripristis jacobus,20,2018/03/21 00:00,CEES,9816,21306,SAMEA4028805
+GCA_015108065.1,Julidochromis marlieri (bony fishes),Julidochromis marlieri,11.21,2020/10/29 00:00,"""CICHLID~X""",9810,20085,SAMN12123934
+GCA_015052545.1,Neolamprologus devosi (bony fishes),Neolamprologus devosi,13,2020/10/28 00:00,"""CICHLID~X""",9800,18683,SAMN12124066
+GCA_015110375.1,Lamprologus kungweensis (bony fishes),Lamprologus kungweensis,17.59,2020/10/29 00:00,"""CICHLID~X""",9784,19884,SAMN12123940
+GCA_015110275.1,Ophthalmotilapia sp. 'paranasuta' AB-2019 (bony fishes),Ophthalmotilapia sp. 'paranasuta' AB-2019,13.1,2020/10/29 00:00,"""CICHLID~X""",9756,18314,SAMN12123948
+GCA_015104995.1,Ectodus descampsii (Descamp's strange-tooth cichlid),Ectodus descampsii,12.71,2020/10/29 00:00,"""CICHLID~X""",9729,18895,SAMN12123719
+GCA_015107735.1,Baileychromis centropomoides (bony fishes),Baileychromis centropomoides,14.27,2020/10/29 00:00,"""CICHLID~X""",9726,21430,SAMN12123816
+GCA_015103095.1,Haplochromis sp. Chipwa (bony fishes),Haplochromis sp. Chipwa,11.82,2020/10/29 00:00,"""CICHLID~X""",9716,21953,SAMN12123647
+GCA_015102555.1,Neolamprologus modestus (bony fishes),Neolamprologus modestus,12.23,2020/10/29 00:00,"""CICHLID~X""",9657,19402,SAMN12123674
+GCA_015108475.1,Pharyngochromis acuticeps (bony fishes),Pharyngochromis acuticeps,21.15,2020/10/29 00:00,"""CICHLID~X""",9655,19351,SAMN12123907
+GCA_015112475.1,Telmatochromis sp. 'dhonti twiyu' AB-2019 (bony fishes),Telmatochromis sp. 'dhonti twiyu' AB-2019,8.59,2020/10/29 00:00,"""CICHLID~X""",9625,20533,SAMN12124099
+GCA_015105015.1,Julidochromis dickfeldi (bony fishes),Julidochromis dickfeldi,12.68,2020/10/29 00:00,"""CICHLID~X""",9606,19482,SAMN12123717
+GCA_015109975.1,Neolamprologus pleuromaculatus (bony fishes),Neolamprologus pleuromaculatus,9.45,2020/10/29 00:00,"""CICHLID~X""",9599,18984,SAMN12123963
+GCA_015105655.1,Cyphotilapia gibberosa (bony fishes),Cyphotilapia gibberosa,12.68,2020/10/29 00:00,"""CICHLID~X""",9597,23755,SAMN12123684
+GCA_015105935.1,Xenotilapia rotundiventralis (bony fishes),Xenotilapia rotundiventralis,9,2020/10/29 00:00,"""CICHLID~X""",9596,15573,SAMN12123826
+GCA_900312935.1,Carapus acus (pearlfish),Carapus acus,30,2018/03/18 00:00,CEES,9554,16922,SAMEA4028813
+GCA_015109795.1,Cardiopharynx schoutedeni (bony fishes),Cardiopharynx schoutedeni,17.95,2020/10/29 00:00,"""CICHLID~X""",9487,17018,SAMN12123969
+GCA_015106735.1,Paratilapia polleni (Pollen's cichlid),Paratilapia polleni,23.12,2020/10/29 00:00,"""CICHLID~X""",9481,21263,SAMN12123892
+GCA_900302655.1,Sebastes norvegicus (golden redfish),Sebastes norvegicus,20,2018/03/21 00:00,CEES,9467,16564,SAMEA4028819
+GCA_015106495.1,Petrochromis horii (bony fishes),Petrochromis horii,12.38,2020/10/29 00:00,"""CICHLID~X""",9451,21783,SAMN12123771
+GCA_015111075.1,Benthochromis sp. 'horii mahale' AB-2019 (bony fishes),Benthochromis sp. 'horii mahale' AB-2019,16.49,2020/10/29 00:00,"""CICHLID~X""",9441,24119,SAMN12124063
+GCA_015108155.1,Neolamprologus longicaudatus (bony fishes),Neolamprologus longicaudatus,13.65,2020/10/29 00:00,"""CICHLID~X""",9440,21263,SAMN12123929
+GCA_015103635.1,Xenotilapia sp. 'kilesa' AB-2019 (bony fishes),Xenotilapia sp. 'kilesa' AB-2019,7.25,2020/10/29 00:00,"""CICHLID~X""",9422,17528,SAMN12123618
+GCA_015052345.1,Lamprologus callipterus (bony fishes),Lamprologus callipterus,12.61,2020/10/28 00:00,"""CICHLID~X""",9409,19269,SAMN12123702
+GCA_015109675.1,Lamprologus speciosus (bony fishes),Lamprologus speciosus,12.89,2020/10/29 00:00,"""CICHLID~X""",9405,17990,SAMN12123980
+GCA_900499035.1,Sardina pilchardus (sardine),Sardina pilchardus,50,2018/09/24 00:00,CCMAR,9398,96617,SAMEA4809151
+GCA_015102355.1,Neolamprologus nigriventris (bony fishes),Neolamprologus nigriventris,12.99,2020/10/29 00:00,"""CICHLID~X""",9382,19239,SAMN12123581
+GCA_015104255.1,Reganochromis calliurus (bony fishes),Reganochromis calliurus,9.79,2020/10/29 00:00,"""CICHLID~X""",9377,18387,SAMN12123758
+GCA_015110515.1,Neolamprologus falcicula (bony fishes),Neolamprologus falcicula,11.41,2020/10/29 00:00,"""CICHLID~X""",9336,20177,SAMN12123936
+GCA_015103115.1,Julidochromis transcriptus (masked julie),Julidochromis transcriptus,14.67,2020/10/29 00:00,"""CICHLID~X""",9288,20999,SAMN12123645
+GCA_015110235.1,Astatotilapia stappersii (bony fishes),Astatotilapia stappersii,8.23,2020/10/29 00:00,"""CICHLID~X""",9258,18799,SAMN12123946
+GCA_900302615.1,Holocentrus rufus (longspine squirrelfish),Holocentrus rufus,20,2018/03/19 00:00,CEES,9243,21389,SAMEA4028806
+GCA_015106975.1,Neolamprologus mondabu (bony fishes),Neolamprologus mondabu,13.5,2020/10/29 00:00,"""CICHLID~X""",9226,19663,SAMN12123866
+GCA_015105195.1,Perissodus microlepis (bony fishes),Perissodus microlepis,11.4,2020/10/29 00:00,"""CICHLID~X""",9218,21236,SAMN12123709
+GCA_015104595.1,Lobochilotes labiatus (bony fishes),Lobochilotes labiatus,9.37,2020/10/29 00:00,"""CICHLID~X""",9207,19398,SAMN12123738
+GCA_015111495.1,Tropheus sp. 'Kirschfleck' (bony fishes),Tropheus sp. 'Kirschfleck',9.13,2020/10/29 00:00,"""CICHLID~X""",9199,21477,SAMN12124039
+GCA_015107575.1,Telmatochromis vittatus (bony fishes),Telmatochromis vittatus,9.49,2020/10/29 00:00,"""CICHLID~X""",9181,18482,SAMN12123824
+GCA_015052385.1,Limnochromis abeelei (bony fishes),Limnochromis abeelei,9.56,2020/10/28 00:00,"""CICHLID~X""",9174,20635,SAMN12123746
+GCA_015107155.1,Neolamprologus sp. 'ventralis stripe' AB-2019 (bony fishes),Neolamprologus sp. 'ventralis stripe' AB-2019,19.51,2020/10/29 00:00,"""CICHLID~X""",9151,19199,SAMN12123851
+GCA_015109935.1,Lamprologus ornatipinnis (bony fishes),Lamprologus ornatipinnis,10.71,2020/10/29 00:00,"""CICHLID~X""",9147,19261,SAMN12123964
+GCA_015107495.1,Bathybates hornii (bony fishes),Bathybates hornii,15.26,2020/10/29 00:00,"""CICHLID~X""",9145,16639,SAMN12123836
+GCA_015110695.1,Tropheus sp. 'brichardi kipili' AB-2019 (bony fishes),Tropheus sp. 'brichardi kipili' AB-2019,9.16,2020/10/29 00:00,"""CICHLID~X""",9126,19568,SAMN12124083
+GCA_015708495.1,Stomatepia pindu (pindu),Stomatepia pindu,10,2020/12/01 00:00,"""CICHLID~X""",9100,27401,SAMN13929962
+GCA_015108755.1,Neolamprologus pectoralis (bony fishes),Neolamprologus pectoralis,15.11,2020/10/29 00:00,"""CICHLID~X""",9075,20216,SAMN12123883
+GCA_015106455.1,Lamprologus signatus (bony fishes),Lamprologus signatus,12.13,2020/10/29 00:00,"""CICHLID~X""",9060,18689,SAMN12123775
+GCA_015107355.1,Neolamprologus meeli (bony fishes),Neolamprologus meeli,19.24,2020/10/29 00:00,"""CICHLID~X""",9055,18069,SAMN12123840
+GCA_015106715.1,Bujurquina vittata (banded acara),Bujurquina vittata,9.17,2020/10/29 00:00,"""CICHLID~X""",9052,28157,SAMN12123894
+GCA_015108255.1,Neolamprologus olivaceous (bony fishes),Neolamprologus olivaceous,15.99,2020/10/29 00:00,"""CICHLID~X""",9033,20079,SAMN12123926
+GCA_015107295.1,Plecodus paradoxus (bony fishes),Plecodus paradoxus,10.71,2020/10/29 00:00,"""CICHLID~X""",9005,23414,SAMN12123845
+GCA_015108575.1,Heterotilapia buettikoferi (bony fishes),Heterotilapia buettikoferi,9.43,2020/10/29 00:00,"""CICHLID~X""",8911,22937,SAMN12123898
+GCA_015109215.1,Neolamprologus walteri (bony fishes),Neolamprologus walteri,9.03,2020/10/29 00:00,"""CICHLID~X""",8895,19226,SAMN12124001
+GCA_015106215.1,Xenotilapia caudafasciata (bony fishes),Xenotilapia caudafasciata,9.37,2020/10/29 00:00,"""CICHLID~X""",8883,17278,SAMN12123786
+GCA_015108535.1,Steatocranus sp. 'ultraslender' AB-2019 (bony fishes),Steatocranus sp. 'ultraslender' AB-2019,20.47,2020/10/29 00:00,"""CICHLID~X""",8861,15934,SAMN12123903
+GCA_015708565.1,Pungu maclareni (bony fishes),Pungu maclareni,10,2020/12/01 00:00,"""CICHLID~X""",8858,27798,SAMN13929960
+GCA_015111775.1,Julidochromis sp. 'marlieri south' AB-2019 (bony fishes),Julidochromis sp. 'marlieri south' AB-2019,10.91,2020/10/29 00:00,"""CICHLID~X""",8849,18888,SAMN12124026
+GCA_015109515.1,Petrochromis sp. 'kazumbae' AB-2019 (bony fishes),Petrochromis sp. 'kazumbae' AB-2019,10.94,2020/10/29 00:00,"""CICHLID~X""",8818,24631,SAMN12123987
+GCA_015108215.1,Neolamprologus leleupi (bony fishes),Neolamprologus leleupi,14.54,2020/10/29 00:00,"""CICHLID~X""",8808,20695,SAMN12123927
+GCA_000787155.1,Scartelaos histophorus (walking goby),Scartelaos histophorus,72,2014/12/02 00:00,BGI-shenzhen,8806,15105,SAMN03201693
+GCA_015110755.1,Julidochromis marksmithi (bony fishes),Julidochromis marksmithi,10.78,2020/10/29 00:00,"""CICHLID~X""",8799,19870,SAMN12124080
+GCA_900302535.1,Neoniphon sammara (Sammara squirrelfish),Neoniphon sammara,14,2018/03/21 00:00,CEES,8761,21768,SAMEA4028807
+GCA_015108455.1,Lamprologus tigripictilis (bony fishes),Lamprologus tigripictilis,19.99,2020/10/29 00:00,"""CICHLID~X""",8751,17060,SAMN12123910
+GCA_015108915.1,Telmatochromis sp. 'dhonti north' AB-2019 (bony fishes),Telmatochromis sp. 'dhonti north' AB-2019,7.9,2020/10/29 00:00,"""CICHLID~X""",8747,19393,SAMN12123863
+GCA_015107315.1,Lamprologus laparogramma (bony fishes),Lamprologus laparogramma,12.5,2020/10/29 00:00,"""CICHLID~X""",8724,17899,SAMN12123844
+GCA_015108495.1,Heterochromis multidens (bony fishes),Heterochromis multidens,22.25,2020/10/29 00:00,"""CICHLID~X""",8670,17757,SAMN12123905
+GCA_015108335.1,Neolamprologus marunguensis (bony fishes),Neolamprologus marunguensis,15.67,2020/10/29 00:00,"""CICHLID~X""",8646,20188,SAMN12123924
+GCA_015110035.1,Callochromis pleurospilus (bony fishes),Callochromis pleurospilus,21.82,2020/10/29 00:00,"""CICHLID~X""",8599,16568,SAMN12123959
+GCA_015103775.1,Ctenochromis horei (bony fishes),Ctenochromis horei,10.39,2020/10/29 00:00,"""CICHLID~X""",8597,20823,SAMN12123609
+GCA_015105475.1,Interochromis loocki (bony fishes),Interochromis loocki,11.75,2020/10/29 00:00,"""CICHLID~X""",8585,22433,SAMN12123694
+GCA_015104715.1,Neolamprologus pulcher (bony fishes),Neolamprologus pulcher,9.82,2020/10/29 00:00,"""CICHLID~X""",8575,15853,SAMN12123734
+GCA_015102335.1,Neolamprologus hecqui (bony fishes),Neolamprologus hecqui,15.77,2020/10/29 00:00,"""CICHLID~X""",8563,18799,SAMN12123582
+GCA_015105755.1,Xenotilapia leptura (bony fishes),Xenotilapia leptura,13.5,2020/10/29 00:00,"""CICHLID~X""",8556,15101,SAMN12123681
+GCA_015111195.1,Tropheus sp. 'mpimbwe' AB-2019 (bony fishes),Tropheus sp. 'mpimbwe' AB-2019,8.91,2020/10/29 00:00,"""CICHLID~X""",8554,19089,SAMN12124057
+GCA_015111435.1,Petrochromis macrognathus (bony fishes),Petrochromis macrognathus,9.01,2020/10/29 00:00,"""CICHLID~X""",8547,18197,SAMN12124043
+GCA_015107715.1,Tylochromis polylepis (bony fishes),Tylochromis polylepis,19.48,2020/10/29 00:00,"""CICHLID~X""",8530,18818,SAMN12123820
+GCA_900660455.1,Gephyroberyx darwinii (Darwin's slimehead),Gephyroberyx darwinii,28,2019/06/18 00:00,CEES,8514,18145,SAMEA5226240
+GCA_900302755.1,Chromis chromis (damselfish),Chromis chromis,23,2018/03/21 00:00,CEES,8509,14223,SAMEA4028828
+GCA_015104745.1,Neolamprologus savoryi (bony fishes),Neolamprologus savoryi,11.04,2020/10/29 00:00,"""CICHLID~X""",8508,19013,SAMN12123732
+GCA_015103415.1,Enantiopus melanogenys (bony fishes),Enantiopus melanogenys,11.94,2020/10/29 00:00,"""CICHLID~X""",8477,15189,SAMN12123629
+GCA_015118035.1,Xenotilapia tenuidentata (bony fishes),Xenotilapia tenuidentata,16.23,2020/10/29 00:00,"""CICHLID~X""",8469,16698,SAMN12124107
+GCA_015109915.1,Lepidiolamprologus profundicola (bony fishes),Lepidiolamprologus profundicola,10.82,2020/10/29 00:00,"""CICHLID~X""",8456,18974,SAMN12123966
+GCA_015708515.1,Sarotherodon caroli (fissi),Sarotherodon caroli,10,2020/12/01 00:00,"""CICHLID~X""",8450,30184,SAMN13929963
+GCA_015104655.1,Altolamprologus compressiceps (bony fishes),Altolamprologus compressiceps,11.98,2020/10/29 00:00,"""CICHLID~X""",8441,17144,SAMN12123737
+GCA_903171835.1,Mullus surmuletus (striped red mullet),Mullus surmuletus,74,2020/06/05 00:00,UMR5175,8436,482943,SAMEA6813210
+GCA_015110335.1,Paracyprichromis brieni (bony fishes),Paracyprichromis brieni,9.2,2020/10/29 00:00,"""CICHLID~X""",8431,17921,SAMN12123944
+GCA_015105585.1,Tropheus sp. 'red' AB-2019 (bony fishes),Tropheus sp. 'red' AB-2019,11.44,2020/10/29 00:00,"""CICHLID~X""",8430,21289,SAMN12123688
+GCA_015104535.1,Gnathochromis permaxillaris (bony fishes),Gnathochromis permaxillaris,11.53,2020/10/29 00:00,"""CICHLID~X""",8427,20905,SAMN12123742
+GCA_015102815.1,Benthochromis horii (bony fishes),Benthochromis horii,11.32,2020/10/29 00:00,"""CICHLID~X""",8411,20481,SAMN12123661
+GCA_015104075.1,Neolamprologus crassus (bony fishes),Neolamprologus crassus,11.11,2020/10/29 00:00,"""CICHLID~X""",8405,18897,SAMN12123765
+GCA_015102195.1,Neolamprologus fasciatus (bony fishes),Neolamprologus fasciatus,12.61,2020/10/29 00:00,"""CICHLID~X""",8402,17411,SAMN12123593
+GCA_015104405.1,Bathybates fasciatus (bony fishes),Bathybates fasciatus,14.16,2020/10/29 00:00,"""CICHLID~X""",8373,17371,SAMN12123750
+GCA_015111915.1,Orthochromis malagaraziensis (bony fishes),Orthochromis malagaraziensis,8.85,2020/10/29 00:00,"""CICHLID~X""",8359,17499,SAMN12124019
+GCA_015106585.1,Xenotilapia papilio (bony fishes),Xenotilapia papilio,8.43,2020/10/29 00:00,"""CICHLID~X""",8327,16923,SAMN12123766
+GCA_015110215.1,Tropheus brichardi (bony fishes),Tropheus brichardi,11.15,2020/10/29 00:00,"""CICHLID~X""",8313,21385,SAMN12123952
+GCA_015111975.1,Telmatochromis bifrenatus (bony fishes),Telmatochromis bifrenatus,9.45,2020/10/29 00:00,"""CICHLID~X""",8312,17923,SAMN12124017
+GCA_015113255.1,Neolamprologus bifasciatus (bony fishes),Neolamprologus bifasciatus,9.16,2020/10/29 00:00,"""CICHLID~X""",8310,17260,SAMN12124105
+GCA_015107095.1,Neolamprologus buescheri (bony fishes),Neolamprologus buescheri,9.35,2020/10/29 00:00,"""CICHLID~X""",8305,14345,SAMN12123855
+GCA_015111895.1,Orthochromis uvinzae (bony fishes),Orthochromis uvinzae,8.45,2020/10/29 00:00,"""CICHLID~X""",8303,17786,SAMN12124020
+GCA_015109035.1,Neolamprologus chitamwebwai (bony fishes),Neolamprologus chitamwebwai,8.79,2020/10/29 00:00,"""CICHLID~X""",8294,16878,SAMN12124009
+GCA_901007715.1,Dactylopterus volitans (flying gurnard),Dactylopterus volitans,34,2020/04/15 00:00,CEES,8271,17099,SAMEA5563350
+GCA_015110975.1,Cyphotilapia frontosa (humphead cichlid),Cyphotilapia frontosa,8.53,2020/10/29 00:00,"""CICHLID~X""",8262,19609,SAMN12124067
+GCA_015102775.1,Benthochromis melanoides (bony fishes),Benthochromis melanoides,11.4,2020/10/29 00:00,"""CICHLID~X""",8230,20326,SAMN12123662
+GCA_015052405.1,Altolamprologus calvus (bony fishes),Altolamprologus calvus,12.15,2020/10/28 00:00,"""CICHLID~X""",8227,16859,SAMN12123691
+GCA_015110915.1,Neolamprologus sp. 'eseki' AB-2019 (bony fishes),Neolamprologus sp. 'eseki' AB-2019,10.1,2020/10/29 00:00,"""CICHLID~X""",8220,19069,SAMN12124072
+GCA_015102635.1,Xenotilapia nasus (bony fishes),Xenotilapia nasus,15.22,2020/10/29 00:00,"""CICHLID~X""",8211,18402,SAMN12123672
+GCA_015109475.1,Neolamprologus similis (bony fishes),Neolamprologus similis,11.04,2020/10/29 00:00,"""CICHLID~X""",8184,18012,SAMN12123989
+GCA_015103035.1,Neolamprologus calliurus (bony fishes),Neolamprologus calliurus,12.71,2020/10/29 00:00,"""CICHLID~X""",8168,18816,SAMN12123651
+GCA_900302285.1,Percopsis transmontana (sand roller),Percopsis transmontana,35,2018/03/20 00:00,CEES,8161,15180,SAMEA4028770
+GCA_015107375.1,Lamprologus sp. 'ornatipinnis zambia' AB-2019 (bony fishes),Lamprologus sp. 'ornatipinnis zambia' AB-2019,10.45,2020/10/29 00:00,"""CICHLID~X""",8143,14892,SAMN12123841
+GCA_015110015.1,Xenotilapia ornatipinnis (bony fishes),Xenotilapia ornatipinnis,11.01,2020/10/29 00:00,"""CICHLID~X""",8120,18384,SAMN12123960
+GCA_011763505.1,Lythrypnus dalli (bluebanded goby),Lythrypnus dalli,120,2020/03/27 00:00,IRIDIAN GENOMES,8114,2577483,SAMN06220456
+GCF_001266775.1,Austrofundulus limnaeus (bony fishes),Austrofundulus limnaeus,94,2015/07/28 00:00,"Center for Life in Extreme Environments at Portland State University, Portland, OR",8097,1098383,SAMN03490872
+GCA_010119295.1,Larimichthys polyactis (yellow croaker),Larimichthys polyactis,141,2020/02/03 00:00,Zhejiang Ocean University,8079,146739,SAMN13220413
+GCA_015104175.1,Xenotilapia bathyphila (bony fishes),Xenotilapia bathyphila,12.05,2020/10/29 00:00,"""CICHLID~X""",8047,16943,SAMN12123762
+GCA_900323365.1,Monocentris japonicus (pineconefish),Monocentris japonicus,16,2018/03/26 00:00,CEES,8046,18672,SAMEA4028804
+GCA_015105375.1,Xenotilapia boulengeri (bony fishes),Xenotilapia boulengeri,9.95,2020/10/29 00:00,"""CICHLID~X""",8041,15481,SAMN12123698
+GCA_015102085.1,Xenotilapia sima (bony fishes),Xenotilapia sima,11.84,2020/10/29 00:00,"""CICHLID~X""",7992,16869,SAMN12123755
+GCA_015109575.1,Orthochromis mazimeroensis (bony fishes),Orthochromis mazimeroensis,9.26,2020/10/29 00:00,"""CICHLID~X""",7972,15634,SAMN12123984
+GCA_015109875.1,Astatoreochromis straeleni (bluelip haplo),Astatoreochromis straeleni,9.57,2020/10/29 00:00,"""CICHLID~X""",7930,15567,SAMN12123967
+GCA_015102675.1,Neolamprologus obscurus (bony fishes),Neolamprologus obscurus,8.23,2020/10/29 00:00,"""CICHLID~X""",7921,16758,SAMN12123666
+GCA_015104635.1,Cyprichromis leptosoma (bony fishes),Cyprichromis leptosoma,11.24,2020/10/29 00:00,"""CICHLID~X""",7919,18754,SAMN12123740
+GCA_015109155.1,Tropheus duboisi (dwarf Tanganyikan cichlid),Tropheus duboisi,10.19,2020/10/29 00:00,"""CICHLID~X""",7918,20781,SAMN12124008
+GCA_015106855.1,Xenotilapia ochrogenys (bony fishes),Xenotilapia ochrogenys,12.67,2020/10/29 00:00,"""CICHLID~X""",7887,14890,SAMN12123874
+GCA_015104565.1,Limnochromis auritus (spangled cichlid),Limnochromis auritus,9.89,2020/10/29 00:00,"""CICHLID~X""",7877,24055,SAMN12123744
+GCA_015102915.1,Julidochromis sp. 'kombe' AB-2019 (bony fishes),Julidochromis sp. 'kombe' AB-2019,8.91,2020/10/29 00:00,"""CICHLID~X""",7872,15580,SAMN12123657
+GCA_015104465.1,Neolamprologus christyi (bony fishes),Neolamprologus christyi,10.35,2020/10/29 00:00,"""CICHLID~X""",7850,17227,SAMN12123749
+GCA_015107635.1,Telmatochromis brachygnathus (bony fishes),Telmatochromis brachygnathus,8.72,2020/10/29 00:00,"""CICHLID~X""",7847,17497,SAMN12123828
+GCA_015103395.1,Callochromis macrops (bony fishes),Callochromis macrops,11.07,2020/10/29 00:00,"""CICHLID~X""",7844,15931,SAMN12123631
+GCA_900660355.1,Hoplostethus atlanticus (orange roughy),Hoplostethus atlanticus,28,2019/06/18 00:00,CEES,7812,15562,SAMEA5226241
+GCA_015112635.1,Chalinochromis cyanophleps (bony fishes),Chalinochromis cyanophleps,10.11,2020/10/29 00:00,"""CICHLID~X""",7798,17759,SAMN12124089
+GCA_015102795.1,Bathybates graueri (bony fishes),Bathybates graueri,12.48,2020/10/29 00:00,"""CICHLID~X""",7795,15774,SAMN12123663
+GCA_015111655.1,Neolamprologus leloupi (bony fishes),Neolamprologus leloupi,10.36,2020/10/29 00:00,"""CICHLID~X""",7785,18065,SAMN12124030
+GCA_015052665.1,Apistogramma diplotaenia (bony fishes),Apistogramma diplotaenia,8.23,2020/10/28 00:00,"""CICHLID~X""",7784,25160,SAMN12123895
+GCA_015112615.1,Ophthalmotilapia sp. 'white cap' AB-2019 (bony fishes),Ophthalmotilapia sp. 'white cap' AB-2019,10.92,2020/10/29 00:00,"""CICHLID~X""",7777,17297,SAMN12124091
+GCA_015112095.1,Ectodus sp. 'north' (bony fishes),Ectodus sp. 'north',8.48,2020/10/29 00:00,"""CICHLID~X""",7755,15826,SAMN12124011
+GCA_015106915.1,Cyprichromis microlepidotus (bony fishes),Cyprichromis microlepidotus,8.45,2020/10/29 00:00,"""CICHLID~X""",7749,17400,SAMN12123871
+GCA_003347165.1,Ageneiosus marmoratus (bony fishes),Ageneiosus marmoratus,180,2018/07/31 00:00,Auburn University,7741,223139,SAMN08271869
+GCA_015103355.1,Trematochromis benthicola (bony fishes),Trematochromis benthicola,10.64,2020/10/29 00:00,"""CICHLID~X""",7736,21982,SAMN12123632
+GCA_015103655.1,Cyathopharynx furcifer (bony fishes),Cyathopharynx furcifer,10.67,2020/10/29 00:00,"""CICHLID~X""",7725,17001,SAMN12123617
+GCA_015112555.1,Neolamprologus petricola (bony fishes),Neolamprologus petricola,9.96,2020/10/29 00:00,"""CICHLID~X""",7694,18014,SAMN12124094
+GCA_015111955.1,Neolamprologus niger (bony fishes),Neolamprologus niger,8.48,2020/10/29 00:00,"""CICHLID~X""",7682,15101,SAMN12124015
+GCA_015111835.1,Oreochromis malagarasi (bony fishes),Oreochromis malagarasi,8.89,2020/10/29 00:00,"""CICHLID~X""",7668,22297,SAMN12124022
+GCA_015111535.1,Petrochromis sp. 'red' AB-2019 (bony fishes),Petrochromis sp. 'red' AB-2019,8.15,2020/10/29 00:00,"""CICHLID~X""",7649,18769,SAMN12124036
+GCA_015107115.1,Triglachromis otostigma (bony fishes),Triglachromis otostigma,12.27,2020/10/29 00:00,"""CICHLID~X""",7635,17330,SAMN12123852
+GCA_015110795.1,Lepidiolamprologus kamambae (bony fishes),Lepidiolamprologus kamambae,10.58,2020/10/29 00:00,"""CICHLID~X""",7615,16863,SAMN12124078
+GCA_015052265.1,Cyprichromis pavo (bony fishes),Cyprichromis pavo,11.8,2020/10/28 00:00,"""CICHLID~X""",7608,18957,SAMN12123846
+GCA_015113155.1,Plecodus elaviae (bony fishes),Plecodus elaviae,9.98,2020/10/29 00:00,"""CICHLID~X""",7573,20442,SAMN12124109
+GCA_015111615.1,Neolamprologus sp. 'gracilis tanzania' AB-2019 (bony fishes),Neolamprologus sp. 'gracilis tanzania' AB-2019,8.68,2020/10/29 00:00,"""CICHLID~X""",7544,16381,SAMN12124034
+GCA_015102955.1,Neolamprologus mustax (bony fishes),Neolamprologus mustax,10.61,2020/10/29 00:00,"""CICHLID~X""",7541,17668,SAMN12123652
+GCA_015104675.1,Julidochromis ornatus (golden julie),Julidochromis ornatus,10.61,2020/10/29 00:00,"""CICHLID~X""",7535,17828,SAMN12123736
+GCA_015104355.1,Trematocara macrostoma (bony fishes),Trematocara macrostoma,15.32,2020/10/29 00:00,"""CICHLID~X""",7524,12581,SAMN12123752
+GCA_015106895.1,Lestradea stappersii (bony fishes),Lestradea stappersii,8.77,2020/10/29 00:00,"""CICHLID~X""",7523,15765,SAMN12123872
+GCA_015103955.1,Lepidiolamprologus attenuatus (bony fishes),Lepidiolamprologus attenuatus,10.41,2020/10/29 00:00,"""CICHLID~X""",7519,16957,SAMN12123600
+GCA_015102975.1,Telmatochromis sp. 'lufubu' AB-2019 (bony fishes),Telmatochromis sp. 'lufubu' AB-2019,10.61,2020/10/29 00:00,"""CICHLID~X""",7514,16680,SAMN12123650
+GCA_015052505.1,Gnathochromis pfefferi (bony fishes),Gnathochromis pfefferi,9.38,2020/10/28 00:00,"""CICHLID~X""",7499,20610,SAMN12123602
+GCA_000700825.1,Pimephales promelas (fathead minnow),Pimephales promelas,62,2014/06/10 00:00,DuPont,7468,60380,SAMN02418978
+GCA_015103715.1,Ophthalmotilapia nasuta (bony fishes),Ophthalmotilapia nasuta,11.09,2020/10/29 00:00,"""CICHLID~X""",7442,16407,SAMN12123615
+GCA_015111175.1,Neolamprologus sp. 'caudopunctatus kipili' AB-2019 (bony fishes),Neolamprologus sp. 'caudopunctatus kipili' AB-2019,10.18,2020/10/29 00:00,"""CICHLID~X""",7442,17227,SAMN12124056
+GCA_015110875.1,Neolamprologus sp. 'cygnus' AB-2019 (bony fishes),Neolamprologus sp. 'cygnus' AB-2019,10.09,2020/10/29 00:00,"""CICHLID~X""",7434,18145,SAMN12124075
+GCA_015107595.1,Bathybates minor (bony fishes),Bathybates minor,9.07,2020/10/29 00:00,"""CICHLID~X""",7433,14108,SAMN12123829
+GCA_015111115.1,Xenotilapia sp. 'spilopterus north' AB-2019 (bony fishes),Xenotilapia sp. 'spilopterus north' AB-2019,9.03,2020/10/29 00:00,"""CICHLID~X""",7426,13626,SAMN12124059
+GCA_015106175.1,Hemibates stenosoma (bony fishes),Hemibates stenosoma,9.29,2020/10/29 00:00,"""CICHLID~X""",7406,14497,SAMN12123787
+GCA_015108835.1,Lamprologus sp. 'ornatipinnis congo' AB-2019 (bony fishes),Lamprologus sp. 'ornatipinnis congo' AB-2019,8.66,2020/10/29 00:00,"""CICHLID~X""",7381,14372,SAMN12123879
+GCA_015102055.1,Chalinochromis brichardi (bony fishes),Chalinochromis brichardi,9.55,2020/10/29 00:00,"""CICHLID~X""",7357,16938,SAMN12123596
+GCA_001606085.1,Anguilla rostrata (American eel),Anguilla rostrata,169,2016/04/04 00:00,Universite Laval,7355,86641,SAMN03737505
+GCA_900302745.1,Parablennius parvicornis (rock-pool blenny),Parablennius parvicornis,30,2018/03/19 00:00,CEES,7343,16796,SAMEA4028827
+GCA_015105635.1,Cyathopharynx foae (bony fishes),Cyathopharynx foae,8.78,2020/10/29 00:00,"""CICHLID~X""",7316,15006,SAMN12123686
+GCA_015111745.1,Telmatochromis dhonti (bony fishes),Telmatochromis dhonti,8.84,2020/10/29 00:00,"""CICHLID~X""",7315,15022,SAMN12124027
+GCA_900302405.1,Typhlichthys subterraneus (southern cavefish),Typhlichthys subterraneus,23,2018/03/19 00:00,CEES,7314,9654,SAMEA4028771
+GCA_015108855.1,Telmatochromis brichardi (bony fishes),Telmatochromis brichardi,10.53,2020/10/29 00:00,"""CICHLID~X""",7285,17219,SAMN12123876
+GCA_015103555.1,Chalinochromis popelini (bony fishes),Chalinochromis popelini,8.7,2020/10/29 00:00,"""CICHLID~X""",7255,14526,SAMN12123622
+GCA_015106295.1,Trematocara unimaculatum (bony fishes),Trematocara unimaculatum,13.83,2020/10/29 00:00,"""CICHLID~X""",7238,13602,SAMN12123781
+GCA_015111355.1,Petrochromis sp. 'giant' AB-2019 (bony fishes),Petrochromis sp. 'giant' AB-2019,10.1,2020/10/29 00:00,"""CICHLID~X""",7185,21298,SAMN12124046
+GCA_015103795.1,Xenotilapia spiloptera (bony fishes),Xenotilapia spiloptera,10.51,2020/10/29 00:00,"""CICHLID~X""",7181,15111,SAMN12123610
+GCA_015109695.1,Neolamprologus boulengeri (bony fishes),Neolamprologus boulengeri,8.82,2020/10/29 00:00,"""CICHLID~X""",7181,14253,SAMN12123977
+GCA_015105275.1,Haplotaxodon trifasciatus (bony fishes),Haplotaxodon trifasciatus,9.97,2020/10/29 00:00,"""CICHLID~X""",7150,19295,SAMN12123705
+GCA_015106555.1,Haplochromis vanheusdeni (bony fishes),Haplochromis vanheusdeni,9.24,2020/10/29 00:00,"""CICHLID~X""",7127,13129,SAMN12123916
+GCA_015104335.1,Trematocara nigrifrons (bony fishes),Trematocara nigrifrons,8.68,2020/10/29 00:00,"""CICHLID~X""",7084,10568,SAMN12123753
+GCA_015111455.1,Petrochromis sp. 'moshi yellow' AB-2019 (bony fishes),Petrochromis sp. 'moshi yellow' AB-2019,9.75,2020/10/29 00:00,"""CICHLID~X""",7050,20831,SAMN12124041
+GCA_015105235.1,Paracyprichromis sp. 'brieni south' AB-2019 (bony fishes),Paracyprichromis sp. 'brieni south' AB-2019,10.88,2020/10/29 00:00,"""CICHLID~X""",7018,18184,SAMN12123707
+GCA_015103815.1,Limnotilapia dardennii (bony fishes),Limnotilapia dardennii,9.72,2020/10/29 00:00,"""CICHLID~X""",7015,21625,SAMN12123607
+GCA_015111255.1,Neolamprologus sp. 'furcifer ulwile' AB-2019 (bony fishes),Neolamprologus sp. 'furcifer ulwile' AB-2019,9.56,2020/10/29 00:00,"""CICHLID~X""",7009,16984,SAMN12124054
+GCA_015103915.1,Petrochromis polyodon (bony fishes),Petrochromis polyodon,9.65,2020/10/29 00:00,"""CICHLID~X""",6985,21185,SAMN12123603
+GCA_015102735.1,Telmatochromis temporalis (bony fishes),Telmatochromis temporalis,10.6,2020/10/29 00:00,"""CICHLID~X""",6984,16681,SAMN12123668
+GCA_015104795.1,Trematocara marginatum (bony fishes),Trematocara marginatum,18.38,2020/10/29 00:00,"""CICHLID~X""",6980,11695,SAMN12123730
+GCA_015052645.1,Benitochromis conjunctus (bony fishes),Benitochromis conjunctus,9.2,2020/10/28 00:00,"""CICHLID~X""",6902,27758,SAMN12123899
+GCA_015102295.1,Aulonocranus dewindti (bony fishes),Aulonocranus dewindti,10.13,2020/10/29 00:00,"""CICHLID~X""",6878,16786,SAMN12123586
+GCA_015107995.1,Trematocara stigmaticum (bony fishes),Trematocara stigmaticum,12.69,2020/10/29 00:00,"""CICHLID~X""",6870,12144,SAMN12123803
+GCA_015108095.1,Petrochromis famula (bony fishes),Petrochromis famula,10.72,2020/10/29 00:00,"""CICHLID~X""",6846,20166,SAMN12123793
+GCA_900302585.1,Regalecus glesne (king of herrings),Regalecus glesne,30,2018/03/20 00:00,CEES,6781,9773,SAMEA4028802
+GCA_015104875.1,Telmatochromis sp. 'shell' AB-2019 (bony fishes),Telmatochromis sp. 'shell' AB-2019,10.88,2020/10/29 00:00,"""CICHLID~X""",6771,17380,SAMN12123727
+GCA_015112655.1,Neolamprologus timidus (bony fishes),Neolamprologus timidus,9.57,2020/10/29 00:00,"""CICHLID~X""",6737,16132,SAMN12124087
+GCA_015103155.1,Petrochromis fasciolatus (bony fishes),Petrochromis fasciolatus,9.92,2020/10/29 00:00,"""CICHLID~X""",6733,20016,SAMN12123644
+GCA_900303255.1,Lesueurigobius sanzi (Sanzo's goby),Lesueurigobius sanzi,13,2018/03/21 00:00,CEES,6729,11480,SAMEA4028816
+GCA_015103175.1,Xenotilapia sp. 'papilio sunflower' (bony fishes),Xenotilapia sp. 'papilio sunflower',10.64,2020/10/29 00:00,"""CICHLID~X""",6722,14233,SAMN12123641
+GCA_015107455.1,Bathybates vittatus (bony fishes),Bathybates vittatus,13.28,2020/10/29 00:00,"""CICHLID~X""",6717,13571,SAMN12123837
+GCA_015109125.1,Neolamprologus tretocephalus (bony fishes),Neolamprologus tretocephalus,9.82,2020/10/29 00:00,"""CICHLID~X""",6685,17712,SAMN12124006
+GCA_015103535.1,Ophthalmotilapia heterodonta (bony fishes),Ophthalmotilapia heterodonta,9.82,2020/10/29 00:00,"""CICHLID~X""",6680,12481,SAMN12123623
+GCA_015111275.1,Chalinochromis sp. 'bifrenatus' (bony fishes),Chalinochromis sp. 'bifrenatus',9.46,2020/10/29 00:00,"""CICHLID~X""",6649,16567,SAMN12124050
+GCA_015111635.1,Neolamprologus sp. 'falcicula mahale' AB-2019 (bony fishes),Neolamprologus sp. 'falcicula mahale' AB-2019,7.79,2020/10/29 00:00,"""CICHLID~X""",6646,15211,SAMN12124032
+GCA_015052525.1,Petrochromis sp. 'orthognathus ikola' AB-2019 (bony fishes),Petrochromis sp. 'orthognathus ikola' AB-2019,9.89,2020/10/28 00:00,"""CICHLID~X""",6620,19141,SAMN12124070
+GCA_015103015.1,Neolamprologus brevis (bony fishes),Neolamprologus brevis,8.19,2020/10/29 00:00,"""CICHLID~X""",6608,13765,SAMN12123653
+GCA_015111855.1,Haplochromis paludinosus (bony fishes),Haplochromis paludinosus,7.96,2020/10/29 00:00,"""CICHLID~X""",6571,15811,SAMN12124021
+GCA_015105095.1,Lestradea perspicax (bony fishes),Lestradea perspicax,10.6,2020/10/29 00:00,"""CICHLID~X""",6554,16149,SAMN12123714
+GCA_015111595.1,Bathybates ferox (bony fishes),Bathybates ferox,8.32,2020/10/29 00:00,"""CICHLID~X""",6506,13384,SAMN12124037
+GCA_015102875.1,Bathybates leo (bony fishes),Bathybates leo,8.98,2020/10/29 00:00,"""CICHLID~X""",6491,11954,SAMN12123660
+GCA_015112775.1,Petrochromis sp. 'macrognathus rainbow' AB-2019 (bony fishes),Petrochromis sp. 'macrognathus rainbow' AB-2019,9.37,2020/10/29 00:00,"""CICHLID~X""",6472,19553,SAMN12124086
+GCA_015102115.1,Lepidiolamprologus elongatus (bony fishes),Lepidiolamprologus elongatus,9.67,2020/10/29 00:00,"""CICHLID~X""",6445,15631,SAMN12123594
+GCA_015113295.1,Tropheus sp. 'murago' AB-2019 (bony fishes),Tropheus sp. 'murago' AB-2019,9.83,2020/10/29 00:00,"""CICHLID~X""",6436,19929,SAMN12124101
+GCA_015109195.1,Julidochromis regani (convict julie),Julidochromis regani,9.16,2020/10/29 00:00,"""CICHLID~X""",6414,17949,SAMN12124004
+GCA_015108635.1,Andinoacara biseriatus (bony fishes),Andinoacara biseriatus,8.98,2020/10/29 00:00,"""CICHLID~X""",6409,25636,SAMN12123893
+GCA_015102855.1,Neolamprologus sp. 'kombe' AB-2019 (bony fishes),Neolamprologus sp. 'kombe' AB-2019,10.18,2020/10/29 00:00,"""CICHLID~X""",6398,16723,SAMN12123659
+GCA_015113235.1,Lepidiolamprologus sp. 'meeli kipili' AB-2019 (bony fishes),Lepidiolamprologus sp. 'meeli kipili' AB-2019,10.29,2020/10/29 00:00,"""CICHLID~X""",6343,15380,SAMN12124096
+GCA_015108715.1,Lamprologus meleagris (bony fishes),Lamprologus meleagris,8.3,2020/10/29 00:00,"""CICHLID~X""",6313,10961,SAMN12123885
+GCA_015102515.1,Neolamprologus sexfasciatus (bony fishes),Neolamprologus sexfasciatus,10.42,2020/10/29 00:00,"""CICHLID~X""",6282,15928,SAMN12123677
+GCA_015110735.1,Ophthalmotilapia boops (bony fishes),Ophthalmotilapia boops,10.18,2020/10/29 00:00,"""CICHLID~X""",6277,16062,SAMN12124081
+GCA_015103475.1,Cyprichromis sp. 'kibishi' AB-2019 (bony fishes),Cyprichromis sp. 'kibishi' AB-2019,8.48,2020/10/29 00:00,"""CICHLID~X""",6236,13770,SAMN12123626
+GCA_900323305.1,Trachyrincus murrayi (roughnose grenadier),Trachyrincus murrayi,26,2018/03/26 00:00,CEES,6231,19998,SAMEA4028782
+GCA_015109345.1,Chalinochromis sp. 'ndobhoi' AB-2019 (bony fishes),Chalinochromis sp. 'ndobhoi' AB-2019,9.24,2020/10/29 00:00,"""CICHLID~X""",6221,15111,SAMN12123994
+GCA_015111395.1,Lepidiolamprologus mimicus (bony fishes),Lepidiolamprologus mimicus,9.76,2020/10/29 00:00,"""CICHLID~X""",6214,16068,SAMN12124048
+GCA_015106535.1,Neolamprologus prochilus (bony fishes),Neolamprologus prochilus,9.93,2020/10/29 00:00,"""CICHLID~X""",6194,16229,SAMN12123768
+GCA_015052485.1,Lamprologus ocellatus (bony fishes),Lamprologus ocellatus,10.4,2020/10/28 00:00,"""CICHLID~X""",6093,14052,SAMN12123656
+GCA_900303275.1,Antennarius striatus (striated frogfish),Antennarius striatus,13,2018/03/19 00:00,CEES,6086,9774,SAMEA4028823
+GCA_015109845.1,Callochromis melanostigma (bony fishes),Callochromis melanostigma,9.96,2020/10/29 00:00,"""CICHLID~X""",6084,15141,SAMN12123970
+GCA_015111415.1,Benthochromis tricoti (bony fishes),Benthochromis tricoti,9.31,2020/10/29 00:00,"""CICHLID~X""",6075,18261,SAMN12124044
+GCA_015111315.1,Petrochromis sp. 'kipili brown' AB-2019 (bony fishes),Petrochromis sp. 'kipili brown' AB-2019,9.2,2020/10/29 00:00,"""CICHLID~X""",6031,18722,SAMN12124052
+GCA_015109455.1,Tropheus sp. 'lunatus' AB-2019 (bony fishes),Tropheus sp. 'lunatus' AB-2019,9.29,2020/10/29 00:00,"""CICHLID~X""",6009,19082,SAMN12123991
+GCA_015105035.1,Julidochromis sp. 'regani south' AB-2019 (bony fishes),Julidochromis sp. 'regani south' AB-2019,9.43,2020/10/29 00:00,"""CICHLID~X""",5984,16378,SAMN12123716
+GCA_015104955.1,Neolamprologus multifasciatus (bony fishes),Neolamprologus multifasciatus,8.21,2020/10/29 00:00,"""CICHLID~X""",5944,11588,SAMN12123724
+GCA_900302305.1,Polymixia japonica (silver eye),Polymixia japonica,18,2018/03/19 00:00,CEES,5803,9571,SAMEA4028769
+GCA_015105175.1,Ophthalmotilapia ventralis (bony fishes),Ophthalmotilapia ventralis,10.07,2020/10/29 00:00,"""CICHLID~X""",5802,14465,SAMN12123710
+GCA_900312955.1,Myoxocephalus scorpius (shorthorn sculpin),Myoxocephalus scorpius,16,2018/03/19 00:00,CEES,5716,9473,SAMEA4028818
+GCA_015112995.1,Astatotilapia flaviijosephi (bony fishes),Astatotilapia flaviijosephi,6.95,2020/10/29 00:00,"""CICHLID~X""",5687,11777,SAMN12124119
+GCA_900312575.1,Acanthochaenus luetkenii (pricklefish),Acanthochaenus luetkenii,21,2018/03/19 00:00,CEES,5636,8444,SAMEA4028810
+GCA_015104895.1,Altolamprologus sp. 'compressiceps shell' AB-2019 (bony fishes),Altolamprologus sp. 'compressiceps shell' AB-2019,7.26,2020/10/29 00:00,"""CICHLID~X""",5613,11410,SAMN12123725
+GCA_015107875.1,Lamprologus lemairii (bony fishes),Lamprologus lemairii,10.21,2020/10/29 00:00,"""CICHLID~X""",5584,14205,SAMN12123808
+GCA_015110815.1,Trematocara zebra (bony fishes),Trematocara zebra,9.19,2020/10/29 00:00,"""CICHLID~X""",5470,9927,SAMN12124076
+GCA_900302675.1,Chaenocephalus aceratus (blackfin icefish),Chaenocephalus aceratus,35,2018/03/19 00:00,CEES,5460,7329,SAMEA4028820
+GCA_015106375.1,Cunningtonia longiventralis (bony fishes),Cunningtonia longiventralis,10.37,2020/10/29 00:00,"""CICHLID~X""",5379,13987,SAMN12123777
+GCA_901007905.1,Nerophis ophidion (straightnose pipefish),Nerophis ophidion,13,2020/04/15 00:00,CEES,5245,6841,SAMEA5563358
+GCA_015104975.1,Xenotilapia singularis (bony fishes),Xenotilapia singularis,9.72,2020/10/29 00:00,"""CICHLID~X""",5159,12215,SAMN12123721
+GCA_900302605.1,Rondeletia loricata (redmouth whalefish),Rondeletia loricata,16,2018/03/19 00:00,CEES,5112,7469,SAMEA4028809
+GCA_015113075.1,Neolamprologus cancellatus (bony fishes),Neolamprologus cancellatus,8.78,2020/10/29 00:00,"""CICHLID~X""",5093,10194,SAMN12124117
+GCA_900302375.1,Bathygadus melanobranchus (Vaillant's grenadier),Bathygadus melanobranchus,26,2018/03/19 00:00,CEES,4956,6483,SAMEA4028785
+GCA_900302355.1,Cyttopsis rosea (rosy dory),Cyttopsis rosea,28,2018/03/19 00:00,CEES,4843,7082,SAMEA4028773
+GCA_004193235.1,Hypophthalmichthys nobilis (bighead carp),Hypophthalmichthys nobilis,83,2019/02/12 00:00,University of Nebraska at Omaha,4840,83012,SAMN04317176
+GCA_900323335.1,Zeus faber (John dory),Zeus faber,23,2018/03/26 00:00,CEES,4642,6332,SAMEA4028772
+GCA_015108615.1,Australoheros scitulus (bony fishes),Australoheros scitulus,10.48,2020/10/29 00:00,"""CICHLID~X""",4616,10905,SAMN12123897
+GCA_900302635.1,Chatrabus melanurus (pony toadfish),Chatrabus melanurus,40,2018/03/30 00:00,CEES,4581,5920,SAMEA4028814
+GCA_900302345.1,Melanonus zugmayeri (arrowtail),Melanonus zugmayeri,37,2018/03/19 00:00,CEES,4562,7633,SAMEA4028779
+GCA_014525385.1,Labeo catla (catla),Labeo catla,48,2020/09/11 00:00,Chattogram Veterinary and Animal Sciences University,4548,723740,SAMN14544131
+GCA_900302315.1,Phycis blennoides (bony fishes),Phycis blennoides,31,2018/03/18 00:00,CEES,4532,10640,SAMEA4028788
+GCA_900302275.1,Osmerus eperlanus (European smelt),Osmerus eperlanus,19,2018/03/18 00:00,CEES,4524,6820,SAMEA4028764
+GCA_900302395.1,Bregmaceros cantori (striped codlet),Bregmaceros cantori,24,2018/03/30 00:00,CEES,4452,5922,SAMEA4028775
+GCA_015108585.1,Amphilophus zaliosus (arrow cichlid),Amphilophus zaliosus,8.34,2020/10/29 00:00,"""CICHLID~X""",4450,9619,SAMN12123896
+GCA_900323375.1,Benthosema glaciale (glacier lanternfish),Benthosema glaciale,19,2018/03/26 00:00,CEES,4393,6111,SAMEA4028768
+GCA_900312565.1,Beryx splendens (splendid alfonsino),Beryx splendens,14,2018/03/19 00:00,CEES,4286,5987,SAMEA4028808
+GCA_900312555.1,Lamprogrammus exutus (bony fishes),Lamprogrammus exutus,9,2018/03/20 00:00,CEES,4213,5470,SAMEA4028812
+GCA_900302295.1,Parasudis fraserbrunneri (bony fishes),Parasudis fraserbrunneri,19,2018/03/21 00:00,CEES,4177,6391,SAMEA4028766
+GCA_900323295.1,Molva molva (ling),Molva molva,33,2018/03/26 00:00,CEES,4136,5266,SAMEA4028791
+GCA_009193085.1,Sander vitreus (walleye),Sander vitreus,50,2019/10/21 00:00,Auburn University,4133,4133,SAMN11180528
+GCA_015103455.1,Trematocara variabile (bony fishes),Trematocara variabile,10.11,2020/10/29 00:00,"""CICHLID~X""",4100,6153,SAMN12123628
+GCA_900302545.1,Lampris guttatus (North Atlantic opah),Lampris guttatus,14,2018/03/30 00:00,CEES,4051,5222,SAMEA4028803
+GCA_900660315.1,Diretmoides pauciradiatus (bony fishes),Diretmoides pauciradiatus,46,2019/06/19 00:00,CEES,4028,6032,SAMEA5226239
+GCA_015103295.1,Ptychochromis oligocanthus (bony fishes),Ptychochromis oligocanthus,7.25,2020/10/29 00:00,"""CICHLID~X""",3997,8315,SAMN12123633
+GCA_900323325.1,Borostomias antarcticus (large-eye snaggletooth),Borostomias antarcticus,19,2018/03/26 00:00,CEES,3928,5368,SAMEA4028765
+GCA_900303215.1,Trachyrincus scabrus (roughsnout grenadier),Trachyrincus scabrus,38,2018/03/18 00:00,CEES,3900,6379,SAMEA4028781
+GCA_900302385.1,Lota lota (burbot),Lota lota,30,2018/03/18 00:00,CEES,3803,4892,SAMEA4028790
+GCA_900312945.1,Merluccius capensis (shallow-water Cape hake),Merluccius capensis,20,2018/03/18 00:00,CEES,3792,4774,SAMEA4028778
+GCA_900683385.1,Anoplogaster cornuta (common fangtooth),Anoplogaster cornuta,42,2019/06/15 00:00,CEES,3719,4562,SAMEA5226237
+GCA_900312585.1,Malacocephalus occidentalis (western softhead grenadier),Malacocephalus occidentalis,33,2018/03/18 00:00,CEES,3697,4932,SAMEA4028787
+GCA_900302425.1,Brosme brosme (tusk),Brosme brosme,27,2018/03/18 00:00,CEES,3682,4650,SAMEA4028792
+GCA_900312545.1,Merluccius merluccius (European hake),Merluccius merluccius,30,2018/03/18 00:00,CEES,3670,5117,SAMEA4028777
+GCA_900302575.1,Gadus chalcogrammus (walleye pollock),Gadus chalcogrammus,29,2018/03/19 00:00,CEES,3603,4335,SAMEA4028800
+GCA_900323355.1,Merlangius merlangus (whiting),Merlangius merlangus,37,2018/03/26 00:00,CEES,3538,4444,SAMEA4028797
+GCA_900312625.1,Merluccius polli (Benguela hake),Merluccius polli,20,2018/03/18 00:00,CEES,3471,4482,SAMEA4028776
+GCA_900302335.1,Phycis phycis (bony fishes),Phycis phycis,32,2018/03/18 00:00,CEES,3458,4502,SAMEA4028789
+GCA_900312635.1,Pollachius virens (saithe),Pollachius virens,25,2018/03/18 00:00,CEES,3457,4344,SAMEA4028795
+GCA_900303225.1,Laemonema laureysi (bony fishes),Laemonema laureysi,24,2018/03/18 00:00,CEES,3431,4715,SAMEA4028784
+GCA_901007785.1,Entelurus aequoreus (snake pipefish),Entelurus aequoreus,34,2020/04/15 00:00,CEES,3393,3916,SAMEA5563352
+GCA_900302595.1,Gadiculus argenteus (silvery cod),Gadiculus argenteus,29,2018/03/18 00:00,CEES,3379,3951,SAMEA4028794
+GCA_900312615.1,Stylephorus chordatus (tube-eye),Stylephorus chordatus,23,2018/03/20 00:00,CEES,3373,4684,SAMEA4028774
+GCA_900302365.1,Macrourus berglax (onion-eye grenadier),Macrourus berglax,21,2018/03/18 00:00,CEES,3353,4291,SAMEA4028786
+GCA_900303235.1,Arctogadus glacialis (Arctic cod),Arctogadus glacialis,27,2018/03/19 00:00,CEES,3282,3702,SAMEA4028798
+GCA_900303205.1,Mora moro (bony fishes),Mora moro,39,2018/03/18 00:00,CEES,3267,4433,SAMEA4028783
+GCA_900302415.1,Trisopterus minutus (poor cod),Trisopterus minutus,33,2018/03/18 00:00,CEES,3248,3976,SAMEA4028793
+GCA_900302515.1,Boreogadus saida (bony fishes),Boreogadus saida,30,2018/03/19 00:00,CEES,3221,3572,SAMEA4028799
+GCA_900302325.1,Muraenolepis marmoratus (marbled moray cod),Muraenolepis marmoratus,18,2018/03/19 00:00,CEES,3126,3555,SAMEA4028780
+GCA_015112415.1,Trematocara caparti (bony fishes),Trematocara caparti,11.25,2020/10/29 00:00,"""CICHLID~X""",3079,3962,SAMN12124116
+GCA_900660325.1,Opsanus beta (Gulf toadfish),Opsanus beta,25,2019/06/19 00:00,CEES,3062,3335,SAMEA5226235
+GCA_900312595.1,Guentherus altivela (highfin tadpole fish),Guentherus altivela,9,2018/03/19 00:00,CEES,2928,3201,SAMEA4028767
+GCA_002897255.1,Pagrus major (red seabream),Pagrus major,16,2017/12/28 00:00,"Center for Marine Environmental Studies, Ehime University",2822,4644,SAMD00076252
+GCA_004028445.1,Cirrhinus molitorella (mud carp),Cirrhinus molitorella,54,2019/01/17 00:00,Xiamen University,2738,4199,SAMN10663080
+GCA_900660305.1,Cetomimus sp. NI1144 (bony fishes),Cetomimus sp. NI1144,45,2019/06/15 00:00,CEES,2690,3573,SAMEA5226236
+GCA_003231725.1,Thunnus thynnus (Atlantic bluefin tuna),Thunnus thynnus,15,2018/06/15 00:00,Alessia Cariani's shared submissions,2430,3045,SAMN08408184
+GCA_004124795.1,Poropuntius huangchuchieni (bony fishes),Poropuntius huangchuchieni,50,2019/01/31 00:00,Xiamen University,2273,2931,SAMN10662616
+GCA_009756495.1,Chionodraco hamatus (Antarctic icefish),Chionodraco hamatus,100,2019/12/16 00:00,University of Padova,2261,51057,SAMN10434303
+GCA_013461565.1,Labeo gonius (Kuria labeo),Labeo gonius,12,2020/07/22 00:00,ICAR-Central Inland Fisheries Research Institute,2199,3580,SAMN07156107
+GCA_900660295.1,Diretmus argenteus (silver spinyfin),Diretmus argenteus,117,2019/06/15 00:00,CEES,2172,3367,SAMEA5226238
+GCA_004764525.1,Hypophthalmichthys molitrix (silver carp),Hypophthalmichthys molitrix,80,2019/04/09 00:00,University of Nebraska at Omaha,2130,314181,SAMN04317213
+GCA_001455555.1,Cottus rhenanus (bony fishes),Cottus rhenanus,11,2015/12/02 00:00,Cold Spring Harbor Laboratory,2129,7249,SAMN04145896
+GCA_000787555.1,Pseudopleuronectes yokohamae (marbled flounder),Pseudopleuronectes yokohamae,35,2014/11/24 00:00,Tohoku university,1994,1994,SAMD00021058
+GCA_001910765.2,Sebastes minor (bony fishes),Sebastes minor,34,2016/12/20 00:00,USC,1901,7676,SAMN03354192
+GCA_000776015.1,Cyprinodon nevadensis pectoralis (Amargosa pupfish),Cyprinodon nevadensis,26,2014/11/13 00:00,"University of Colorado, Boulder",1416,83166,SAMN03072616
+GCA_001910785.2,Sebastes steindachneri (bony fishes),Sebastes steindachneri,47,2016/12/20 00:00,USC,1311,4288,SAMN03579458
+GCA_000150935.1,Rhamphochromis esox (bony fishes),Rhamphochromis esox,0,2008/07/09 00:00,Cichlid Genome Consortium,1126,1324,SAMN02743805
+GCA_013184475.1,Acipenser oxyrinchus oxyrinchus (Atlantic sturgeon),Acipenser oxyrinchus,34,2020/05/28 00:00,USGS Leetown Science Center,1104,1104,SAMN14251471
+GCA_000150875.1,Labeotropheus fuelleborni (blue mbuna),Labeotropheus fuelleborni,0,2008/07/09 00:00,Cichlid Genome Consortium,1070,1204,SAMN02743802
+GCA_000150855.1,Mchenga conophoros (bony fishes),Mchenga conophoros,0,2008/07/09 00:00,Cichlid Genome Consortium,1066,1329,SAMN02743801
+GCA_000697985.1,Pampus argenteus (silver pomfret),Pampus argenteus,58,2014/06/03 00:00,Kuwait Institute for Scientific Research (KISR),1001,1586,SAMN02699082
+GCA_000150895.1,Melanochromis auratus (golden mbuna),Melanochromis auratus,0,2008/07/09 00:00,Cichlid Genome Consortium,977,1063,SAMN02743803
+GCA_904066995.1,Poecilia reticulata (guppy),Poecilia reticulata,63,2020/09/16 00:00,UNIVERSITY OF EXETER,8200425,32826315,SAMEA6533017
+GCA_002234695.1,Oryzias latipes (Japanese medaka),Oryzias latipes,1.01,2017/07/27 00:00,The University of Tokyo,3516609,32853055,SAMN06690114
+GCA_002234715.1,Oryzias latipes (Japanese medaka),Oryzias latipes,0.94,2017/07/27 00:00,The University of Tokyo,1450098,28873095,SAMN06689975
+GCA_003186165.1,Scophthalmus maximus (turbot),Scophthalmus maximus,219,2018/06/05 00:00,CNAG,54836,24811384,SAMN08049846
+GCA_010882105.1,Gadus morhua (Atlantic cod),Gadus morhua,70,2020/02/21 00:00,CIGENE,10559872,27362751,SAMN13876601
+GCA_903684865.1,Danio rerio (zebrafish),Danio rerio,67,2020/06/28 00:00,SC,4531818,52957805,SAMEA4760846
+GCA_013358895.1,Oreochromis aureus (blue tilapia),Oreochromis aureus,85,2020/06/18 00:00,University of Vienna,4182292,40723988,SAMN14256941
+GCA_903684855.2,Danio rerio (zebrafish),Danio rerio,67,2020/07/31 00:00,SC,3603372,54392677,SAMEA4760849
+GCF_004634155.1,Esox lucius (northern pike),Esox lucius,260,2019/04/17 00:00,University of Victoria,3396779,37550661,SAMN09690694
+GCA_004348095.1,Oryzias latipes (Japanese medaka),Oryzias latipes,66,2019/03/15 00:00,The University of Tokyo,3258597,3258597,SAMN06690114
+GCA_003845795.1,Larimichthys crocea (large yellow croaker),Larimichthys crocea,0,2018/11/27 00:00,Fujian Fuding Seagull Fishing Food Co.,2833482,27849869,SAMN10434301
+GCA_013350305.1,Oreochromis niloticus (Nile tilapia),Oreochromis niloticus,96,2020/06/16 00:00,University of Vienna,2478287,40346024,SAMN14256593
+GCA_004347445.1,Oryzias latipes (Japanese medaka),Oryzias latipes,108,2019/03/15 00:00,The University of Tokyo,2416720,4765304,SAMN06689957
+GCA_013403625.1,Betta splendens (Siamese fighting fish),Betta splendens,63,2020/07/13 00:00,LOEWE Centre for Translational Biodiversity Genomics (LOEWE-TBG),2171468,20674437,SAMN13419572
+GCA_013036085.1,Poecilia formosa (Amazon molly),Poecilia formosa,34,2020/05/11 00:00,University of Missouri,1886272,30625407,SAMN14441686
+GCA_004006655.3,Ictalurus punctatus (channel catfish),Ictalurus punctatus,54,2019/01/25 00:00,Auburn University,1694657,26315040,SAMN08235469
+GCA_004352675.1,Larimichthys crocea (large yellow croaker),Larimichthys crocea,50,2019/01/30 00:00,Jimei University,1604676,28900476,SAMN09701101
+GCA_003711585.2,Larimichthys crocea (large yellow croaker),Larimichthys crocea,100,2019/11/14 00:00,Frasergen bioinfomatics,1327071,29200035,SAMN10077518
+GCA_004348135.1,Oryzias latipes (Japanese medaka),Oryzias latipes,76,2019/03/15 00:00,The University of Tokyo,1303079,1303079,SAMN06689975
+GCA_013436515.1,Acanthopagrus latus (yellowfin seabream),Acanthopagrus latus,53,2020/07/21 00:00,South China Sea Fisheries Research Institute,1174323,30688393,SAMN12777031
+GCA_013036135.1,Poecilia formosa (Amazon molly),Poecilia formosa,30,2020/05/11 00:00,University of Missouri,1103885,25595170,SAMN14441686
+GCA_008729295.2,Plectropomus leopardus (leopard coralgrouper),Plectropomus leopardus,381,2020/05/07 00:00,"Yellow Sea Fisheries Research Institute, Chinese Academy of Fishery Sciences",897070,33285428,SAMN11897347
+GCA_014332655.1,Carassius auratus (goldfish),Carassius auratus,100,2020/08/28 00:00,Fujian agriculture and forestry university,483444,31841898,SAMN12618612
+GCA_008692375.1,Danio rerio (zebrafish),Danio rerio,110,2019/10/07 00:00,Harvard University,416828,50576722,SAMN09717249
+GCA_012393435.1,Verasper variegatus (spotted halibut),Verasper variegatus,215,2020/04/16 00:00,BGI-Qingdao,175150,23832094,SAMN13738317
+GCA_900246015.1,Larimichthys crocea (large yellow croaker),Larimichthys crocea,180,2018/01/18 00:00,JIMEI UNIVERSITY,130633,20042208,SAMEA104455074
+GCF_000721915.3,Esox lucius (northern pike),Esox lucius,243,2017/01/18 00:00,"Ben F Koop, Jong S Leong",125635,7945253,SAMN02439989
+GCF_000180615.1,Takifugu rubripes (torafugu),Takifugu rubripes,8.7,2011/10/13 00:00,The Fugu Genome Sequencing Consortium,52883,928938,SAMEA3138310
+GCA_003309015.1,Sparus aurata (gilthead seabream),Sparus aurata,60,2018/07/19 00:00,University of Padova,32411,20611436,SAMN09603368
+GCA_001904815.2,Paralichthys olivaceus (Japanese flounder),Paralichthys olivaceus,118,2017/03/15 00:00,"Yellow Sea Fisheries Research Institute, CAFS",30544,3817360,SAMN05981185
+GCF_000188235.2,Oreochromis niloticus (Nile tilapia),Oreochromis niloticus,269,2012/02/08 00:00,Broad Institute,29493,2766223,SAMN00117560
+GCA_014300015.1,Nothobranchius furzeri (turquoise killifish),Nothobranchius furzeri,200,2020/08/26 00:00,Max Planck Institute for Biology of Ageing,26004,49927339,SAMN13746779
+GCA_002831465.1,Oncorhynchus tshawytscha (Chinook salmon),Oncorhynchus tshawytscha,100,2017/12/11 00:00,Mathomics and Columbia River Inter-Tribal Fish Commission (CRITFC),19113,153278,SAMN07614989
+GCA_903798185.1,Danio rerio (zebrafish),Danio rerio,56,2020/06/28 00:00,SC,17916,49099944,SAMEA104026428
+GCA_903798175.1,Danio rerio (zebrafish),Danio rerio,56,2020/06/27 00:00,SC,17829,51269298,SAMEA104026421
+GCA_903798165.1,Danio rerio (zebrafish),Danio rerio,54,2020/06/27 00:00,SC,17459,48671076,SAMEA104026434
+GCF_002163495.1,Oncorhynchus mykiss (rainbow trout),Oncorhynchus mykiss,244,2017/06/02 00:00,USDA/ARS,13827,1670138,SAMN05449231
+GCF_000313675.1,Oryzias latipes (Japanese medaka),Oryzias latipes,0,2007/05/09 00:00,Medaka genome sequencing project,9628,6078048,SAMD00036523
+GCA_900005705.1,Oncorhynchus mykiss (rainbow trout),Oncorhynchus mykiss,21,2014/04/29 00:00,Genoscope CEA,9390,383627,SAMEA3146328
+GCF_902713435.1,Acipenser ruthenus (sterlet),Acipenser ruthenus,149,2020/01/08 00:00,SC,11500722,42536799,SAMEA5572864
+GCA_902713425.1,Acipenser ruthenus (sterlet),Acipenser ruthenus,149,2020/01/08 00:00,SC,10828506,43124428,SAMEA5572864
+GCA_013375545.1,Perca flavescens (yellow perch),Perca flavescens,30,2020/06/29 00:00,McGill University,3466784,3466784,SAMN15198649
+GCA_900066045.1,Lates calcarifer (barramundi perch),Lates calcarifer,90,2017/03/02 00:00,TEMASEK LIFE SCIENCES LABORATORY,1921842,1921842,SAMEA3519091
+GCF_014851395.1,Micropterus salmoides (largemouth bass),Micropterus salmoides,85,2020/10/05 00:00,Biozeron Shenzhen Inc.,1227323,36481429,SAMN15299117
+GCA_900066035.1,Lates calcarifer (barramundi perch),Lates calcarifer,90,2017/03/02 00:00,TEMASEK LIFE SCIENCES LABORATORY,1066117,1191366,SAMEA3519091
+GCA_900650485.1,Anabas testudineus (climbing perch),Anabas testudineus,68,2019/02/07 00:00,SC,1056890,1103271,SAMEA104026376
+GCA_902685365.1,Neostethus bicornis (bony fishes),Neostethus bicornis,119,2019/11/26 00:00,SC,960770,961046,SAMEA104240207
+GCA_900963505.1,Echeneis naucrates (live sharksucker),Echeneis naucrates,62,2019/04/11 00:00,SC,889301,915456,SAMEA4966390
+GCA_009819745.1,Hippoglossus hippoglossus (Atlantic halibut),Hippoglossus hippoglossus,56.23,2019/12/27 00:00,G10K,826995,826995,SAMN12629501
+GCA_007844535.1,Esox lucius (northern pike),Esox lucius,97,2019/08/05 00:00,INRA,794011,794011,SAMN10736172
+GCA_013347865.1,Anguilla anguilla (European eel),Anguilla anguilla,51.23,2020/06/12 00:00,Vertebrate Genomes Project,723285,723285,SAMN12623627
+GCA_012976165.1,Labeo catla (catla),Labeo catla,80,2020/05/05 00:00,ICAR-Central Institute of Freshwater Aquaculture,719175,719175,SAMN12390082
+GCA_014170095.1,Oryzias melastigma (Indian medaka),Oryzias melastigma,370,2020/08/12 00:00,Xiamen University,707795,1709016,SAMN12368440
+GCA_900964985.2,Scleropages formosus (Asian bonytongue),Scleropages formosus,72,2019/04/11 00:00,SC,659444,659444,SAMEA4872123
+GCA_902148815.1,Myripristis murdjan (pinecone soldierfish),Myripristis murdjan,45,2019/07/03 00:00,SC,612296,612296,SAMEA4872133
+GCA_009769515.1,Cyclopterus lumpus (lumpfish),Cyclopterus lumpus,55.96,2019/12/19 00:00,Vertebrate Genomes Project,599283,599283,SAMN12629502
+GCA_009762545.1,Notolabrus celidotus (New Zealand spotty),Notolabrus celidotus,71.06,2019/12/17 00:00,Vertebrate Genomes Project,572529,572529,SAMN12623201
+GCA_015220095.1,Sebastes umbrosus (honeycomb rockfish),Sebastes umbrosus,45.05,2020/11/02 00:00,Vertebrate Genomes Project,558988,563026,SAMN12629503
+GCA_902362175.1,Chanos chanos (milkfish),Chanos chanos,68,2019/08/16 00:00,SC,508005,508005,SAMEA5159473
+GCA_009829135.1,Periophthalmus magnuspinnatus (bony fishes),Periophthalmus magnuspinnatus,69.53,2020/01/03 00:00,Vertebrate Genomes Project,469974,469974,SAMN12629500
+GCA_013368575.1,Megalops cyprinoides (Indo-Pacific tarpon),Megalops cyprinoides,104.34,2020/06/23 00:00,Vertebrate Genomes Project,465753,465753,SAMN12623619
+GCA_007364235.1,Archocentrus centrarchus (flier cichlid),Archocentrus centrarchus,76,2019/07/24 00:00,Vertebrate Genomes Project,455563,456957,SAMN09948522
+GCA_902148835.1,Salarias fasciatus (jewelled blenny),Salarias fasciatus,96,2019/07/03 00:00,SC,421533,424591,SAMEA4966329
+GCA_903798155.1,Danio kyathit (bony fishes),Danio kyathit,51,2020/06/16 00:00,SC,419190,420079,SAMEA104130240
+GCA_900651595.1,Parambassis ranga (Indian glassy fish),Parambassis ranga,101,2019/02/12 00:00,SC,409592,417098,SAMEA4675621
+GCA_900700345.2,Denticeps clupeoides (denticle herring),Denticeps clupeoides,63,2019/03/27 00:00,SC,384267,384267,SAMEA104129917
+GCA_013347815.1,Antennarius maculatus (warty frogfish),Antennarius maculatus,141,2020/06/12 00:00,Vertebrate Genomes Project,380060,380060,SAMN12623626
+GCA_900651605.1,Betta splendens (Siamese fighting fish),Betta splendens,48,2019/02/07 00:00,SC,316502,316933,SAMEA104381735
+GCA_015220065.1,Pygocentrus nattereri (red-bellied piranha),Pygocentrus nattereri,77.77,2020/11/02 00:00,Vertebrate Genomes Project,289653,289653,SAMN12623623
+GCA_903798135.1,Danio aesculapii (bony fishes),Danio aesculapii,52,2020/06/16 00:00,SC,278599,278724,SAMEA104240212
+GCA_902167395.1,Gadus morhua (Atlantic cod),Gadus morhua,83,2019/07/16 00:00,SC,278226,278683,SAMEA5574046
+GCA_901000745.3,Takifugu rubripes (torafugu),Takifugu rubripes,83,2019/06/05 00:00,SC,266405,276385,SAMEA104384834
+GCA_902148825.1,Sphaeramia orbicularis (orbiculate cardinalfish),Sphaeramia orbicularis,53,2019/07/03 00:00,SC,246057,249014,SAMEA4966328
+GCA_013347915.1,Electrophorus electricus (electric eel),Electrophorus electricus,52.97,2020/06/12 00:00,Vertebrate Genomes Project,216154,216154,SAMN12623625
+GCA_014839645.1,Xenentodon cancila (freshwater garfish),Xenentodon cancila,62.8,2020/09/30 00:00,Vertebrate Genomes Project,211426,211426,SAMN12623622
+GCA_904848175.1,Acanthopagrus latus (yellowfin seabream),Acanthopagrus latus,60,2020/10/12 00:00,SC,195684,208235,SAMN16236878
+GCA_902827105.1,Trematomus bernacchii (emerald rockcod),Trematomus bernacchii,46,2020/04/15 00:00,SC,176545,190305,SAMEA104132834
+GCA_900650505.1,Gouania willdenowi (blunt-snouted clingfish),Gouania willdenowi,58,2019/02/07 00:00,SC,173852,173852,SAMEA104026382
+GCA_900231065.1,Trachinotus ovatus (derbio),Trachinotus ovatus,100,2018/05/03 00:00,South China Sea Fisheries Research Institute,173312,1671595,SAMEA104304869
+GCA_901709685.1,Syngnathus acus (greater pipefish),Syngnathus acus,96,2019/06/02 00:00,SC,169498,170058,SAMEA104381750
+GCA_902827095.1,Harpagifer antarcticus (Antarctic spiny plunderfish),Harpagifer antarcticus,67,2020/04/15 00:00,SC,157921,167204,SAMEA104132831
+GCA_900880695.1,Sparus aurata (gilthead seabream),Sparus aurata,56,2019/07/11 00:00,SC,152708,152836,SAMEA104384835
+GCA_007224835.1,Danionella translucida (bony fishes),Danionella translucida,185,2019/07/22 00:00,Charite - Universitatsmedizin Berlin,133131,340819,SAMN11288624
+GCA_003651195.1,Tenualosa ilisha (Hilsa shad),Tenualosa ilisha,28,2018/10/15 00:00,Molecular Biology Lab,129889,188026,SAMN10026359
+GCA_902500245.1,Thalassophryne amazonica (bony fishes),Thalassophryne amazonica,67,2019/09/30 00:00,SC,119171,119214,SAMEA104129913
+GCA_902827185.1,Gymnodraco acuticeps (bony fishes),Gymnodraco acuticeps,42,2020/04/15 00:00,SC,112147,118975,SAMEA104242997
+GCA_014839705.1,Anableps anableps (largescale foureyes),Anableps anableps,58.8,2020/09/30 00:00,Vertebrate Genomes Project,112127,112127,SAMN12623628
+GCA_900634435.1,Cottoperca gobio (bony fishes),Cottoperca gobio,75,2019/02/07 00:00,SC,107516,107591,SAMEA104242975
+GCA_900700845.2,Erpetoichthys calabaricus (reedfish),Erpetoichthys calabaricus,51,2019/03/27 00:00,SC,98416,98429,SAMEA104026374
+GCA_004011555.1,Cyprinus carpio (common carp),Cyprinus carpio,430.5,2019/01/10 00:00,Chinese Academy of Fishery Sciences,94545,2603917,SAMN10617437
+GCA_000180675.1,Gasterosteus aculeatus (three-spined stickleback),Gasterosteus aculeatus,0,2006/02/01 00:00,,83204,83204,SAMN02981227
+GCA_007844225.1,Arapaima gigas (arapaima),Arapaima gigas,58.6,2019/08/08 00:00,University of Wuerzburg,64954,285171,SAMN11567704
+GCA_001624245.1,Scleropages formosus (Asian bonytongue),Scleropages formosus,100,2016/04/20 00:00,BGI-SZ,63526,1870178,SAMN03894453
+GCF_003671635.1,Pangasianodon hypophthalmus (striped catfish),Pangasianodon hypophthalmus,130,2018/10/22 00:00,"Institute of Genome Research, Vietnam Academy of Science and Technology",62522,14288580,SAMN08866743
+GCA_001624255.1,Scleropages formosus (Asian bonytongue),Scleropages formosus,100,2016/04/20 00:00,BGI-SZ,60472,1625668,SAMN03894452
+GCA_004011575.1,Cyprinus carpio (common carp),Cyprinus carpio,430.5,2019/01/10 00:00,Chinese Academy of Fishery Sciences,59678,1596048,SAMN10617435
+GCF_001682695.1,Pygocentrus nattereri (red-bellied piranha),Pygocentrus nattereri,91,2016/07/12 00:00,McDonnell Genome Institute,57732,1440044,SAMN04522165
+GCA_900327885.1,Nibea albiflora (white flower croaker),Nibea albiflora,1,2018/12/05 00:00,JIMEI UNIVERSITY,55145,2154052,SAMEA1067819
+GCA_006346465.1,Scophthalmus maximus (turbot),Scophthalmus maximus,310,2019/06/14 00:00,Yellow Sea Fisheries Research Institute,45259,5929382,SAMN11618027
+GCA_003650155.1,Betta splendens (Siamese fighting fish),Betta splendens,0.9993,2018/10/15 00:00,BGI,38053,19754490,SAMN07955939
+GCA_003054885.1,Seriola lalandi (yellowtail amberjack),Seriola lalandi,100,2018/04/17 00:00,Wageningen University,37711,411616,SAMN04544729
+GCF_003665695.1,Electrophorus electricus (electric eel),Electrophorus electricus,55,2018/10/30 00:00,University of Wisconsin Madison,37141,613956,SAMN02802636
+GCA_902827155.1,Pseudochaenichthys georgianus (South Georgia icefish),Pseudochaenichthys georgianus,93,2020/04/15 00:00,SC,36557,38285,SAMEA104132832
+GCA_004011595.1,Cyprinus carpio (common carp),Cyprinus carpio,430.5,2019/01/10 00:00,Chinese Academy of Fishery Sciences,36306,898640,SAMN10617436
+GCA_009069565.1,Carassius auratus red var. (red crucian carp),Carassius auratus,105,2019/10/15 00:00,Hunan Normal Univesity,34411,516799,SAMN03859971
+GCA_006229185.1,Gasterosteus aculeatus (three-spined stickleback),Gasterosteus aculeatus,77,2019/06/11 00:00,Institute of Ecology and Evolution,32541,312209,SAMN11077410
+GCA_006232285.1,Gasterosteus aculeatus (three-spined stickleback),Gasterosteus aculeatus,89,2019/06/11 00:00,Institute of Ecology and Evolution,32252,401650,SAMN11077408
+GCF_001624265.1,Scleropages formosus (Asian bonytongue),Scleropages formosus,100,2016/04/20 00:00,BGI-SZ,30805,5965175,SAMN03894411
+GCA_900323705.1,Clupea harengus (Atlantic herring),Clupea harengus,150,2018/04/12 00:00,Amplexa Genetics,28410,1966996,SAMEA104710403
+GCA_000787105.1,Periophthalmus magnuspinnatus (bony fishes),Periophthalmus magnuspinnatus,77,2014/12/02 00:00,BGI-shenzhen,28254,296161,SAMN03201694
+GCA_006346445.1,Scophthalmus maximus (turbot),Scophthalmus maximus,159,2019/06/14 00:00,Yellow Sea Fisheries Research Institute,27893,25168265,SAMN11618026
+GCA_009764425.1,Scophthalmus maximus (turbot),Scophthalmus maximus,150,2019/12/18 00:00,Yellow Sea Fisheries Research Institute,27892,6110529,SAMN05890600
+GCF_000742935.1,Larimichthys crocea (large yellow croaker),Larimichthys crocea,76,2014/08/22 00:00,Zhejiang Ocean University,25717,495736,SAMN02630636
+GCA_000767325.1,Danio rerio (zebrafish),Danio rerio,0,2010/05/24 00:00,Wellcome Trust Sanger Institute,24925,613723,SAMEA3146315
+GCA_006232265.1,Gasterosteus aculeatus (three-spined stickleback),Gasterosteus aculeatus,145,2019/06/11 00:00,Institute of Ecology and Evolution,24675,491022,SAMN11077411
+GCA_004119895.1,Acipenser ruthenus (sterlet),Acipenser ruthenus,135.74,2019/01/30 00:00,"Yangtze River Fisheries Research Institute, Chinese Academy of Fishery Sciences",24377,219750,SAMN10088814
+GCA_001487895.1,Danio rerio (zebrafish),Danio rerio,80,2015/12/23 00:00,SC,24356,3091434,SAMEA3642453
+GCA_000751415.1,Amphilophus citrinellus (Midas cichlid),Amphilophus citrinellus,30,2014/09/07 00:00,UNIVERSITY OF KONSTANZ,23456,1216136,SAMEA2698536
+GCA_902175115.3,Clupea harengus (Atlantic herring),Clupea harengus,264,2019/08/15 00:00,Amplexa Genetics,22496,1971137,SAMEA5815659
+GCF_000966335.1,Clupea harengus (Atlantic herring),Clupea harengus,127,2015/03/30 00:00,BGI,22277,1860920,SAMN03154066
+GCF_000241075.1,Xiphophorus maculatus (southern platyfish),Xiphophorus maculatus,19.6,2012/01/06 00:00,"The Genome Institute, Washington University at St. Louis",22275,1303070,SAMN02981361
+GCA_003402435.1,Seriola quinqueradiata (Japanese amberjack),Seriola quinqueradiata,269,2018/07/12 00:00,"Research Center for Bioinformatics and Biosciences, National Research Institute of Fisheries Science, Japan Fisheries Research and Education Agency",20864,1433177,SAMD00098161
+GCA_002207885.1,Seriola quinqueradiata (Japanese amberjack),Seriola quinqueradiata,110,2017/06/12 00:00,"Faculty of Bioresources, Mie university",19672,791853,SAMD00068660
+GCA_900302665.1,Anabas testudineus (climbing perch),Anabas testudineus,22,2018/03/19 00:00,CEES,18817,50227,SAMEA4028826
+GCA_003412525.1,Perca fluviatilis (European perch),Perca fluviatilis,68,2018/08/22 00:00,University of Turku,18197,6260519,SAMN08954933
+GCA_012026605.1,Colossoma macropomum (tambaqui),Colossoma macropomum,22,2020/04/03 00:00,CIIMAR - Interdisciplinary Centre of Marine and Environmental Research,18011,25040,SAMN13634674
+GCA_001663605.1,Morone saxatilis (striped sea-bass),Morone saxatilis,68,2016/06/16 00:00,Striped Bass Genomics,17868,29984,SAMN03174709
+GCF_000826765.1,Fundulus heteroclitus (mummichog),Fundulus heteroclitus,75,2015/01/21 00:00,The Genome Institute at Washington University School of Medicine,16689,1252252,SAMN03277211
+GCA_001663955.1,Kryptolebias marmoratus (mangrove rivulus),Kryptolebias marmoratus,50,2016/06/17 00:00,Washington State University,16024,111539,SAMN03892719
+GCA_004802775.1,Astyanax mexicanus (Mexican tetra),Astyanax mexicanus,70,2019/04/22 00:00,Aquatic Genome Models,14739,1775308,SAMN11404277
+GCA_001010145.1,Lates calcarifer (barramundi perch),Lates calcarifer,46,2015/05/18 00:00,James Cook University,14534,310513,SAMN03466679
+GCA_004335315.1,Sebastes schlegelii (Schlegel's black rockfish),Sebastes schlegelii,45,2019/03/08 00:00,Zhejiang Ocean University,14246,14246,SAMN10490953
+GCA_003399555.1,Pungitius pungitius (ninespine stickleback),Pungitius pungitius,129,2018/08/16 00:00,University of Utah,14136,302682,SAMN05210078
+GCA_015107795.1,Oreochromis tanganicae (bony fishes),Oreochromis tanganicae,20.43,2020/10/29 00:00,"""CICHLID~X""",13552,29705,SAMN12123813
+GCA_009852395.1,Collichthys lucidus (big head croaker),Collichthys lucidus,235,2020/01/10 00:00,Zhejiang Ocean University,12651,663853,SAMN13155762
+GCA_015109615.1,Pseudosimochromis marginatus (bony fishes),Pseudosimochromis marginatus,20.99,2020/10/29 00:00,"""CICHLID~X""",12194,23652,SAMN12123979
+GCA_015106795.1,Paracyprichromis sp. 'tembwe' AB-2019 (bony fishes),Paracyprichromis sp. 'tembwe' AB-2019,22.9,2020/10/29 00:00,"""CICHLID~X""",11961,22844,SAMN12123889
+GCA_015052285.1,Petrochromis trewavasae (threadfin cichlid),Petrochromis trewavasae,19.88,2020/10/28 00:00,"""CICHLID~X""",11868,24569,SAMN12123772
+GCA_006352315.1,Anguilla japonica (Japanese eel),Anguilla japonica,180,2019/06/18 00:00,BGI-SZ ocean institute,11787,937113,SAMN11472315
+GCA_015109555.1,Cyphotilapia sp. '5-bar frontosa' AB-2019 (bony fishes),Cyphotilapia sp. '5-bar frontosa' AB-2019,8.45,2020/10/29 00:00,"""CICHLID~X""",11683,24683,SAMN12123985
+GCA_003935095.1,Pungitius pungitius (ninespine stickleback),Pungitius pungitius,99,2018/12/14 00:00,University of Oregon,11580,12691,SAMN08331111
+GCA_000325985.2,Latimeria chalumnae (coelacanth),Latimeria chalumnae,299.48,2012/09/21 00:00,Tokyo Institute of Technology,11394,331424,SAMD00041835
+GCA_001443345.1,Xiphophorus hellerii (green swordtail),Xiphophorus hellerii,52,2015/11/13 00:00,McDonnell Genome Institute - Washington University School of Medicine,11299,29445952,SAMN03968850
+GCA_015107855.1,Eretmodus cyanostictus (Tanganyika clown),Eretmodus cyanostictus,7.88,2020/10/29 00:00,"""CICHLID~X""",11244,20629,SAMN12123807
+GCA_015052585.1,Simochromis diagramma (bony fishes),Simochromis diagramma,13.02,2020/10/28 00:00,"""CICHLID~X""",11212,22126,SAMN12123590
+GCA_003604335.1,Sardina pilchardus (sardine),Sardina pilchardus,59,2018/10/01 00:00,CIIMAR - Interdisciplinary Centre of Marine and Environmental Research,10878,25577,SAMN09664902
+GCA_015107755.1,Boulengerochromis microlepis (giant cichlid),Boulengerochromis microlepis,19.12,2020/10/29 00:00,"""CICHLID~X""",10857,25551,SAMN12123815
+GCA_015109275.1,Cyprichromis sp. 'dwarf jumbo' AB-2019 (bony fishes),Cyprichromis sp. 'dwarf jumbo' AB-2019,14.43,2020/10/29 00:00,"""CICHLID~X""",10743,23898,SAMN12123999
+GCA_015107075.1,Neolamprologus furcifer (bony fishes),Neolamprologus furcifer,9.23,2020/10/29 00:00,"""CICHLID~X""",10647,19014,SAMN12123857
+GCA_015107235.1,Cyprichromis coloratus (bony fishes),Cyprichromis coloratus,9.41,2020/10/29 00:00,"""CICHLID~X""",10394,23083,SAMN12123849
+GCA_015108815.1,Julidochromis sp. 'unterfels' AB-2019 (bony fishes),Julidochromis sp. 'unterfels' AB-2019,19.39,2020/10/29 00:00,"""CICHLID~X""",10343,18760,SAMN12123877
+GCA_015102155.1,Simochromis diagramma (bony fishes),Simochromis diagramma,12.28,2020/10/29 00:00,"""CICHLID~X""",10334,21973,SAMN12123591
+GCA_015105995.1,Xenotilapia flavipinnis (yellow sand cichlid),Xenotilapia flavipinnis,19.05,2020/10/29 00:00,"""CICHLID~X""",10255,17148,SAMN12123819
+GCA_015108775.1,Neolamprologus variostigma (bony fishes),Neolamprologus variostigma,20.03,2020/10/29 00:00,"""CICHLID~X""",10198,19308,SAMN12123881
+GCA_015102275.1,Pseudosimochromis babaulti (bony fishes),Pseudosimochromis babaulti,12.25,2020/10/29 00:00,"""CICHLID~X""",10123,18327,SAMN12123587
+GCA_015111035.1,Tropheus polli (bony fishes),Tropheus polli,15.85,2020/10/29 00:00,"""CICHLID~X""",10011,24680,SAMN12124065
+GCA_015103215.1,Neolamprologus cylindricus (bony fishes),Neolamprologus cylindricus,18.86,2020/10/29 00:00,"""CICHLID~X""",9984,18821,SAMN12123642
+GCA_015113055.1,Julidochromis transcriptus (masked julie),Julidochromis transcriptus,12.53,2020/10/29 00:00,"""CICHLID~X""",9968,20539,SAMN12124113
+GCA_015109755.1,Neolamprologus ventralis (bony fishes),Neolamprologus ventralis,10.63,2020/10/29 00:00,"""CICHLID~X""",9849,19833,SAMN12123975
+GCA_015109635.1,Lamprologus speciosus (bony fishes),Lamprologus speciosus,9.31,2020/10/29 00:00,"""CICHLID~X""",9751,17596,SAMN12123981
+GCA_015113015.1,Neolamprologus nigriventris (bony fishes),Neolamprologus nigriventris,6.79,2020/10/29 00:00,"""CICHLID~X""",9731,18817,SAMN12124114
+GCA_015104015.1,Pseudosimochromis babaulti (bony fishes),Pseudosimochromis babaulti,12.58,2020/10/29 00:00,"""CICHLID~X""",9714,17043,SAMN12123598
+GCA_015106055.1,Perissodus multidentatus (bony fishes),Perissodus multidentatus,12.2,2020/10/29 00:00,"""CICHLID~X""",9692,21192,SAMN12123799
+GCA_015105435.1,Petrochromis trewavasae ephippium (threadfin cichlid),Petrochromis trewavasae,9.22,2020/10/29 00:00,"""CICHLID~X""",9685,19804,SAMN12123695
+GCA_015110175.1,Tanganicodus irsacae (spotfin goby cichlid),Tanganicodus irsacae,9.27,2020/10/29 00:00,"""CICHLID~X""",9552,18245,SAMN12123951
+GCA_015104425.1,Limnochromis staneri (bony fishes),Limnochromis staneri,9.3,2020/10/29 00:00,"""CICHLID~X""",9461,21364,SAMN12123747
+GCA_015108875.1,Neolamprologus mondabu (bony fishes),Neolamprologus mondabu,11.33,2020/10/29 00:00,"""CICHLID~X""",9440,19179,SAMN12123867
+GCA_900323315.1,Symphodus melops (corkwing wrasse),Symphodus melops,17,2018/03/26 00:00,CEES,9362,21275,SAMEA4028821
+GCA_015110395.1,Lamprologus kungweensis (bony fishes),Lamprologus kungweensis,9.29,2020/10/29 00:00,"""CICHLID~X""",9247,16513,SAMN12123941
+GCA_015110495.1,Julidochromis marlieri (bony fishes),Julidochromis marlieri,10.78,2020/10/29 00:00,"""CICHLID~X""",9213,19757,SAMN12123935
+GCA_015107915.1,Greenwoodochromis christyi (bony fishes),Greenwoodochromis christyi,9.34,2020/10/29 00:00,"""CICHLID~X""",9160,20515,SAMN12123805
+GCA_015105615.1,Cyphotilapia gibberosa (bony fishes),Cyphotilapia gibberosa,11.91,2020/10/29 00:00,"""CICHLID~X""",9156,22774,SAMN12123685
+GCA_015111475.1,Petrochromis sp. 'moshi yellow' AB-2019 (bony fishes),Petrochromis sp. 'moshi yellow' AB-2019,9.17,2020/10/29 00:00,"""CICHLID~X""",9083,20210,SAMN12124042
+GCA_015113175.1,Xenotilapia tenuidentata (bony fishes),Xenotilapia tenuidentata,13.99,2020/10/29 00:00,"""CICHLID~X""",9063,16370,SAMN12124106
+GCA_015113215.1,Tropheus sp. 'murago' AB-2019 (bony fishes),Tropheus sp. 'murago' AB-2019,9.52,2020/10/29 00:00,"""CICHLID~X""",9021,19653,SAMN12124102
+GCA_015106315.1,Perissodus eccentricus (bony fishes),Perissodus eccentricus,10.18,2020/10/29 00:00,"""CICHLID~X""",9004,22833,SAMN12123779
+GCA_015108355.1,Neolamprologus gracilis (bony fishes),Neolamprologus gracilis,15.73,2020/10/29 00:00,"""CICHLID~X""",9004,20899,SAMN12123921
+GCA_015106475.1,Petrochromis horii (bony fishes),Petrochromis horii,9.19,2020/10/29 00:00,"""CICHLID~X""",8978,17590,SAMN12123770
+GCA_015105715.1,Plecodus straeleni (bony fishes),Plecodus straeleni,11.54,2020/10/29 00:00,"""CICHLID~X""",8956,21523,SAMN12123680
+GCA_015110475.1,Neolamprologus falcicula (bony fishes),Neolamprologus falcicula,14.17,2020/10/29 00:00,"""CICHLID~X""",8933,18804,SAMN12123937
+GCA_015110095.1,Neolamprologus toae (bony fishes),Neolamprologus toae,10.48,2020/10/29 00:00,"""CICHLID~X""",8882,19751,SAMN12123956
+GCA_015109395.1,Tropheus sp. 'lukuga' AB-2019 (bony fishes),Tropheus sp. 'lukuga' AB-2019,9.24,2020/10/29 00:00,"""CICHLID~X""",8821,17384,SAMN12123996
+GCA_015105675.1,Xenotilapia leptura (bony fishes),Xenotilapia leptura,21.32,2020/10/29 00:00,"""CICHLID~X""",8776,14323,SAMN12123682
+GCA_015106035.1,Xenotilapia nigrolabiata (bony fishes),Xenotilapia nigrolabiata,9.6,2020/10/29 00:00,"""CICHLID~X""",8744,17134,SAMN12123802
+GCA_015107975.1,Benthochromis melanoides (bony fishes),Benthochromis melanoides,9.12,2020/10/29 00:00,"""CICHLID~X""",8685,17998,SAMN12123796
+GCA_000878545.1,Nothobranchius furzeri (turquoise killifish),Nothobranchius furzeri,80,2015/02/20 00:00,Stanford University,8598,117689,SAMN02750843
+GCA_015109955.1,Lamprologus ornatipinnis (bony fishes),Lamprologus ornatipinnis,8.03,2020/10/29 00:00,"""CICHLID~X""",8555,16982,SAMN12123965
+GCA_015105395.1,Interochromis loocki (bony fishes),Interochromis loocki,9.26,2020/10/29 00:00,"""CICHLID~X""",8532,18026,SAMN12123699
+GCA_015112075.1,Julidochromis regani (convict julie),Julidochromis regani,8.59,2020/10/29 00:00,"""CICHLID~X""",8530,17162,SAMN12124013
+GCA_015108195.1,Pelvicachromis taeniatus (bony fishes),Pelvicachromis taeniatus,6.82,2020/10/29 00:00,"""CICHLID~X""",8522,24065,SAMN12123931
+GCA_015113275.1,Neolamprologus bifasciatus (bony fishes),Neolamprologus bifasciatus,9.22,2020/10/29 00:00,"""CICHLID~X""",8519,17208,SAMN12124104
+GCA_015108035.1,Trematochromis benthicola (bony fishes),Trematochromis benthicola,9.27,2020/10/29 00:00,"""CICHLID~X""",8500,18952,SAMN12123794
+GCA_015103735.1,Pseudosimochromis curvifrons (bony fishes),Pseudosimochromis curvifrons,11.69,2020/10/29 00:00,"""CICHLID~X""",8483,16035,SAMN12123613
+GCA_015106195.1,Benthochromis melanoides (bony fishes),Benthochromis melanoides,9.12,2020/10/29 00:00,"""CICHLID~X""",8483,18284,SAMN12123784
+GCA_015106955.1,Tropheus sp. 'black' (bony fishes),Tropheus sp. 'black',10.67,2020/10/29 00:00,"""CICHLID~X""",8476,21112,SAMN12123869
+GCA_015105055.1,Julidochromis dickfeldi (bony fishes),Julidochromis dickfeldi,9.1,2020/10/29 00:00,"""CICHLID~X""",8475,15601,SAMN12123718
+GCA_015108135.1,Neolamprologus pectoralis (bony fishes),Neolamprologus pectoralis,6.99,2020/10/29 00:00,"""CICHLID~X""",8475,18827,SAMN12123932
+GCA_015111055.1,Plecodus paradoxus (bony fishes),Plecodus paradoxus,8.85,2020/10/29 00:00,"""CICHLID~X""",8470,23343,SAMN12124061
+GCA_015107535.1,Grammatotria lemairii (bony fishes),Grammatotria lemairii,8.82,2020/10/29 00:00,"""CICHLID~X""",8383,16457,SAMN12123834
+GCA_015102495.1,Neolamprologus calliurus (bony fishes),Neolamprologus calliurus,10.42,2020/10/29 00:00,"""CICHLID~X""",8365,15698,SAMN12123676
+GCA_015109435.1,Lepidiolamprologus profundicola (bony fishes),Lepidiolamprologus profundicola,10.97,2020/10/29 00:00,"""CICHLID~X""",8355,18866,SAMN12123988
+GCA_015104195.1,Xenochromis hecqui (bony fishes),Xenochromis hecqui,8.07,2020/10/29 00:00,"""CICHLID~X""",8324,20527,SAMN12123760
+GCA_015108315.1,Neolamprologus marunguensis (bony fishes),Neolamprologus marunguensis,15.06,2020/10/29 00:00,"""CICHLID~X""",8316,19532,SAMN12123923
+GCA_015107025.1,Neolamprologus brichardi (lyretail cichlid),Neolamprologus brichardi,10.56,2020/10/29 00:00,"""CICHLID~X""",8256,20607,SAMN12123864
+GCA_000418415.1,Thunnus orientalis (Pacific bluefin tuna),Thunnus orientalis,54.9,2013/06/27 00:00,National Research Institute of Fisheries Science,8235,8235,SAMD00036584
+GCA_000400755.1,Takifugu flavidus (sansaifugu),Takifugu flavidus,131,2013/05/30 00:00,IOCAS,8233,315240,SAMN01737183
+GCA_015110765.1,Julidochromis marksmithi (bony fishes),Julidochromis marksmithi,8.26,2020/10/29 00:00,"""CICHLID~X""",8167,16545,SAMN12124079
+GCA_015102755.1,Neolamprologus obscurus (bony fishes),Neolamprologus obscurus,9.41,2020/10/29 00:00,"""CICHLID~X""",8147,15846,SAMN12123665
+GCA_015111935.1,Telmatochromis bifrenatus (bony fishes),Telmatochromis bifrenatus,9.06,2020/10/29 00:00,"""CICHLID~X""",8132,17310,SAMN12124016
+GCA_015111515.1,Tropheus sp. 'Kirschfleck' (bony fishes),Tropheus sp. 'Kirschfleck',8.38,2020/10/29 00:00,"""CICHLID~X""",8114,19252,SAMN12124040
+GCA_015111095.1,Neolamprologus longior (bony fishes),Neolamprologus longior,8.79,2020/10/29 00:00,"""CICHLID~X""",8060,15542,SAMN12124062
+GCA_015107055.1,Pseudosimochromis babaulti (bony fishes),Pseudosimochromis babaulti,10.46,2020/10/29 00:00,"""CICHLID~X""",8049,20185,SAMN12123858
+GCA_015052725.1,Spathodus erythrodon (bony fishes),Spathodus erythrodon,10.69,2020/10/28 00:00,"""CICHLID~X""",7973,18219,SAMN12123861
+GCA_015103695.1,Neolamprologus fasciatus (bony fishes),Neolamprologus fasciatus,9.94,2020/10/29 00:00,"""CICHLID~X""",7968,17062,SAMN12123612
+GCA_015109815.1,Xenotilapia longispinis (bony fishes),Xenotilapia longispinis,11.62,2020/10/29 00:00,"""CICHLID~X""",7918,16499,SAMN12123972
+GCA_015105955.1,Telmatochromis vittatus (bony fishes),Telmatochromis vittatus,8.82,2020/10/29 00:00,"""CICHLID~X""",7873,15727,SAMN12123823
+GCA_001270105.1,Cyprinus carpio (common carp),Cyprinus carpio,12,2015/08/18 00:00,ZF-screens B.V.,7872,66838,SAMN03856486
+GCA_015107675.1,Tylochromis polylepis (bony fishes),Tylochromis polylepis,17.53,2020/10/29 00:00,"""CICHLID~X""",7862,18230,SAMN12123821
+GCA_015106815.1,Xenotilapia ochrogenys (bony fishes),Xenotilapia ochrogenys,7.59,2020/10/29 00:00,"""CICHLID~X""",7847,14755,SAMN12123875
+GCA_015108295.1,Neolamprologus olivaceous (bony fishes),Neolamprologus olivaceous,14.81,2020/10/29 00:00,"""CICHLID~X""",7831,19117,SAMN12123925
+GCA_013115835.1,Carassius auratus (goldfish),Carassius auratus,47,2020/05/18 00:00,National Institute of Agricultural Research(INRA),7773,8216,SAMN13497183
+GCA_015104925.1,Ectodus descampsii (Descamp's strange-tooth cichlid),Ectodus descampsii,8.63,2020/10/29 00:00,"""CICHLID~X""",7763,14761,SAMN12123720
+GCA_015106015.1,Baileychromis centropomoides (bony fishes),Baileychromis centropomoides,9.88,2020/10/29 00:00,"""CICHLID~X""",7752,15201,SAMN12123812
+GCA_015105135.1,Ophthalmotilapia ventralis (bony fishes),Ophthalmotilapia ventralis,9.22,2020/10/29 00:00,"""CICHLID~X""",7725,14457,SAMN12123711
+GCA_015110435.1,Eretmodus marksmithi (bony fishes),Eretmodus marksmithi,7.93,2020/10/29 00:00,"""CICHLID~X""",7721,17505,SAMN12123939
+GCA_015108235.1,Neolamprologus longicaudatus (bony fishes),Neolamprologus longicaudatus,10.28,2020/10/29 00:00,"""CICHLID~X""",7714,18931,SAMN12123928
+GCA_015111815.1,Xenotilapia sima (bony fishes),Xenotilapia sima,12.48,2020/10/29 00:00,"""CICHLID~X""",7703,16824,SAMN12124024
+GCA_015109535.1,Petrochromis sp. 'kazumbae' AB-2019 (bony fishes),Petrochromis sp. 'kazumbae' AB-2019,10.92,2020/10/29 00:00,"""CICHLID~X""",7680,22947,SAMN12123986
+GCA_015105155.1,Perissodus microlepis (bony fishes),Perissodus microlepis,8.58,2020/10/29 00:00,"""CICHLID~X""",7670,15820,SAMN12123712
+GCA_015108995.1,Neolamprologus buescheri (bony fishes),Neolamprologus buescheri,9.08,2020/10/29 00:00,"""CICHLID~X""",7665,13936,SAMN12123854
+GCA_015102135.1,Ctenochromis horei (bony fishes),Ctenochromis horei,10,2020/10/29 00:00,"""CICHLID~X""",7663,18509,SAMN12123595
+GCA_002723815.1,Anguilla japonica (Japanese eel),Anguilla japonica,113,2017/10/25 00:00,Tohoku National Fisheries Research Institute,7661,472078,SAMD00080929
+GCA_015104615.1,Lobochilotes labiatus (bony fishes),Lobochilotes labiatus,7.99,2020/10/29 00:00,"""CICHLID~X""",7660,16891,SAMN12123739
+GCA_015105355.1,Neolamprologus tetracanthus (bony fishes),Neolamprologus tetracanthus,8.55,2020/10/29 00:00,"""CICHLID~X""",7632,14879,SAMN12123700
+GCA_015104155.1,Neolamprologus crassus (bony fishes),Neolamprologus crassus,11.03,2020/10/29 00:00,"""CICHLID~X""",7629,17726,SAMN12123764
+GCA_015111575.1,Petrochromis sp. 'red' AB-2019 (bony fishes),Petrochromis sp. 'red' AB-2019,8.07,2020/10/29 00:00,"""CICHLID~X""",7626,18519,SAMN12124035
+GCA_015110995.1,Cyphotilapia frontosa (humphead cichlid),Cyphotilapia frontosa,8.5,2020/10/29 00:00,"""CICHLID~X""",7617,18010,SAMN12124068
+GCA_015108975.1,Triglachromis otostigma (bony fishes),Triglachromis otostigma,9.01,2020/10/29 00:00,"""CICHLID~X""",7611,15111,SAMN12123853
+GCA_015104735.1,Neolamprologus pulcher (bony fishes),Neolamprologus pulcher,8.56,2020/10/29 00:00,"""CICHLID~X""",7597,14583,SAMN12123731
+GCA_015103875.1,Cyathopharynx furcifer (bony fishes),Cyathopharynx furcifer,10.51,2020/10/29 00:00,"""CICHLID~X""",7590,16866,SAMN12123601
+GCA_015110115.1,Tropheus brichardi (bony fishes),Tropheus brichardi,11,2020/10/29 00:00,"""CICHLID~X""",7565,18245,SAMN12123953
+GCA_015105415.1,Xenotilapia boulengeri (bony fishes),Xenotilapia boulengeri,10.44,2020/10/29 00:00,"""CICHLID~X""",7546,13791,SAMN12123697
+GCA_015102575.1,Xenotilapia nasus (bony fishes),Xenotilapia nasus,9.07,2020/10/29 00:00,"""CICHLID~X""",7539,14114,SAMN12123671
+GCA_015112535.1,Petrochromis sp. 'polyodon texas' AB-2019 (bony fishes),Petrochromis sp. 'polyodon texas' AB-2019,10.08,2020/10/29 00:00,"""CICHLID~X""",7512,21305,SAMN12124097
+GCA_015110195.1,Spathodus marlieri (bony fishes),Spathodus marlieri,7.67,2020/10/29 00:00,"""CICHLID~X""",7510,16994,SAMN12123954
+GCA_015104215.1,Bathybates graueri (bony fishes),Bathybates graueri,9.34,2020/10/29 00:00,"""CICHLID~X""",7500,13688,SAMN12123761
+GCA_015107255.1,Cyprichromis pavo (bony fishes),Cyprichromis pavo,9.91,2020/10/29 00:00,"""CICHLID~X""",7494,14676,SAMN12123847
+GCA_015111295.1,Petrochromis sp. 'kipili brown' AB-2019 (bony fishes),Petrochromis sp. 'kipili brown' AB-2019,7.99,2020/10/29 00:00,"""CICHLID~X""",7486,17871,SAMN12124051
+GCA_015109595.1,Neolamprologus sp. 'brevis magara' AB-2019 (bony fishes),Neolamprologus sp. 'brevis magara' AB-2019,9.49,2020/10/29 00:00,"""CICHLID~X""",7477,16192,SAMN12123983
+GCA_015111695.1,Neolamprologus sp. 'gracilis tanzania' AB-2019 (bony fishes),Neolamprologus sp. 'gracilis tanzania' AB-2019,8.36,2020/10/29 00:00,"""CICHLID~X""",7461,16348,SAMN12124031
+GCA_015106335.1,Bathybates minor (bony fishes),Bathybates minor,9.57,2020/10/29 00:00,"""CICHLID~X""",7457,13339,SAMN12123780
+GCA_015103935.1,Enantiopus melanogenys (bony fishes),Enantiopus melanogenys,10.88,2020/10/29 00:00,"""CICHLID~X""",7434,14478,SAMN12123604
+GCA_015107615.1,Tropheus moorii (blunthead cichlid),Tropheus moorii,8.47,2020/10/29 00:00,"""CICHLID~X""",7420,15487,SAMN12123830
+GCA_015104235.1,Xenotilapia bathyphila (bony fishes),Xenotilapia bathyphila,9.62,2020/10/29 00:00,"""CICHLID~X""",7400,14303,SAMN12123763
+GCA_015111155.1,Tropheus sp. 'mpimbwe' AB-2019 (bony fishes),Tropheus sp. 'mpimbwe' AB-2019,7.92,2020/10/29 00:00,"""CICHLID~X""",7387,17019,SAMN12124058
+GCA_015106135.1,Neolamprologus savoryi (bony fishes),Neolamprologus savoryi,8.24,2020/10/29 00:00,"""CICHLID~X""",7368,14513,SAMN12123790
+GCA_015102175.1,Variabilichromis moorii (bony fishes),Variabilichromis moorii,9.29,2020/10/29 00:00,"""CICHLID~X""",7350,17510,SAMN12123589
+GCA_015107815.1,Neolamprologus christyi (bony fishes),Neolamprologus christyi,8.15,2020/10/29 00:00,"""CICHLID~X""",7342,14228,SAMN12123809
+GCA_015103135.1,Haplochromis sp. Chipwa (bony fishes),Haplochromis sp. Chipwa,8.05,2020/10/29 00:00,"""CICHLID~X""",7331,16360,SAMN12123646
+GCA_015102935.1,Lamprologus ocellatus (bony fishes),Lamprologus ocellatus,8.81,2020/10/29 00:00,"""CICHLID~X""",7327,13286,SAMN12123655
+GCA_015108735.1,Telmatochromis sp. 'longola' AB-2019 (bony fishes),Telmatochromis sp. 'longola' AB-2019,9.05,2020/10/29 00:00,"""CICHLID~X""",7325,14071,SAMN12123886
+GCA_015109255.1,Pseudosimochromis marginatus (bony fishes),Pseudosimochromis marginatus,9.53,2020/10/29 00:00,"""CICHLID~X""",7313,20741,SAMN12124003
+GCA_015110855.1,Neolamprologus sp. 'cygnus' AB-2019 (bony fishes),Neolamprologus sp. 'cygnus' AB-2019,10.48,2020/10/29 00:00,"""CICHLID~X""",7293,17455,SAMN12124074
+GCA_015102605.1,Julidochromis sp. 'kombe' AB-2019 (bony fishes),Julidochromis sp. 'kombe' AB-2019,8.28,2020/10/29 00:00,"""CICHLID~X""",7283,14042,SAMN12123675
+GCA_015112055.1,Ectodus sp. 'north' (bony fishes),Ectodus sp. 'north',8.3,2020/10/29 00:00,"""CICHLID~X""",7280,14809,SAMN12124012
+GCA_015111875.1,Julidochromis sp. 'marlieri south' AB-2019 (bony fishes),Julidochromis sp. 'marlieri south' AB-2019,10.21,2020/10/29 00:00,"""CICHLID~X""",7273,18594,SAMN12124023
+GCA_015112395.1,Telmatochromis sp. 'dhonti twiyu' AB-2019 (bony fishes),Telmatochromis sp. 'dhonti twiyu' AB-2019,8.03,2020/10/29 00:00,"""CICHLID~X""",7272,16685,SAMN12124103
+GCA_015104855.1,Telmatochromis sp. 'shell' AB-2019 (bony fishes),Telmatochromis sp. 'shell' AB-2019,8.79,2020/10/29 00:00,"""CICHLID~X""",7270,14843,SAMN12123728
+GCA_901007815.1,Mullus surmuletus (striped red mullet),Mullus surmuletus,34,2020/04/15 00:00,CEES,7238,17184,SAMEA5563357
+GCA_015052595.1,Tropheus sp. 'lunatus' AB-2019 (bony fishes),Tropheus sp. 'lunatus' AB-2019,9.93,2020/10/28 00:00,"""CICHLID~X""",7234,17379,SAMN12123992
+GCA_015111795.1,Xenotilapia sima (bony fishes),Xenotilapia sima,9.55,2020/10/29 00:00,"""CICHLID~X""",7219,14819,SAMN12124025
+GCA_015105075.1,Julidochromis sp. 'regani south' AB-2019 (bony fishes),Julidochromis sp. 'regani south' AB-2019,8.13,2020/10/29 00:00,"""CICHLID~X""",7215,14368,SAMN12123715
+GCA_015104295.1,Reganochromis calliurus (bony fishes),Reganochromis calliurus,8.77,2020/10/29 00:00,"""CICHLID~X""",7202,14910,SAMN12123757
+GCA_015052325.1,Gnathochromis permaxillaris (bony fishes),Gnathochromis permaxillaris,10.89,2020/10/28 00:00,"""CICHLID~X""",7170,18703,SAMN12123759
+GCA_015103675.1,Ophthalmotilapia nasuta (bony fishes),Ophthalmotilapia nasuta,10.65,2020/10/29 00:00,"""CICHLID~X""",7160,16130,SAMN12123614
+GCA_015108435.1,Tropheus annectens (bony fishes),Tropheus annectens,10.09,2020/10/29 00:00,"""CICHLID~X""",7160,20723,SAMN12123918
+GCA_015104695.1,Julidochromis ornatus (golden julie),Julidochromis ornatus,8.23,2020/10/29 00:00,"""CICHLID~X""",7157,14903,SAMN12123735
+GCA_015103195.1,Cyprichromis zonatus (bony fishes),Cyprichromis zonatus,7.85,2020/10/29 00:00,"""CICHLID~X""",7134,17514,SAMN12123639
+GCA_015102315.1,Aulonocranus dewindti (bony fishes),Aulonocranus dewindti,10.35,2020/10/29 00:00,"""CICHLID~X""",7123,16537,SAMN12123585
+GCA_015104495.1,Limnochromis abeelei (bony fishes),Limnochromis abeelei,10.86,2020/10/29 00:00,"""CICHLID~X""",7107,20288,SAMN12123745
+GCA_015106415.1,Petrochromis trewavasae (threadfin cichlid),Petrochromis trewavasae,10.46,2020/10/29 00:00,"""CICHLID~X""",7107,19750,SAMN12123773
+GCA_015105535.1,Lepidiolamprologus cunningtoni (bony fishes),Lepidiolamprologus cunningtoni,10.46,2020/10/29 00:00,"""CICHLID~X""",7088,16361,SAMN12123692
+GCA_015103855.1,Gnathochromis pfefferi (bony fishes),Gnathochromis pfefferi,8.93,2020/10/29 00:00,"""CICHLID~X""",7081,20582,SAMN12123605
+GCA_015112495.1,Neolamprologus petricola (bony fishes),Neolamprologus petricola,9.52,2020/10/29 00:00,"""CICHLID~X""",7078,16542,SAMN12124093
+GCA_015111135.1,Xenotilapia sp. 'spilopterus north' AB-2019 (bony fishes),Xenotilapia sp. 'spilopterus north' AB-2019,8.81,2020/10/29 00:00,"""CICHLID~X""",7047,12599,SAMN12124060
+GCA_015110295.1,Ophthalmotilapia sp. 'paranasuta' AB-2019 (bony fishes),Ophthalmotilapia sp. 'paranasuta' AB-2019,10.49,2020/10/29 00:00,"""CICHLID~X""",7039,16110,SAMN12123949
+GCA_015108795.1,Lamprologus sp. 'ornatipinnis congo' AB-2019 (bony fishes),Lamprologus sp. 'ornatipinnis congo' AB-2019,8.35,2020/10/29 00:00,"""CICHLID~X""",7023,13822,SAMN12123880
+GCA_015110675.1,Tropheus sp. 'brichardi kipili' AB-2019 (bony fishes),Tropheus sp. 'brichardi kipili' AB-2019,9.91,2020/10/29 00:00,"""CICHLID~X""",7013,19467,SAMN12124084
+GCA_015112015.1,Neolamprologus niger (bony fishes),Neolamprologus niger,7.97,2020/10/29 00:00,"""CICHLID~X""",7013,14943,SAMN12124014
+GCA_015113195.1,Plecodus elaviae (bony fishes),Plecodus elaviae,9.6,2020/10/29 00:00,"""CICHLID~X""",7012,19935,SAMN12124108
+GCA_015103435.1,Cyprichromis sp. 'kibishi' AB-2019 (bony fishes),Cyprichromis sp. 'kibishi' AB-2019,9.53,2020/10/29 00:00,"""CICHLID~X""",7003,13749,SAMN12123627
+GCA_015107475.1,Bathybates hornii (bony fishes),Bathybates hornii,10.5,2020/10/29 00:00,"""CICHLID~X""",6991,15213,SAMN12123835
+GCA_015052625.1,Neolamprologus pleuromaculatus (bony fishes),Neolamprologus pleuromaculatus,10.37,2020/10/28 00:00,"""CICHLID~X""",6990,16249,SAMN12123962
+GCA_015108115.1,Telmatochromis brichardi (bony fishes),Telmatochromis brichardi,10.34,2020/10/29 00:00,"""CICHLID~X""",6989,16857,SAMN12123933
+GCA_015103255.1,Paracyprichromis nigripinnis (bony fishes),Paracyprichromis nigripinnis,8.33,2020/10/29 00:00,"""CICHLID~X""",6972,17098,SAMN12123637
+GCA_015112675.1,Neolamprologus timidus (bony fishes),Neolamprologus timidus,7.85,2020/10/29 00:00,"""CICHLID~X""",6954,13978,SAMN12124088
+GCA_015103755.1,Xenotilapia spiloptera (bony fishes),Xenotilapia spiloptera,10.53,2020/10/29 00:00,"""CICHLID~X""",6950,13822,SAMN12123611
+GCA_009660315.1,Lophius piscatorius (angler),Lophius piscatorius,6,2019/11/13 00:00,Nord university,6947,6947,SAMN11284904
+GCA_015110895.1,Neolamprologus sp. 'eseki' AB-2019 (bony fishes),Neolamprologus sp. 'eseki' AB-2019,7.46,2020/10/29 00:00,"""CICHLID~X""",6947,15280,SAMN12124071
+GCA_015102255.1,Xenotilapia papilio (bony fishes),Xenotilapia papilio,8.36,2020/10/29 00:00,"""CICHLID~X""",6907,14169,SAMN12123584
+GCA_015103375.1,Callochromis macrops (bony fishes),Callochromis macrops,10.21,2020/10/29 00:00,"""CICHLID~X""",6898,15335,SAMN12123630
+GCA_015106155.1,Hemibates stenosoma (bony fishes),Hemibates stenosoma,9.51,2020/10/29 00:00,"""CICHLID~X""",6892,12786,SAMN12123788
+GCA_015104275.1,Xenotilapia sima (bony fishes),Xenotilapia sima,12.95,2020/10/29 00:00,"""CICHLID~X""",6888,15646,SAMN12123756
+GCA_015103895.1,Petrochromis polyodon (bony fishes),Petrochromis polyodon,9.78,2020/10/29 00:00,"""CICHLID~X""",6855,20979,SAMN12123606
+GCA_015105455.1,Lamprologus lemairii (bony fishes),Lamprologus lemairii,8.17,2020/10/29 00:00,"""CICHLID~X""",6854,13279,SAMN12123696
+GCA_015102595.1,Neolamprologus modestus (bony fishes),Neolamprologus modestus,10.47,2020/10/29 00:00,"""CICHLID~X""",6844,16298,SAMN12123673
+GCA_015111715.1,Telmatochromis dhonti (bony fishes),Telmatochromis dhonti,8.3,2020/10/29 00:00,"""CICHLID~X""",6823,14471,SAMN12124028
+GCA_015106935.1,Cyprichromis microlepidotus (bony fishes),Cyprichromis microlepidotus,7.6,2020/10/29 00:00,"""CICHLID~X""",6807,15481,SAMN12123870
+GCA_015112575.1,Chalinochromis cyanophleps (bony fishes),Chalinochromis cyanophleps,9.68,2020/10/29 00:00,"""CICHLID~X""",6783,16354,SAMN12124090
+GCA_015102995.1,Neolamprologus brevis (bony fishes),Neolamprologus brevis,8.51,2020/10/29 00:00,"""CICHLID~X""",6781,13664,SAMN12123654
+GCA_015103835.1,Limnotilapia dardennii (bony fishes),Limnotilapia dardennii,9.98,2020/10/29 00:00,"""CICHLID~X""",6766,20492,SAMN12123608
+GCA_015109995.1,Xenotilapia ornatipinnis (bony fishes),Xenotilapia ornatipinnis,10.21,2020/10/29 00:00,"""CICHLID~X""",6752,16987,SAMN12123961
+GCA_015106995.1,Neolamprologus brichardi (lyretail cichlid),Neolamprologus brichardi,7.64,2020/10/29 00:00,"""CICHLID~X""",6737,15782,SAMN12123865
+GCA_015111235.1,Neolamprologus sp. 'furcifer ulwile' AB-2019 (bony fishes),Neolamprologus sp. 'furcifer ulwile' AB-2019,9.5,2020/10/29 00:00,"""CICHLID~X""",6735,16737,SAMN12124053
+GCA_015104035.1,Chalinochromis brichardi (bony fishes),Chalinochromis brichardi,9.22,2020/10/29 00:00,"""CICHLID~X""",6709,16660,SAMN12123597
+GCA_015708455.1,Sarotherodon lohbergeri (keppi),Sarotherodon lohbergeri,10,2020/12/01 00:00,"""CICHLID~X""",6703,25365,SAMN12124123
+GCA_015103055.1,Orthochromis indermauri (bony fishes),Orthochromis indermauri,7.92,2020/10/29 00:00,"""CICHLID~X""",6700,14375,SAMN12123649
+GCA_015105895.1,Telmatochromis brachygnathus (bony fishes),Telmatochromis brachygnathus,8.49,2020/10/29 00:00,"""CICHLID~X""",6690,13366,SAMN12123827
+GCA_015107425.1,Neolamprologus meeli (bony fishes),Neolamprologus meeli,8.6,2020/10/29 00:00,"""CICHLID~X""",6687,13589,SAMN12123839
+GCA_015105555.1,Altolamprologus calvus (bony fishes),Altolamprologus calvus,10.04,2020/10/29 00:00,"""CICHLID~X""",6598,15974,SAMN12123690
+GCA_015106395.1,Cunningtonia longiventralis (bony fishes),Cunningtonia longiventralis,8.63,2020/10/29 00:00,"""CICHLID~X""",6585,12855,SAMN12123776
+GCA_015108015.1,Haplochromis burtoni (Burton's mouthbrooder),Haplochromis burtoni,9.97,2020/10/29 00:00,"""CICHLID~X""",6577,17728,SAMN12123795
+GCA_015111335.1,Chalinochromis sp. 'bifrenatus' (bony fishes),Chalinochromis sp. 'bifrenatus',9.35,2020/10/29 00:00,"""CICHLID~X""",6535,16542,SAMN12124049
+GCA_015110055.1,Callochromis pleurospilus (bony fishes),Callochromis pleurospilus,10.52,2020/10/29 00:00,"""CICHLID~X""",6531,15115,SAMN12123958
+GCA_015106515.1,Xenotilapia papilio (bony fishes),Xenotilapia papilio,8.66,2020/10/29 00:00,"""CICHLID~X""",6511,11936,SAMN12123767
+GCA_015107695.1,Limnochromis auritus (spangled cichlid),Limnochromis auritus,10.38,2020/10/29 00:00,"""CICHLID~X""",6501,20068,SAMN12123817
+GCA_015104555.1,Cyprichromis leptosoma (bony fishes),Cyprichromis leptosoma,10.09,2020/10/29 00:00,"""CICHLID~X""",6496,17050,SAMN12123741
+GCA_015107415.1,Bathybates vittatus (bony fishes),Bathybates vittatus,12.87,2020/10/29 00:00,"""CICHLID~X""",6465,12283,SAMN12123838
+GCA_015112455.1,Petrochromis sp. 'giant' AB-2019 (bony fishes),Petrochromis sp. 'giant' AB-2019,9.39,2020/10/29 00:00,"""CICHLID~X""",6448,19645,SAMN12124100
+GCA_015104775.1,Altolamprologus compressiceps (bony fishes),Altolamprologus compressiceps,10.61,2020/10/29 00:00,"""CICHLID~X""",6433,14453,SAMN12123733
+GCA_015103515.1,Neolamprologus hecqui (bony fishes),Neolamprologus hecqui,8.89,2020/10/29 00:00,"""CICHLID~X""",6420,12848,SAMN12123625
+GCA_015108935.1,Telmatochromis sp. 'dhonti north' AB-2019 (bony fishes),Telmatochromis sp. 'dhonti north' AB-2019,7.58,2020/10/29 00:00,"""CICHLID~X""",6420,13883,SAMN12123862
+GCA_015113115.1,Petrochromis macrognathus (bony fishes),Petrochromis macrognathus,7.93,2020/10/29 00:00,"""CICHLID~X""",6409,14322,SAMN12124112
+GCA_015106425.1,Lamprologus signatus (bony fishes),Lamprologus signatus,10.45,2020/10/29 00:00,"""CICHLID~X""",6400,14633,SAMN12123774
+GCA_015109115.1,Neolamprologus tretocephalus (bony fishes),Neolamprologus tretocephalus,9.78,2020/10/29 00:00,"""CICHLID~X""",6386,17377,SAMN12124005
+GCA_015109495.1,Neolamprologus similis (bony fishes),Neolamprologus similis,9.84,2020/10/29 00:00,"""CICHLID~X""",6376,15932,SAMN12123990
+GCA_015103315.1,Bathybates fasciatus (bony fishes),Bathybates fasciatus,9.61,2020/10/29 00:00,"""CICHLID~X""",6363,10958,SAMN12123635
+GCA_015104375.1,Trematocara macrostoma (bony fishes),Trematocara macrostoma,9.04,2020/10/29 00:00,"""CICHLID~X""",6350,11019,SAMN12123751
+GCA_015110315.1,Paracyprichromis brieni (bony fishes),Paracyprichromis brieni,7.77,2020/10/29 00:00,"""CICHLID~X""",6349,13436,SAMN12123945
+GCA_015105315.1,Neolamprologus caudopunctatus (bony fishes),Neolamprologus caudopunctatus,9.63,2020/10/29 00:00,"""CICHLID~X""",6345,15125,SAMN12123704
+GCA_015109055.1,Neolamprologus chitamwebwai (bony fishes),Neolamprologus chitamwebwai,7.4,2020/10/29 00:00,"""CICHLID~X""",6316,13623,SAMN12124010
+GCA_015107395.1,Lamprologus sp. 'ornatipinnis zambia' AB-2019 (bony fishes),Lamprologus sp. 'ornatipinnis zambia' AB-2019,8.34,2020/10/29 00:00,"""CICHLID~X""",6303,12451,SAMN12123842
+GCA_015106355.1,Trematocara unimaculatum (bony fishes),Trematocara unimaculatum,14.89,2020/10/29 00:00,"""CICHLID~X""",6266,11129,SAMN12123778
+GCA_015103495.1,Neolamprologus hecqui (bony fishes),Neolamprologus hecqui,8.29,2020/10/29 00:00,"""CICHLID~X""",6251,12675,SAMN12123624
+GCA_015105115.1,Lestradea perspicax (bony fishes),Lestradea perspicax,7.65,2020/10/29 00:00,"""CICHLID~X""",6244,12656,SAMN12123713
+GCA_015111675.1,Neolamprologus sp. 'falcicula mahale' AB-2019 (bony fishes),Neolamprologus sp. 'falcicula mahale' AB-2019,7.62,2020/10/29 00:00,"""CICHLID~X""",6217,14322,SAMN12124033
+GCA_015112595.1,Ophthalmotilapia sp. 'white cap' AB-2019 (bony fishes),Ophthalmotilapia sp. 'white cap' AB-2019,10,2020/10/29 00:00,"""CICHLID~X""",6211,15293,SAMN12124092
+GCA_015106275.1,Limnochromis staneri (bony fishes),Limnochromis staneri,10.13,2020/10/29 00:00,"""CICHLID~X""",6173,20040,SAMN12123783
+GCA_015109285.1,Pseudosimochromis marginatus (bony fishes),Pseudosimochromis marginatus,9.05,2020/10/29 00:00,"""CICHLID~X""",6159,18898,SAMN12124002
+GCA_015102395.1,Benthochromis tricoti (bony fishes),Benthochromis tricoti,10.25,2020/10/29 00:00,"""CICHLID~X""",6156,16237,SAMN12124045
+GCA_015106115.1,Petrochromis famula (bony fishes),Petrochromis famula,7.54,2020/10/29 00:00,"""CICHLID~X""",6137,14336,SAMN12123792
+GCA_015113135.1,Tangachromis dhanisi (bony fishes),Tangachromis dhanisi,7.81,2020/10/29 00:00,"""CICHLID~X""",6132,13449,SAMN12124110
+GCA_015110715.1,Ophthalmotilapia boops (bony fishes),Ophthalmotilapia boops,9.74,2020/10/29 00:00,"""CICHLID~X""",6124,15749,SAMN12124082
+GCA_015109235.1,Neolamprologus walteri (bony fishes),Neolamprologus walteri,9.23,2020/10/29 00:00,"""CICHLID~X""",6122,18032,SAMN12124000
+GCA_015112695.1,Petrochromis sp. 'macrognathus rainbow' AB-2019 (bony fishes),Petrochromis sp. 'macrognathus rainbow' AB-2019,9.28,2020/10/29 00:00,"""CICHLID~X""",6115,18896,SAMN12124085
+GCA_015103975.1,Lepidiolamprologus attenuatus (bony fishes),Lepidiolamprologus attenuatus,9.39,2020/10/29 00:00,"""CICHLID~X""",6114,16001,SAMN12123599
+GCA_015109835.1,Callochromis melanostigma (bony fishes),Callochromis melanostigma,10.09,2020/10/29 00:00,"""CICHLID~X""",6103,15064,SAMN12123971
+GCA_015108055.1,Petrochromis trewavasae ephippium (threadfin cichlid),Petrochromis trewavasae,7.3,2020/10/29 00:00,"""CICHLID~X""",6097,14879,SAMN12123791
+GCA_015105215.1,Paracyprichromis sp. 'brieni south' AB-2019 (bony fishes),Paracyprichromis sp. 'brieni south' AB-2019,7.74,2020/10/29 00:00,"""CICHLID~X""",6032,14447,SAMN12123708
+GCA_015109175.1,Tropheus duboisi (dwarf Tanganyikan cichlid),Tropheus duboisi,9.48,2020/10/29 00:00,"""CICHLID~X""",6025,18478,SAMN12124007
+GCA_015110955.1,Petrochromis sp. 'orthognathus ikola' AB-2019 (bony fishes),Petrochromis sp. 'orthognathus ikola' AB-2019,9.43,2020/10/29 00:00,"""CICHLID~X""",6012,18906,SAMN12124069
+GCA_015111735.1,Neolamprologus leloupi (bony fishes),Neolamprologus leloupi,9.26,2020/10/29 00:00,"""CICHLID~X""",6009,15817,SAMN12124029
+GCA_015107775.1,Petrochromis fasciolatus (bony fishes),Petrochromis fasciolatus,10.03,2020/10/29 00:00,"""CICHLID~X""",6007,18023,SAMN12123814
+GCA_015110835.1,Lepidiolamprologus kamambae (bony fishes),Lepidiolamprologus kamambae,7.45,2020/10/29 00:00,"""CICHLID~X""",5931,12370,SAMN12124077
+GCA_015107135.1,Neolamprologus sp. 'ventralis stripe' AB-2019 (bony fishes),Neolamprologus sp. 'ventralis stripe' AB-2019,10.27,2020/10/29 00:00,"""CICHLID~X""",5919,15719,SAMN12123850
+GCA_015111555.1,Bathybates ferox (bony fishes),Bathybates ferox,7.87,2020/10/29 00:00,"""CICHLID~X""",5868,11684,SAMN12124038
+GCA_015104815.1,Altolamprologus sp. 'compressiceps shell' AB-2019 (bony fishes),Altolamprologus sp. 'compressiceps shell' AB-2019,7.63,2020/10/29 00:00,"""CICHLID~X""",5857,11391,SAMN12123726
+GCA_015105515.1,Tropheus sp. 'red' AB-2019 (bony fishes),Tropheus sp. 'red' AB-2019,9.67,2020/10/29 00:00,"""CICHLID~X""",5851,17348,SAMN12123689
+GCA_015102705.1,Lepidiolamprologus kendalli (bony fishes),Lepidiolamprologus kendalli,9.98,2020/10/29 00:00,"""CICHLID~X""",5846,14692,SAMN12123670
+GCA_015102835.1,Neolamprologus mustax (bony fishes),Neolamprologus mustax,7.92,2020/10/29 00:00,"""CICHLID~X""",5833,10361,SAMN12123664
+GCA_015109895.1,Cardiopharynx schoutedeni (bony fishes),Cardiopharynx schoutedeni,9.52,2020/10/29 00:00,"""CICHLID~X""",5787,15869,SAMN12123968
+GCA_015105575.1,Cyathopharynx foae (bony fishes),Cyathopharynx foae,7.35,2020/10/29 00:00,"""CICHLID~X""",5771,12733,SAMN12123687
+GCA_900302565.1,Gadus morhua (Atlantic cod),Gadus morhua,25,2018/03/20 00:00,CEES,5765,16818,SAMEA4028801
+GCA_015113315.1,Lepidiolamprologus sp. 'meeli kipili' AB-2019 (bony fishes),Lepidiolamprologus sp. 'meeli kipili' AB-2019,9.5,2020/10/29 00:00,"""CICHLID~X""",5758,14942,SAMN12124095
+GCA_015109415.1,Chalinochromis sp. 'ndobhoi' AB-2019 (bony fishes),Chalinochromis sp. 'ndobhoi' AB-2019,8.96,2020/10/29 00:00,"""CICHLID~X""",5756,14794,SAMN12123993
+GCA_015107335.1,Lamprologus laparogramma (bony fishes),Lamprologus laparogramma,10.04,2020/10/29 00:00,"""CICHLID~X""",5747,13421,SAMN12123843
+GCA_015052245.1,Tropheus moorii (blunthead cichlid),Tropheus moorii,9.83,2020/10/28 00:00,"""CICHLID~X""",5745,17036,SAMN12123831
+GCA_015106235.1,Xenotilapia caudafasciata (bony fishes),Xenotilapia caudafasciata,10.3,2020/10/29 00:00,"""CICHLID~X""",5676,15118,SAMN12123785
+GCA_015111215.1,Neolamprologus sp. 'caudopunctatus kipili' AB-2019 (bony fishes),Neolamprologus sp. 'caudopunctatus kipili' AB-2019,8.85,2020/10/29 00:00,"""CICHLID~X""",5671,15329,SAMN12124055
+GCA_015103995.1,Lepidiolamprologus elongatus (bony fishes),Lepidiolamprologus elongatus,9.23,2020/10/29 00:00,"""CICHLID~X""",5650,14630,SAMN12123592
+GCA_015105775.1,Neolamprologus sexfasciatus (bony fishes),Neolamprologus sexfasciatus,9.61,2020/10/29 00:00,"""CICHLID~X""",5645,14986,SAMN12123678
+GCA_015104915.1,Xenotilapia singularis (bony fishes),Xenotilapia singularis,9.26,2020/10/29 00:00,"""CICHLID~X""",5621,8766,SAMN12123722
+GCA_015105915.1,Xenotilapia rotundiventralis (bony fishes),Xenotilapia rotundiventralis,9.7,2020/10/29 00:00,"""CICHLID~X""",5610,12428,SAMN12123825
+GCA_015103595.1,Xenotilapia sp. 'kilesa' AB-2019 (bony fishes),Xenotilapia sp. 'kilesa' AB-2019,8.1,2020/10/29 00:00,"""CICHLID~X""",5597,11027,SAMN12123619
+GCA_015103335.1,Trematocara nigrifrons (bony fishes),Trematocara nigrifrons,9.13,2020/10/29 00:00,"""CICHLID~X""",5584,9632,SAMN12123634
+GCA_015111995.1,Neolamprologus boulengeri (bony fishes),Neolamprologus boulengeri,10.11,2020/10/29 00:00,"""CICHLID~X""",5576,13945,SAMN12124018
+GCA_015108375.1,Neolamprologus helianthus (bony fishes),Neolamprologus helianthus,6.71,2020/10/29 00:00,"""CICHLID~X""",5565,12383,SAMN12123919
+GCA_015111365.1,Lepidiolamprologus mimicus (bony fishes),Lepidiolamprologus mimicus,9.9,2020/10/29 00:00,"""CICHLID~X""",5549,14569,SAMN12124047
+GCA_015102655.1,Telmatochromis temporalis (bony fishes),Telmatochromis temporalis,7.31,2020/10/29 00:00,"""CICHLID~X""",5514,11547,SAMN12123667
+GCA_015104445.1,Bathybates vittatus (bony fishes),Bathybates vittatus,9.66,2020/10/29 00:00,"""CICHLID~X""",5495,13354,SAMN12123748
+GCA_015107835.1,Lamprologus callipterus (bony fishes),Lamprologus callipterus,9.77,2020/10/29 00:00,"""CICHLID~X""",5492,14233,SAMN12123810
+GCA_015106875.1,Lestradea stappersii (bony fishes),Lestradea stappersii,7.1,2020/10/29 00:00,"""CICHLID~X""",5471,12131,SAMN12123873
+GCA_015103575.1,Ophthalmotilapia heterodonta (bony fishes),Ophthalmotilapia heterodonta,8.87,2020/10/29 00:00,"""CICHLID~X""",5417,10142,SAMN12123620
+GCA_015052335.1,Neolamprologus prochilus (bony fishes),Neolamprologus prochilus,9.28,2020/10/28 00:00,"""CICHLID~X""",5308,14667,SAMN12123769
+GCA_015104835.1,Trematocara marginatum (bony fishes),Trematocara marginatum,9.12,2020/10/29 00:00,"""CICHLID~X""",5283,9556,SAMN12123729
+GCA_015104315.1,Trematocara stigmaticum (bony fishes),Trematocara stigmaticum,8.02,2020/10/29 00:00,"""CICHLID~X""",5269,8618,SAMN12123754
+GCA_015110935.1,Trematocara zebra (bony fishes),Trematocara zebra,8.67,2020/10/29 00:00,"""CICHLID~X""",5170,9547,SAMN12124073
+GCA_015102895.1,Neolamprologus sp. 'kombe' AB-2019 (bony fishes),Neolamprologus sp. 'kombe' AB-2019,7.1,2020/10/29 00:00,"""CICHLID~X""",5081,10290,SAMN12123658
+GCA_001005745.2,Scleropages formosus (Asian bonytongue),Scleropages formosus,80,2015/10/13 00:00,Monash University Malaysia,5013,58849,SAMN02592717
+GCA_015052465.1,Xenotilapia sp. 'papilio sunflower' (bony fishes),Xenotilapia sp. 'papilio sunflower',9.52,2020/10/28 00:00,"""CICHLID~X""",5011,12216,SAMN12123640
+GCA_015106835.1,Lamprologus meleagris (bony fishes),Lamprologus meleagris,7.52,2020/10/29 00:00,"""CICHLID~X""",4721,8083,SAMN12123884
+GCA_015110255.1,Haplochromis burtoni (Burton's mouthbrooder),Haplochromis burtoni,6.39,2020/10/29 00:00,"""CICHLID~X""",4602,10562,SAMN12123947
+GCA_015103615.1,Chalinochromis popelini (bony fishes),Chalinochromis popelini,9.77,2020/10/29 00:00,"""CICHLID~X""",4386,9403,SAMN12123621
+GCA_900302645.1,Perca fluviatilis (European perch),Perca fluviatilis,12,2018/03/19 00:00,CEES,4140,5972,SAMEA4028817
+GCA_015112375.1,Neolamprologus cancellatus (bony fishes),Neolamprologus cancellatus,8.6,2020/10/29 00:00,"""CICHLID~X""",3614,5860,SAMN12124118
+GCA_000470695.1,Anguilla japonica (Japanese eel),Anguilla japonica,35,2014/03/18 00:00,ZF-screens B.V.,3215,52849,SAMN03004389
+GCA_900302525.1,Melanogrammus aeglefinus (haddock),Melanogrammus aeglefinus,25,2018/03/18 00:00,CEES,3215,3697,SAMEA4028796
+GCA_015110355.1,Petrochromis orthognathus (bony fishes),Petrochromis orthognathus,5.28,2020/10/29 00:00,"""CICHLID~X""",3035,5573,SAMN12123942
+GCA_015113035.1,Hemibates koningsi (bony fishes),Hemibates koningsi,13.35,2020/10/29 00:00,"""CICHLID~X""",2961,3529,SAMN12124115
+GCA_001483285.1,Danio rerio (zebrafish),Danio rerio,25,2015/12/29 00:00,University of Chicago,2585,34289,SAMN03964926
+GCA_000695075.1,Anguilla anguilla (European eel),Anguilla anguilla,20,2014/05/20 00:00,ZF-screens B.V.,2544,59657,SAMN02777865
+GCA_000231765.1,Gadus morhua (Atlantic cod),Gadus morhua,0,2011/08/26 00:00,Genofisk,2311,393166,SAMEA3138401
+GCA_000151825.1,Oryzias latipes (Japanese medaka),Oryzias latipes,0,2007/04/26 00:00,Medaka genome sequencing project,2223,25745,SAMD00036522
+GCA_000700965.1,Pimephales promelas (fathead minnow),Pimephales promelas,62,2014/06/11 00:00,DuPont,1668,15414,SAMN02418978
+GCA_004329175.1,Tenualosa ilisha (Hilsa shad),Tenualosa ilisha,110,2019/03/06 00:00,Bangladesh Agricultural University,1092,64157,SAMN07556897
+GCA_011004835.1,Esox lucius (northern pike),Esox lucius,1,2020/02/24 00:00,Vertebrate Genomes Project,243531,244209,SAMN12623624
+GCA_004028665.1,Lateolabrax maculatus (spotted sea bass),Lateolabrax maculatus,175.91,2019/01/18 00:00,Shenzhen research institute,268459,25018904,SAMN07654063
+GCA_900700395.1,Mastacembelus armatus (zig-zag eel),Mastacembelus armatus,52,2019/04/01 00:00,SC,33448,33448,SAMEA104026378
+GCA_000180815.1,Dicentrarchus labrax (European seabass),Dicentrarchus labrax,0,2010/02/12 00:00,European seabass sequencing consortium,3461,3461,SAMEA2272176
+GCA_001403095.1,Squalius pyrenaicus (bony fishes),Squalius pyrenaicus,0,2015/07/08 00:00,"Centre for Ecology, Evolution and Environmental Changes (cE3c)",1710,1710,SAMEA3416743
+GCA_000150915.1,Maylandia zebra (zebra mbuna),Maylandia zebra,0.17,2008/07/09 00:00,Cichlid Genome Consortium,1211,1359,SAMN02743804
+GCA_000182035.2,Nothobranchius furzeri (turquoise killifish),Nothobranchius furzeri,1,2015/12/16 00:00,Dept. of Genome Analysis,1191,1191,SAMN00000222
+GCA_000173855.1,Nothobranchius kuhntae (Beira killifish),Nothobranchius kuhntae,0.005,2009/03/17 00:00,"Leibniz Institute for Age Research - Fritz Lipmann Institute, Jena, Germany",990,990,SAMN02981241
+GCA_000182215.1,Nothobranchius furzeri (turquoise killifish),Nothobranchius furzeri,0.005,2009/03/17 00:00,"Leibniz Institute for Age Research - Fritz Lipmann Institute, Jena, Germany",985,985,SAMN02981240
+GCA_002933695.1,Anguilla japonica (Japanese eel),Anguilla japonica,35.8,2018/02/03 00:00,National Research Institute of Fisheries Science,524,524,SAMD00106409

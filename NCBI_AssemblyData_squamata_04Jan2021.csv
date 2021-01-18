@@ -1,0 +1,43 @@
+AssemblyAccession,Organism,SpeciesName,Coverage,SubmissionDate,SubmitterOrganization,ContigN50,ScaffoldN50,BioSample
+GCF_009819535.1,Lacerta agilis (lizards),Lacerta agilis,63.42,2019/12/31 00:00,Vertebrate Genomes Project,6613248,86565987,SAMN12629509
+GCF_009769535.1,Thamnophis elegans (Western terrestrial garter snake),Thamnophis elegans,62.12,2019/12/23 00:00,Vertebrate Genomes Project,4620601,100851885,SAMN12629499
+GCF_004329235.1,Podarcis muralis (Common wall lizard),Podarcis muralis,100,2019/03/07 00:00,CIBIO-InBIO,714612,92398148,SAMN10820182
+GCA_009733165.1,Naja naja (Indian cobra),Naja naja,60,2019/12/11 00:00,"Genentech Inc.,",302474,224088900,SAMN11155092
+GCF_011800845.1,Zootoca vivipara (common lizard),Zootoca vivipara,70,2020/04/01 00:00,University of Glasgow,219893,92810032,SAMN14329711
+GCF_000090745.1,Anolis carolinensis (green anole),Anolis carolinensis,7.1,2011/01/10 00:00,Broad Institute,79867,4033265,SAMN02981230
+GCA_003400415.2,Crotalus viridis viridis (prairie rattlesnake),Crotalus viridis,1000,2019/01/08 00:00,University of Texas at Arlington,14888,179897795,SAMN07738522
+GCA_900245905.1,Lacerta viridis (green lizard),Lacerta viridis,48,2018/04/26 00:00,German Centre for Integrative Biodiversity Research (iDiv),662519,662519,SAMEA104452607
+GCA_003586115.2,Salvator merianae (Argentine black and white tegu),Salvator merianae,134,2018/12/11 00:00,Center for Systems Biology Dresden,500019,55382274,SAMN09273531
+GCA_900245895.1,Lacerta bilineata (lizards),Lacerta bilineata,48,2018/04/26 00:00,German Centre for Integrative Biodiversity Research (iDiv),368212,368212,SAMEA104452608
+GCA_004798865.1,Varanus komodoensis (Komodo dragon),Varanus komodoensis,144,2019/04/17 00:00,Gladstone Institutes,189463,23831982,SAMN10967258
+GCF_900518735.1,Pseudonaja textilis (eastern brown snake),Pseudonaja textilis,73,2018/09/24 00:00,UNIVERSITY OF NEW SOUTH WALES,50443,14685528,SAMEA4800208
+GCA_012654045.1,Ptyas mucosa (Dhaman),Ptyas mucosa,59,2020/04/22 00:00,University of Geneva,41154,15963960,SAMN13229211
+GCA_015471245.1,Laticauda colubrina (yellow-lipped sea krait),Laticauda colubrina,43,2020/11/04 00:00,Kyoto University,38278,39959644,SAMD00134349
+GCA_012654085.1,Pantherophis obsoletus (Western rat snake),Pantherophis obsoletus,92,2020/04/22 00:00,University of Geneva,38205,14519768,SAMN13195742
+GCF_001185365.1,Pantherophis guttatus (snakes),Pantherophis guttatus,75,2020/04/13 00:00,University of Geneva,37981,16790024,SAMN12106767
+GCA_004320025.1,Laticauda laticaudata (blue-ringed sea krait),Laticauda laticaudata,133,2019/01/09 00:00,Kyoto University,35581,39330,SAMD00132327
+GCF_900067755.1,Pogona vitticeps (central bearded dragon),Pogona vitticeps,0,2017/02/28 00:00,BRAEMBL,35501,2477614,SAMEA2300447
+GCF_900518725.1,Notechis scutatus (mainland tiger snake),Notechis scutatus,71,2018/09/24 00:00,UNIVERSITY OF NEW SOUTH WALES,31763,5997050,SAMEA4800209
+GCF_001447785.1,Gekko japonicus (lizards),Gekko japonicus,95,2015/11/25 00:00,Nantong University,29575,707733,SAMN04157958
+GCF_001527695.2,Protobothrops mucrosquamatus (snakes),Protobothrops mucrosquamatus,85.9,2016/01/22 00:00,Okinawa Institute of Science and Technology,21948,424052,SAMD00043515
+GCA_003402635.1,Protobothrops flavoviridis (habu),Protobothrops flavoviridis,96,2018/08/02 00:00,"Division of Genomics, Medical Institute of Bioregulation, Kyushu University",18879,467050,SAMD00115727
+GCA_004319985.1,Emydocephalus ijimae (snakes),Emydocephalus ijimae,82,2019/01/09 00:00,Kyoto University,18545,18937,SAMD00132326
+GCA_003457575.1,Thermophis baileyi (snakes),Thermophis baileyi,185,2018/09/05 00:00,"Chengdu Institute of Biology, Chinese Academy of Sciences",18227,2413955,SAMN09279788
+GCA_014337955.1,Aspidoscelis marmoratus (Marbled whiptail),Aspidoscelis marmoratus,192,2020/08/31 00:00,Stowers Institute For Medical Research,17774,32220929,SAMN06204250
+GCA_003118565.1,Paroedura picta (lizards),Paroedura picta,75,2018/03/22 00:00,"Phyloinformatics Unit, Center for Life Science Technologies (CLST), RIKEN",15225,4106116,SAMD00069447
+GCA_000800605.1,Vipera berus berus (common viper),Vipera berus,121,2014/12/10 00:00,BCM-HGSC,11725,126452,SAMN02780930
+GCF_000186305.1,Python bivittatus (Burmese python),Python bivittatus,20,2013/09/15 00:00,"The Consortium for Comparative Genomics, UC Denver",10658,213970,SAMN02981298
+GCF_001077635.1,Thamnophis sirtalis (snakes),Thamnophis sirtalis,72,2015/06/26 00:00,The Genome Institute at Washington University School of Medicine (WUGSC),10447,647592,SAMN03759628
+GCA_004320005.1,Hydrophis melanocephalus (snakes),Hydrophis melanocephalus,155,2019/02/13 00:00,Kyoto University,7411,59810,SAMD00134211
+GCA_001625485.1,Crotalus horridus (timber rattlesnake),Crotalus horridus,135,2016/04/21 00:00,Douglas Rhoads,5835,23829,SAMN01815951
+GCA_000516915.1,Ophiophagus hannah (king cobra),Ophiophagus hannah,28,2013/12/11 00:00,Naturalis Biodiversity Center,5201,241519,SAMN02439592
+GCA_000737285.1,Crotalus pyrrhus (snakes),Crotalus pyrrhus,40,2014/08/01 00:00,Reed College,4103,5299,SAMN02918464
+GCA_004023725.1,Hydrophis cyanocinctus (Asian annulated sea snake),Hydrophis cyanocinctus,100,2019/01/15 00:00,Second Military Medical University,3626,7437,SAMN10441167
+GCA_004023765.1,Hydrophis hardwickii (Hardwick's sea snake),Hydrophis hardwickii,86,2019/01/15 00:00,Second Military Medical University,2852,5391,SAMN10441168
+GCA_014706415.1,Podarcis muralis nigriventris (Common wall lizard),Podarcis muralis,90,2020/09/23 00:00,Lund University,8570969,51203085,SAMN16078633
+GCA_009769695.1,Thamnophis elegans (Western terrestrial garter snake),Thamnophis elegans,62.12,2019/12/19 00:00,Vertebrate Genomes Project,432811,440193,SAMN12629499
+GCA_009819545.1,Lacerta agilis (lizards),Lacerta agilis,63.42,2019/12/23 00:00,Vertebrate Genomes Project,365044,365044,SAMN12629509
+GCA_900608585.1,Pseudonaja textilis (eastern brown snake),Pseudonaja textilis,73,2020/11/22 00:00,UNIVERSITY OF NEW SOUTH WALES,54646,17062011,SAMEA4800208
+GCA_900608555.1,Notechis scutatus (mainland tiger snake),Notechis scutatus,71,2020/11/22 00:00,UNIVERSITY OF NEW SOUTH WALES,37180,8497191,SAMEA4800209
+GCA_007859595.1,Varanus komodoensis (Komodo dragon),Varanus komodoensis,30,2019/08/07 00:00,Edward Via College of Osteopathic Medicine,37135,23221552,SAMN10030706
+GCA_004320045.1,Laticauda colubrina (yellow-lipped sea krait),Laticauda colubrina,44.7,2019/01/09 00:00,Kyoto University,26721,3139541,SAMD00134349

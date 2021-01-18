@@ -1,0 +1,9 @@
+AssemblyAccession,Organism,SpeciesName,Coverage,SubmissionDate,SubmitterOrganization,ContigN50,ScaffoldN50,BioSample
+GCF_001723895.1,Crocodylus porosus (Australian saltwater crocodile),Crocodylus porosus,74,2016/09/13 00:00,Mississippi State University,34073,84437661,SAMN03102602
+GCF_000455745.1,Alligator sinensis (Chinese alligator),Alligator sinensis,109,2013/08/29 00:00,BGI-shenzhen,23412,2188296,SAMN02981559
+GCF_000281125.3,Alligator mississippiensis (American alligator),Alligator mississippiensis,156,2016/03/28 00:00,International Crocodilian Genomes Working Group,16665,18600682,SAMN02981418
+GCF_001723915.1,Gavialis gangeticus (Gharial),Gavialis gangeticus,81,2016/09/13 00:00,The International Crocodilian Genomes Working Group,14799,96076944,SAMN03102901
+GCA_000768395.2,Crocodylus porosus (Australian saltwater crocodile),Crocodylus porosus,74,2020/02/05 00:00,The International Crocodilian Genomes Working Group,32925,7557493,SAMN03102602
+GCA_001541155.1,Alligator mississippiensis (American alligator),Alligator mississippiensis,156,2016/01/26 00:00,Dovetail Genomics,16665,18600682,SAMN02981418
+GCA_001541185.1,Alligator mississippiensis (American alligator),Alligator mississippiensis,156,2016/01/26 00:00,Dovetail Genomics,16660,81369,SAMN02981418
+GCA_000775435.1,Gavialis gangeticus (Gharial),Gavialis gangeticus,81,2014/11/14 00:00,The International Crocodilian Genomes Working Group,14195,100817,SAMN03102901
