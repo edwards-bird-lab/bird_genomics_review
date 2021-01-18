@@ -1,7 +1,7 @@
 # What have we learned from the first 500 avian genomes? <br /> Annu. Rev. Ecol. Syst. Evol
 
 G. A. Bravo, C. J. Schmitt, S. V. Edwards 
-01/05/2021
+01/17/2021
 
 ## This script creates figure 2 - a plot showing the number of loci (on a natural log scale) through time for avian phylogenomic studies
 
