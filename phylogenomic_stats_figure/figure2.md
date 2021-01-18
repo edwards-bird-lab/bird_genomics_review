@@ -52,5 +52,5 @@ ggplot(data=phylogenomic_stats) +
                    min.segment.length = unit(0, 'lines'), cex=2) +
   theme_bw()
 ```
-Figure 2:
+Figure 2: \
 ![Figure 2](https://github.com/schmitt8/bird_genomics_review/blob/main/phylogenomic_stats_figure/Fig2.png)
