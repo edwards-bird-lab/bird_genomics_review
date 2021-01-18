@@ -3,7 +3,7 @@
 G. A. Bravo, C. J. Schmitt, S. V. Edwards 
 01/17/2021
 
-## This script recreates figure 2 - a plot showing the number of loci (on a natural log scale) through time for avian phylogenomic studies
+## This script recreates figure 2 - Increase in the number of loci analyzed in phylogenetic studies of birds through time, based on a query conducted via the Web of Science portal on 31 December 2020 with the following search terms: “bird*” and “genom*” and “phylogen*”. A small number of papers not detected by the query were included manually. Each point represents a dataset from a published paper (multiple points per paper in some cases) and are color-coded according to marker type. The shape of each point indicates whether loci were derived a priori or a posterior. Finally, a small amount of ‘jitter’ was added to minimize overlapping points and improve visualization.
 
 The data: phylogenomic_stats.csv
 
