@@ -1,8 +1,13 @@
-What have we learned from the first 500 avian genomes? <br> Annu.
-Rev. Ecol. Syst. Evol
-================
-G. A. Bravo, C. J. Schmitt, S. V. Edwards
-01/05/2021
+---
+title: "What have we learned from the first 500 avian genomes? <br> Annu. Rev. Ecol. Syst. Evol"
+author: "G. A. Bravo, C. J. Schmitt, S. V. Edwards"
+reference: ""
+date: "01/05/2021"
+output:
+  github_document: default
+  html_document: default
+  pdf_document: default
+---
 
 <style type="text/css">
 
@@ -47,43 +52,29 @@ pre { /* Code block - determines code spacing between lines */
 
 **Nuclear Genomes**
 
-There are three separate tables for each **group** (aves,
-amphibia,choncrichthyes, crocodylia, mammalia, osteichthyes, squamata,
-testudines):
+There are three separate tables for each **group** (aves, amphibia,choncrichthyes, crocodylia, mammalia, osteichthyes, squamata, testudines):
 
-1.  NCBI\_**group**\_Genomes\_04Jan2021.csv: Table containing general
-    information for whole nuclear genomes \[04 January 2020 -
-    <https://www.ncbi.nlm.nih.gov/genome/browse/#!/eukaryotes/>\]
+1. NCBI_**group**_Genomes_04Jan2021.csv: Table containing general information for whole nuclear genomes [04 January 2020 - https://www.ncbi.nlm.nih.gov/genome/browse/#!/eukaryotes/]
 
-These files were merged into **NCBI\_all\_Genomes\_04Jan2021.csv**
+These files were merged into **NCBI_all_Genomes_04Jan2021.csv**
 
-2.  NCBI\_AssemblyData.csv\_**group**\_04Jan2021.csv: Table containing
-    ContigN50 and ScaffoldN50 \[04 January 2020 -
-    <https://www.ncbi.nlm.nih.gov/assembly/> - with search parameter
-    just the name of the vertebrate class\] For birds, information about
-    sequencing technology was extracted from assembly reports.
+2. NCBI_AssemblyData.csv_**group**_04Jan2021.csv: Table containing ContigN50 and ScaffoldN50 [04 January 2020 - https://www.ncbi.nlm.nih.gov/assembly/ - with search parameter just the name of the vertebrate class]
+For birds, information about sequencing technology was extracted from assembly reports.
 
-These files were merged into **NCBI\_AssemblyData\_all\_04Jan2021.csv**
+These files were merged into **NCBI_AssemblyData_all_04Jan2021.csv**
 
 **Mitogenomes**
 
-There are three separate tables for each **group** (aves,
-amphibia,choncrichthyes, crocodylia, mammalia, osteichthyes, squamata,
-testudines):
+There are three separate tables for each **group** (aves, amphibia,choncrichthyes, crocodylia, mammalia, osteichthyes, squamata, testudines):
 
-3.  NCBI\_mitogenomes\_**group**\_03Jan2021.csv: Table containing
-    information for mitogenomes \[03 January 2021 -
-    <https://www.ncbi.nlm.nih.gov/nuccore/> - with the following search
-    criteria: “\[taxon\_name\] mitochondrion genome” and selecting the
-    following filters on the far left panel: Genetic Compartments =
-    Mitochondrion and Sequence Length = 15500-30000\]
+3. NCBI_mitogenomes_**group**_03Jan2021.csv: Table containing information for mitogenomes [03 January 2021 - https://www.ncbi.nlm.nih.gov/nuccore/ - with the following search criteria: “[taxon_name] mitochondrion genome” and selecting the following filters on the far left panel: Genetic Compartments = Mitochondrion and Sequence Length = 15500-30000]
 
-These files were merged into
-**NCBI\_mitogenomes\_all\_03Jan2021.csv**
+These files were merged into **NCBI_mitogenomes_all_03Jan2021.csv**
 
-# 1\. Setting working directory and loading packages:
 
-``` r
+# 1. Setting working directory and loading packages:
+
+```{r, message=FALSE, warning = FALSE}
 setwd("~/Dropbox/AREES_review_2020/R_AREES_review_2020/bird_genomics_review/genome_stats_figure/")
 library(tidyverse)
 library(knitr)
@@ -91,17 +82,17 @@ library(scales)
 library(ggthemes)
 ```
 
-# 2\. Reading Data
+# 2. Reading Data
 
-``` r
+```{r, message=FALSE, warning = FALSE}
 genomes <- tbl_df(read.csv("NCBI_all_Genomes_04Jan2021.csv", header = T)) 
 mitogenomes <- tbl_df(read.csv("NCBI_mitogenomes_all_03Jan2021.csv", header = T))
 assembly_stats <- tbl_df(read.csv("NCBI_AssemblyData_all_04Jan2021.csv", header = T)) 
 ```
 
-# 3\. Cumulative number of genomes per year
+# 3. Cumulative number of genomes per year
 
-``` r
+```{r, message=FALSE, warning = FALSE}
 genomes_by_year <- genomes %>% group_by(X.Organism.Name) %>% filter(ReleaseOrder==min(ReleaseOrder)) %>% group_by(Year,Organism.Groups) %>% tally() %>% group_by(Organism.Groups) %>% mutate(cum=cumsum(n))
 
 breaks <- seq(2002,2020,by=3)
@@ -120,11 +111,8 @@ plot_genomes_year <- ggplot(genomes_by_year, aes(x=Year, y=cum)) +
 plot_genomes_year
 ```
 
-![](01_NCBI_Genome_Plots_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
-
-# 4\. Cumulative number of mitogenomes per year
-
-``` r
+# 4. Cumulative number of mitogenomes per year
+```{r, message=FALSE, warning = FALSE}
 mitogenomes_by_year <- mitogenomes %>% group_by(organism) %>% filter(ReleaseOrder==min(ReleaseOrder)) %>% group_by(year,Organism.Groups) %>% tally() %>% group_by(Organism.Groups) %>% mutate(cum=cumsum(n))
 
 breaks <- seq(1990,2020,by=3)
@@ -142,11 +130,10 @@ plot_mitogenomes_year <- ggplot(mitogenomes_by_year, aes(x=year, y=cum)) +
 plot_mitogenomes_year
 ```
 
-![](01_NCBI_Genome_Plots_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
+# 5. Contig N50 per year across avian assemblies
 
-# 5\. Contig N50 per year across avian assemblies
+```{r, message=FALSE, warning = FALSE}
 
-``` r
 genome_stats_aves <- assembly_stats %>% filter(Organism.Groups == "Aves")
 coefs_C50 <- coef(lm(log(ContigN50) ~ SubmissionYear, data = genome_stats_aves))
 
@@ -161,11 +148,9 @@ plot_contigN50_year <- ggplot(genome_stats_aves, aes(x=SubmissionYear, y=log(Con
 plot_contigN50_year
 ```
 
-![](01_NCBI_Genome_Plots_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
+# 6. Scaffold N50 vs Contig N50 across avian assemblies
 
-# 6\. Scaffold N50 vs Contig N50 across avian assemblies
-
-``` r
+```{r, message=FALSE, warning = FALSE}
 plot_scaffoldN50_contigN50_year <- ggplot(genome_stats_aves, aes(x=log(ScaffoldN50), y=log(ContigN50), color=long_reads)) +
   geom_point() +
   scale_color_manual(values = c("#E69F00","#56B4E9"),na.value = "#767676") +
@@ -177,4 +162,5 @@ plot_scaffoldN50_contigN50_year <- ggplot(genome_stats_aves, aes(x=log(ScaffoldN
 plot_scaffoldN50_contigN50_year
 ```
 
-![](01_NCBI_Genome_Plots_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->
+
+
