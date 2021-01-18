@@ -3,7 +3,7 @@
 G. A. Bravo, C. J. Schmitt, S. V. Edwards 
 01/17/2021
 
-## This script creates figure 2 - a plot showing the number of loci (on a natural log scale) through time for avian phylogenomic studies
+## This script recreates figure 2 - a plot showing the number of loci (on a natural log scale) through time for avian phylogenomic studies
 
 The data: phylogenomic_stats.csv
 
