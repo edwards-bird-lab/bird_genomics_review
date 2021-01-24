@@ -144,4 +144,4 @@ fig2 <- plot_grid(fig2, legend_a, ncol = 1, rel_heights = c(.5, .075))
 fig2
 ```
 Figure 2: \
-
+![Figure 2](https://github.com/edwards-bird-lab/bird_genomics_review/blob/main/phylogenomic_stats_figure/Fig2.png)
