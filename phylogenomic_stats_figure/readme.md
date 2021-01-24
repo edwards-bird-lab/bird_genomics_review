@@ -23,12 +23,6 @@ phylogenomic_stats <- read.csv("/Users/schmitty/Documents/CJS/projects/bird_geno
 phylogenomic_stats$n_loci <- as.numeric(phylogenomic_stats$n_loci)
 phylogenomic_stats$n_spp <- as.numeric(phylogenomic_stats$n_spp)
 
-## filter out Lawal et al. 2020, which used SNPs of unknown type
-## filter out 49 gene dataset of Bautista et al. 2020, which was of unknown type. note that the UCE dataset of Bautista is still in the figure
-phylogenomic_stats <- phylogenomic_stats %>%
-  filter(loci_type != "?") %>%
-  filter(loci_type != "non-UCE, non-coding")
-
 ## plot log # of loci by year and color points by marker type
 fig2a <- ggplot(data=phylogenomic_stats) +
   geom_smooth(aes(x=year,
