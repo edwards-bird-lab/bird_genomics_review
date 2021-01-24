@@ -86,7 +86,6 @@ fig2b <- ggplot(data=phylogenomic_stats) +
   theme_bw() +
   theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())
 
-
 # arrange the three plots in a single row
 fig2 <- plot_grid( fig2a + theme(legend.position="none"),
                    fig2b + theme(legend.position="none"),
@@ -103,10 +102,6 @@ legend_a <- get_legend(fig2a + theme(legend.box.margin = margin(0, 0, 0, 0)))
 # of one plot (via rel_heights).
 fig2 <- plot_grid(fig2, legend_a, nrow = 1, rel_widths = c(1.5, .4))
 fig2
-
-
-
-
 
 # arrange the three plots in a single row
 fig2 <- plot_grid( fig2a + theme(legend.position="none"),
