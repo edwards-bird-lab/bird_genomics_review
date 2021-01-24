@@ -14,6 +14,7 @@ The R code:
 library(tidyverse)
 library(ggthemes)
 library(ggrepel)
+library(cowplot)
 
 ## load dataset
 phylogenomic_stats <- read.csv("/Users/schmitty/Documents/CJS/projects/bird_genome_review/phylogenomic_stats.csv")
@@ -22,16 +23,19 @@ phylogenomic_stats <- read.csv("/Users/schmitty/Documents/CJS/projects/bird_geno
 phylogenomic_stats$n_loci <- as.numeric(phylogenomic_stats$n_loci)
 phylogenomic_stats$n_spp <- as.numeric(phylogenomic_stats$n_spp)
 
-## plot natural log # of loci by year and color points by marker type
-ggplot(data=phylogenomic_stats) +
+## filter out Lawal et al. 2020, which used SNPs of unknown type
+## filter out 49 gene dataset of Bautista et al. 2020, which was of unknown type. note that the UCE dataset of Bautista is still in the figure
+phylogenomic_stats <- phylogenomic_stats %>%
+  filter(loci_type != "?") %>%
+  filter(loci_type != "non-UCE, non-coding")
+
+## plot log # of loci by year and color points by marker type
+fig2a <- ggplot(data=phylogenomic_stats) +
   geom_smooth(aes(x=year, y=log(n_loci)), method = 'glm', color = "black") +
-  geom_point(aes(x=year, y=log(n_loci), fill=loci_type, shape = priori_posteriori),
-             position = position_jitter(width = 0.1, height = 0.5, seed=8),
-             size=2,
-             width = .3,
-             height = .3,
-             alpha = .75) +
-  labs(x="Year", y="log ( number of loci )") +
+  #geom_point(aes(x=year, y=log(n_loci), fill=loci_type, shape = priori_posteriori), size=2, width = .3, height = .3, alpha = .75) +
+  geom_point(aes(x=year, y=log(n_loci), fill=loci_type, shape = priori_posteriori), position = position_jitter(width = 0.1, height = 0.5, seed=8), size=2, alpha = .75) +
+  #geom_jitter(aes(x=year, y=log(n_loci), fill=loci_type, shape = priori_posteriori), size=2, width = .3, height = .3, alpha = .75) +
+  labs(x="Year", y="ln ( number of loci )") +
   scale_fill_manual(values = c("3' UTR" = colorblind_pal()(8)[1],
                                "CNEE" = colorblind_pal()(8)[2],
                                "exon" = colorblind_pal()(8)[3],
@@ -41,18 +45,86 @@ ggplot(data=phylogenomic_stats) +
                                "TE (presence/absence)" = colorblind_pal()(8)[7],
                                "UCE" = colorblind_pal()(8)[8])) +
   scale_shape_manual(values = c(24,21)) +
-  guides(fill=guide_legend(title="Marker Type", override.aes=list(shape=21)),
-         shape=guide_legend(title = "Marker Derivation")) +
+  guides(fill=guide_legend(title="Marker Type",
+                           title.position="top",
+                           title.hjust = 0.5,
+                           nrow = 1,
+                           override.aes=list(shape=21)),
+         shape=guide_legend(title = "Marker Derivation",
+                            title.position="top",
+                            nrow = 1,
+                            title.hjust = 0.5)) +
   scale_x_continuous(breaks=seq(2008,2020,4), labels=seq(2008,2020,4)) +
-  geom_label_repel(aes(x=year, y=log(n_loci), label = citation_for_plot),
-                   position = position_jitter(width = 0.1, height = 0.5, seed=8),
-                   box.padding = 0.75,
-                   point.padding = 0.5,
-                   segment.color = 'grey50',
-                   min.segment.length = unit(0, 'lines'),
-                   cex=2) +
+  geom_label_repel(aes(x=year, y=log(n_loci), label = citation_for_plot), position = position_jitter(width = 0.1, height = 0.5, seed=8), box.padding = .75, point.padding = 0.5, segment.color = 'grey50', min.segment.length = unit(0, 'lines'), cex=2) +
+  theme_bw() +
+  theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank()) #, legend.background = element_rect(color = "black"))
+
+## plot log # of loci by log # of spp and color points by marker type
+fig2b <- ggplot(data=phylogenomic_stats) + 
+  geom_smooth(aes(x = log(n_spp), y = log(n_loci)), method = 'glm', color = "black") +
+  geom_point(aes(x = log(n_spp), y = log(n_loci), fill = loci_type, shape = priori_posteriori), position = position_jitter(width = 0.2, height = 0.5, seed=8)) +
+  labs(x="ln ( number of species)", y="ln ( number of loci )") +
+  scale_fill_manual(values = c("3' UTR" = colorblind_pal()(8)[1],
+                               "CNEE" = colorblind_pal()(8)[2],
+                               "exon" = colorblind_pal()(8)[3],
+                               "indel" = colorblind_pal()(8)[4],
+                               "intron" = colorblind_pal()(8)[5],
+                               "RADseq" = colorblind_pal()(8)[6],
+                               "TE (presence/absence)" = colorblind_pal()(8)[7],
+                               "UCE" = colorblind_pal()(8)[8])) +
+  scale_shape_manual(values = c(24,21)) +
+  guides(fill=guide_legend(title="Marker Type",
+                           override.aes=list(shape=21),
+                           title.position="top",
+                           nrow = 1,
+                           title.hjust = 0.5),
+         shape=guide_legend(title = "Marker Derivation",
+                            title.position="top",
+                            nrow = 1,
+                            title.hjust = 0.5)) +
+  geom_label_repel(aes(x=log(n_spp), y=log(n_loci), label = citation_for_plot), position = position_jitter(width = 0.2, height = 0.5, seed=8), box.padding = .75, point.padding = 0.5, segment.color = 'grey50', min.segment.length = unit(0, 'lines'), cex=2) +
   theme_bw() +
   theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())
+
+
+# arrange the three plots in a single row
+fig2 <- plot_grid( fig2a + theme(legend.position="none"),
+                   fig2b + theme(legend.position="none"),
+                   align = "h",
+                   hjust = -1,
+                   ncol = 1)
+
+# extract the legend from one of the plots
+# (clearly the whole thing only makes sense if all plots
+# have the same legend, so we can arbitrarily pick one.)
+legend_a <- get_legend(fig2a + theme(legend.box.margin = margin(0, 0, 0, 0)))
+
+# add the legend underneath the row we made earlier.
+# of one plot (via rel_heights).
+fig2 <- plot_grid(fig2, legend_a, nrow = 1, rel_widths = c(1.5, .4))
+fig2
+
+
+
+
+
+# arrange the three plots in a single row
+fig2 <- plot_grid( fig2a + theme(legend.position="none"),
+                   fig2b + theme(legend.position="none"),
+                   align = "vh",
+                   labels = c("A", "B"),
+                   hjust = -1,
+                   nrow = 1)
+
+# extract the legend from one of the plots
+# (clearly the whole thing only makes sense if all plots
+# have the same legend, so we can arbitrarily pick one.)
+legend_a <- get_legend(fig2a + theme(legend.position = "bottom"))
+
+# add the legend underneath the row we made earlier
+# of one plot (via rel_heights).
+fig2 <- plot_grid(fig2, legend_a, ncol = 1, rel_heights = c(.5, .075))
+fig2
 ```
 Figure 2: \
 ![Figure 2](https://github.com/edwards-bird-lab/bird_genomics_review/blob/main/phylogenomic_stats_figure/Fig2.png)
