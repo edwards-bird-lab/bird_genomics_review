@@ -128,12 +128,10 @@ fig2 <- plot_grid( fig2a + theme(legend.position="none"),
                    nrow = 1)
 
 # extract the legend from one of the plots
-# (clearly the whole thing only makes sense if all plots
-# have the same legend, so we can arbitrarily pick one.)
+# clearly the whole thing only makes sense if all plots have the same legend, in this case they do so just pick one
 legend_a <- get_legend(fig2a + theme(legend.position = "bottom"))
 
-# add the legend underneath the row we made earlier
-# of one plot (via rel_heights).
+# add the legend underneath the plots
 fig2 <- plot_grid(fig2, legend_a, ncol = 1, rel_heights = c(.5, .075))
 fig2
 ```
