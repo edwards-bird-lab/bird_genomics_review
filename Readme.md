@@ -1,5 +1,5 @@
 # What have we learned from the first 500 avian genomes?
-### Annu. Rev. Ecol. Syst. Evol – In review.
+### Annu. Rev. Ecol. Syst. Evol – In press.
 ##### G. A. Bravo, C. J. Schmitt, S. V. Edwards
 #
 This repository contains relevant information for our review paper on the advances in bird genomics. Specifically, it contains:
