@@ -4,45 +4,6 @@ Rev. Ecol. Syst. Evol
 G. A. Bravo, C. J. Schmitt, S. V. Edwards
 01/05/2021
 
-<style type="text/css">
-
-body{ /* Normal  */
-      font-size: 14px;
-  }
-td {  /* Table  */
-  font-size: 10px;
-}
-h1.title {
-  font-size: 22px;
-  color: DarkBlue;
-  font-family: Arial, Helvetica, sans-serif;
-}
-h1 { /* Header 1 */
-  font-size: 18px;
-  font-weight: bold;
-  font-family: Arial, Helvetica, sans-serif;
-}
-h2 { /* Header 2 */
-  font-size: 16px;
-  font-family: Arial, Helvetica, sans-serif;
-  font-style: oblique;
-}
-h3 { /* Header 3 */
-  font-size: 14px;
-  font-family: Arial, Helvetica, sans-serif;
-  font-style: oblique;
-}
-code.r{ /* Code block */
-    font-size: 14px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-stretch: expanded;
-}
-pre { /* Code block - determines code spacing between lines */
-    font-size: 14px;
-    font-family: Arial, Helvetica, sans-serif;
-}
-</style>
-
 # **This script creates summary plots of the associated information from genomes housed at NCBI**
 
 **Nuclear Genomes**
