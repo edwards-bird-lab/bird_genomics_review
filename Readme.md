@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/327384700.svg)](https://zenodo.org/badge/latestdoi/327384700)
+
 # What have we learned from the first 500 avian genomes?
 ### Annu. Rev. Ecol. Syst. Evol – In press.
 ##### G. A. Bravo, C. J. Schmitt, S. V. Edwards
